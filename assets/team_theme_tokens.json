@@ -1,0 +1,207 @@
+{
+  "neutral": {
+    "background": "#0A1020",
+    "surface": "#101A2D",
+    "primary": "#EFC26E",
+    "accent": "#76B9EC",
+    "dark": "#080D17",
+    "text_on_primary": "#07111E",
+    "chart_palette": [
+      "#EFC26E",
+      "#76B9EC",
+      "#31C48D",
+      "#F1A572"
+    ],
+    "hero_gradient": [
+      "#131D33",
+      "#0A1020"
+    ]
+  },
+  "teams": {
+    "CSK": {
+      "primary": "#F6C445",
+      "accent": "#2855A4",
+      "dark": "#111B36",
+      "text_on_primary": "#0B1627",
+      "chart_palette": [
+        "#F6C445",
+        "#2855A4",
+        "#FFD977",
+        "#92BEF2"
+      ],
+      "hero_gradient": [
+        "#111B36",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_csk",
+      "theme_scope": "team_page_only"
+    },
+    "MI": {
+      "primary": "#1764B6",
+      "accent": "#E8C16A",
+      "dark": "#071B3A",
+      "text_on_primary": "#FFFFFF",
+      "chart_palette": [
+        "#1764B6",
+        "#E8C16A",
+        "#7EBEF0",
+        "#A0D9F5"
+      ],
+      "hero_gradient": [
+        "#071B3A",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_mi",
+      "theme_scope": "team_page_only"
+    },
+    "RCB": {
+      "primary": "#C83040",
+      "accent": "#D8B76C",
+      "dark": "#190D17",
+      "text_on_primary": "#FFFFFF",
+      "chart_palette": [
+        "#C83040",
+        "#D8B76C",
+        "#FF7C86",
+        "#5A6272"
+      ],
+      "hero_gradient": [
+        "#190D17",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_rcb",
+      "theme_scope": "team_page_only"
+    },
+    "KKR": {
+      "primary": "#633A9E",
+      "accent": "#D9B35A",
+      "dark": "#151127",
+      "text_on_primary": "#FFFFFF",
+      "chart_palette": [
+        "#633A9E",
+        "#D9B35A",
+        "#AB8EDF",
+        "#E7D198"
+      ],
+      "hero_gradient": [
+        "#151127",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_kkr",
+      "theme_scope": "team_page_only"
+    },
+    "SRH": {
+      "primary": "#EE7A2D",
+      "accent": "#F2C66F",
+      "dark": "#241512",
+      "text_on_primary": "#09121B",
+      "chart_palette": [
+        "#EE7A2D",
+        "#F2C66F",
+        "#FFAD6B",
+        "#57545A"
+      ],
+      "hero_gradient": [
+        "#241512",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_srh",
+      "theme_scope": "team_page_only"
+    },
+    "RR": {
+      "primary": "#E875B8",
+      "accent": "#3763B4",
+      "dark": "#17122E",
+      "text_on_primary": "#0C1424",
+      "chart_palette": [
+        "#E875B8",
+        "#3763B4",
+        "#F2B0D8",
+        "#93B8EC"
+      ],
+      "hero_gradient": [
+        "#17122E",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_rr",
+      "theme_scope": "team_page_only"
+    },
+    "DC": {
+      "primary": "#2C62B1",
+      "accent": "#E0454E",
+      "dark": "#0A1530",
+      "text_on_primary": "#FFFFFF",
+      "chart_palette": [
+        "#2C62B1",
+        "#E0454E",
+        "#8BBFF3",
+        "#F29B9E"
+      ],
+      "hero_gradient": [
+        "#0A1530",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_dc",
+      "theme_scope": "team_page_only"
+    },
+    "PBKS": {
+      "primary": "#D83947",
+      "accent": "#B7BECF",
+      "dark": "#250F1B",
+      "text_on_primary": "#FFFFFF",
+      "chart_palette": [
+        "#D83947",
+        "#B7BECF",
+        "#FF848B",
+        "#677187"
+      ],
+      "hero_gradient": [
+        "#250F1B",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_pbks",
+      "theme_scope": "team_page_only"
+    },
+    "GT": {
+      "primary": "#243C57",
+      "accent": "#66A9AE",
+      "dark": "#0D1A2C",
+      "text_on_primary": "#FFFFFF",
+      "chart_palette": [
+        "#66A9AE",
+        "#C0CCDA",
+        "#437D95",
+        "#DBB582"
+      ],
+      "hero_gradient": [
+        "#0D1A2C",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_gt",
+      "theme_scope": "team_page_only"
+    },
+    "LSG": {
+      "primary": "#4BBFD5",
+      "accent": "#EC8A43",
+      "dark": "#122F43",
+      "text_on_primary": "#071C2A",
+      "chart_palette": [
+        "#4BBFD5",
+        "#EC8A43",
+        "#82DDE9",
+        "#D0C5F3"
+      ],
+      "hero_gradient": [
+        "#122F43",
+        "#0A1020"
+      ],
+      "logo_asset_id": "team_logo_lsg",
+      "theme_scope": "team_page_only"
+    }
+  },
+  "notes": [
+    "Design candidates rather than legally certified brand hex codes. Confirm against rights-approved artwork.",
+    "Use neutral background and colored accent for readability.",
+    "Palettes may be tuned for accessible contrast."
+  ]
+}

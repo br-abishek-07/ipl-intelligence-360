@@ -1,0 +1,9 @@
+# Dashboard runtime (Python 3.11-3.14): ML models load from portable JSON.
+# scikit-learn and joblib are NOT required to operate the prediction page.
+streamlit>=1.39,<2
+pandas>=2.1,<3
+numpy>=1.26,<3
+plotly>=5.22,<7
+
+# V3-F offline PDF reports
+reportlab>=4.2,<5

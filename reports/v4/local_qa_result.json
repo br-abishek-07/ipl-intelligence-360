@@ -1,0 +1,30 @@
+{
+  "release": "IPL Intelligence 360 V4 Submission Edition",
+  "preflight_pass": true,
+  "checks": {
+    "required_files_present": true,
+    "frozen_models_and_tables_unchanged": true,
+    "python_syntax": true,
+    "no_obvious_hardcoded_credentials": true,
+    "matches_count_1243": true,
+    "unique_match_ids": true,
+    "seasons_2008_to_2026": true,
+    "at_least_ten_teams": true,
+    "source_tables_load": true,
+    "matched_results_consistent": true,
+    "data_load_seconds": 0.009,
+    "coaching_era_entries": 31,
+    "source_zip_integrity": true,
+    "cloud_files_ready": true,
+    "browser_verified": false,
+    "deployed_url_verified": false,
+    "duration_seconds": 0.27
+  },
+  "errors": [],
+  "warnings": [],
+  "pending": [
+    "Windows browser acceptance",
+    "Live cloud deploy and URL verification",
+    "Independent future-season model validation"
+  ]
+}

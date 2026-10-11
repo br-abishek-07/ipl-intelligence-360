@@ -1,0 +1,117 @@
+{
+  "purpose": "retrospective research only; not a fifth production model; same-cohort 2025-2026 comparisons",
+  "evaluation_warning": "2025-2026 have been investigated in earlier development; these results are NOT independently untouched future validation",
+  "data_cutoff": "All player rates use earlier SEASONS only, not same season or future seasons",
+  "rate_definitions": "Prior IPL batter SR with 100-ball 130 SR smoothing; bowler runs per six legal balls with 120-ball 8.7-run smoothing. Charged runs approximated from batsman plus wides/no-balls.",
+  "not_next_ball_info": "At each checkpoint player actors are from last completed delivery; may not be at crease/current bowler for next delivery.",
+  "models": [
+    {
+      "checkpoint_legal_balls": 60,
+      "train_matches": 1051,
+      "test_matches": 138,
+      "test_seasons": [
+        2025,
+        2026
+      ],
+      "model_with_prior_player_context": {
+        "n": 138,
+        "accuracy": 0.782608695652174,
+        "auc": 0.8985042735042735,
+        "brier": 0.13277195736683817,
+        "log_loss": 0.4128957798232142,
+        "majority_baseline": 0.5652173913043478
+      },
+      "existing_scoreboard_model": {
+        "n": 138,
+        "accuracy": 0.8115942028985508,
+        "auc": 0.9001068376068377,
+        "brier": 0.13607573533670247,
+        "log_loss": 0.4222934527193193,
+        "majority_baseline": 0.5652173913043478
+      },
+      "existing_team_venue_research_model": {
+        "n": 138,
+        "accuracy": 0.7753623188405797,
+        "auc": 0.8918803418803419,
+        "brier": 0.14250055128737393,
+        "log_loss": 0.44089632199644757,
+        "majority_baseline": 0.5652173913043478
+      },
+      "player_prior_history_from": "complete earlier IPL seasons only; excluded current season, all subsequent seasons, and live match beyond checkpoint",
+      "player_state": "last-delivered-ball striker, non-striker and bowler (not guaranteed next-ball participants)",
+      "model_deployable": false
+    },
+    {
+      "checkpoint_legal_balls": 90,
+      "train_matches": 990,
+      "test_matches": 132,
+      "test_seasons": [
+        2025,
+        2026
+      ],
+      "model_with_prior_player_context": {
+        "n": 132,
+        "accuracy": 0.8333333333333334,
+        "auc": 0.9331314072693383,
+        "brier": 0.10715086380789408,
+        "log_loss": 0.3274896842451813,
+        "majority_baseline": 0.5606060606060606
+      },
+      "existing_scoreboard_model": {
+        "n": 132,
+        "accuracy": 0.8939393939393939,
+        "auc": 0.9531686859273066,
+        "brier": 0.08746057203199016,
+        "log_loss": 0.27855098511522036,
+        "majority_baseline": 0.5606060606060606
+      },
+      "existing_team_venue_research_model": {
+        "n": 132,
+        "accuracy": 0.8863636363636364,
+        "auc": 0.9396551724137931,
+        "brier": 0.10016926455460848,
+        "log_loss": 0.3110832046565038,
+        "majority_baseline": 0.5606060606060606
+      },
+      "player_prior_history_from": "complete earlier IPL seasons only; excluded current season, all subsequent seasons, and live match beyond checkpoint",
+      "player_state": "last-delivered-ball striker, non-striker and bowler (not guaranteed next-ball participants)",
+      "model_deployable": false
+    },
+    {
+      "checkpoint_legal_balls": 108,
+      "train_matches": 830,
+      "test_matches": 100,
+      "test_seasons": [
+        2025,
+        2026
+      ],
+      "model_with_prior_player_context": {
+        "n": 100,
+        "accuracy": 0.89,
+        "auc": 0.9659863945578231,
+        "brier": 0.07607589529267518,
+        "log_loss": 0.2351828041888401,
+        "majority_baseline": 0.51
+      },
+      "existing_scoreboard_model": {
+        "n": 100,
+        "accuracy": 0.9,
+        "auc": 0.9711884753901561,
+        "brier": 0.06849853129443002,
+        "log_loss": 0.2155831150460035,
+        "majority_baseline": 0.51
+      },
+      "existing_team_venue_research_model": {
+        "n": 100,
+        "accuracy": 0.88,
+        "auc": 0.9663865546218486,
+        "brier": 0.07580293688256141,
+        "log_loss": 0.23188013300911506,
+        "majority_baseline": 0.51
+      },
+      "player_prior_history_from": "complete earlier IPL seasons only; excluded current season, all subsequent seasons, and live match beyond checkpoint",
+      "player_state": "last-delivered-ball striker, non-striker and bowler (not guaranteed next-ball participants)",
+      "model_deployable": false
+    }
+  ]
+}

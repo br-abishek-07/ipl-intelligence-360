@@ -1,0 +1,17 @@
+# Never commit local credentials or generated environments
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

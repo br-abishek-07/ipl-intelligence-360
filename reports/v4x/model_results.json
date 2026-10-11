@@ -1,0 +1,284 @@
+{
+  "methodology": {
+    "data_source": "Cricsheet IPL 2008-2026; BBL and SMAT JSON as uploaded",
+    "train_2008_2023": "final models frozen at end of 2023, validation 2024, retrospective holdout 2025 and 2026",
+    "disclaimer": "These seasons have been previously examined in the capstone; not future pristine validation."
+  },
+  "model_results": {
+    "playing_xi_appearance": {
+      "validation_2024": {
+        "n": 2395,
+        "positive_rate": 0.6534,
+        "accuracy": 0.8459,
+        "balanced_accuracy": 0.8117,
+        "auc": 0.8817,
+        "average_precision": 0.9157,
+        "brier": 0.1211,
+        "log_loss": 0.3964,
+        "precision": 0.853,
+        "recall": 0.9233,
+        "majority_accuracy": 0.6534,
+        "naive_accuracy": 0.8463,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": false
+      },
+      "holdout_2025": {
+        "n": 2421,
+        "positive_rate": 0.6654,
+        "accuracy": 0.8426,
+        "balanced_accuracy": 0.8004,
+        "auc": 0.8738,
+        "average_precision": 0.9059,
+        "brier": 0.1246,
+        "log_loss": 0.4039,
+        "precision": 0.8494,
+        "recall": 0.928,
+        "majority_accuracy": 0.6654,
+        "naive_accuracy": 0.841,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2026": {
+        "n": 2431,
+        "positive_rate": 0.6808,
+        "accuracy": 0.8276,
+        "balanced_accuracy": 0.7831,
+        "auc": 0.8575,
+        "average_precision": 0.9058,
+        "brier": 0.1322,
+        "log_loss": 0.4242,
+        "precision": 0.8503,
+        "recall": 0.9063,
+        "majority_accuracy": 0.6808,
+        "naive_accuracy": 0.8264,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      }
+    },
+    "bowling_deployment": {
+      "validation_2024": {
+        "n": 2806,
+        "positive_rate": 0.3118,
+        "accuracy": 0.8061,
+        "balanced_accuracy": 0.7488,
+        "auc": 0.8548,
+        "average_precision": 0.7173,
+        "brier": 0.1379,
+        "log_loss": 0.4326,
+        "precision": 0.7321,
+        "recall": 0.5966,
+        "majority_accuracy": 0.6882,
+        "naive_accuracy": 0.7851,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2025": {
+        "n": 2802,
+        "positive_rate": 0.3137,
+        "accuracy": 0.7841,
+        "balanced_accuracy": 0.7185,
+        "auc": 0.8424,
+        "average_precision": 0.7057,
+        "brier": 0.1456,
+        "log_loss": 0.4491,
+        "precision": 0.7015,
+        "recall": 0.5427,
+        "majority_accuracy": 0.6863,
+        "naive_accuracy": 0.7627,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2026": {
+        "n": 2784,
+        "positive_rate": 0.3341,
+        "accuracy": 0.7769,
+        "balanced_accuracy": 0.7184,
+        "auc": 0.8226,
+        "average_precision": 0.7216,
+        "brier": 0.1541,
+        "log_loss": 0.4764,
+        "precision": 0.721,
+        "recall": 0.5419,
+        "majority_accuracy": 0.6659,
+        "naive_accuracy": 0.7507,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      }
+    },
+    "bowling_deployment_powerplay": {
+      "validation_2024": {
+        "n": 1403,
+        "positive_rate": 0.3236,
+        "accuracy": 0.8204,
+        "balanced_accuracy": 0.7696,
+        "auc": 0.8659,
+        "average_precision": 0.7618,
+        "brier": 0.1314,
+        "log_loss": 0.4197,
+        "precision": 0.776,
+        "recall": 0.6256,
+        "majority_accuracy": 0.6764,
+        "naive_accuracy": 0.8011,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2025": {
+        "n": 1401,
+        "positive_rate": 0.3248,
+        "accuracy": 0.818,
+        "balanced_accuracy": 0.7677,
+        "auc": 0.8686,
+        "average_precision": 0.7706,
+        "brier": 0.131,
+        "log_loss": 0.4165,
+        "precision": 0.7717,
+        "recall": 0.6242,
+        "majority_accuracy": 0.6752,
+        "naive_accuracy": 0.8016,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2026": {
+        "n": 1392,
+        "positive_rate": 0.3355,
+        "accuracy": 0.8139,
+        "balanced_accuracy": 0.7667,
+        "auc": 0.8605,
+        "average_precision": 0.782,
+        "brier": 0.134,
+        "log_loss": 0.4264,
+        "precision": 0.7781,
+        "recall": 0.6231,
+        "majority_accuracy": 0.6645,
+        "naive_accuracy": 0.7967,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      }
+    },
+    "bowling_deployment_death": {
+      "validation_2024": {
+        "n": 1403,
+        "positive_rate": 0.3001,
+        "accuracy": 0.7919,
+        "balanced_accuracy": 0.7272,
+        "auc": 0.8412,
+        "average_precision": 0.6494,
+        "brier": 0.1444,
+        "log_loss": 0.4456,
+        "precision": 0.6859,
+        "recall": 0.5653,
+        "majority_accuracy": 0.6999,
+        "naive_accuracy": 0.7691,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2025": {
+        "n": 1401,
+        "positive_rate": 0.3026,
+        "accuracy": 0.7502,
+        "balanced_accuracy": 0.6667,
+        "auc": 0.8097,
+        "average_precision": 0.6031,
+        "brier": 0.1603,
+        "log_loss": 0.4817,
+        "precision": 0.6186,
+        "recall": 0.4552,
+        "majority_accuracy": 0.6974,
+        "naive_accuracy": 0.7238,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      },
+      "holdout_2026": {
+        "n": 1392,
+        "positive_rate": 0.3326,
+        "accuracy": 0.7399,
+        "balanced_accuracy": 0.6697,
+        "auc": 0.7798,
+        "average_precision": 0.6379,
+        "brier": 0.1743,
+        "log_loss": 0.5263,
+        "precision": 0.6554,
+        "recall": 0.46,
+        "majority_accuracy": 0.6674,
+        "naive_accuracy": 0.7047,
+        "clears_70pct_and_majority_baseline": true,
+        "clears_70pct_and_all_baselines": true
+      }
+    },
+    "matchup_run_risk": {
+      "validation_2024": {
+        "n": 17103,
+        "mae": 1.323,
+        "rmse": 1.804,
+        "r2": -0.005,
+        "baseline_mae": 1.303,
+        "baseline_rmse": 1.807,
+        "better_than_baseline_mae": false
+      },
+      "holdout_2025": {
+        "n": 17275,
+        "mae": 1.343,
+        "rmse": 1.813,
+        "r2": -0.004,
+        "baseline_mae": 1.309,
+        "baseline_rmse": 1.821,
+        "better_than_baseline_mae": false
+      },
+      "holdout_2026": {
+        "n": 17523,
+        "mae": 1.39,
+        "rmse": 1.854,
+        "r2": -0.003,
+        "baseline_mae": 1.348,
+        "baseline_rmse": 1.868,
+        "better_than_baseline_mae": false
+      }
+    },
+    "cross_league_scouting": {
+      "validation_2024": {
+        "n": 101,
+        "mae": 23.77,
+        "rmse": 31.489,
+        "r2": -0.293,
+        "baseline_mae": 25.599,
+        "baseline_rmse": 34.605,
+        "better_than_baseline_mae": true
+      },
+      "holdout_2025": {
+        "n": 98,
+        "mae": 25.28,
+        "rmse": 31.042,
+        "r2": -0.587,
+        "baseline_mae": 26.486,
+        "baseline_rmse": 34.624,
+        "better_than_baseline_mae": true
+      },
+      "holdout_2026": {
+        "n": 101,
+        "mae": 24.611,
+        "rmse": 30.569,
+        "r2": -0.422,
+        "baseline_mae": 25.944,
+        "baseline_rmse": 32.461,
+        "better_than_baseline_mae": true
+      }
+    },
+    "auction_data_readiness": {
+      "observed_sales": 969,
+      "auction_years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "sold_unsold_training_possible": false,
+      "reason": "Only observed sales/transactions are present; no complete unsold or withdrawn labels. Scouting model forecasts cricket performance, not auction sales."
+    }
+  }
+}

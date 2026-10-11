@@ -1,0 +1,26 @@
+{
+  "data/raw/matches.csv.gz": {
+    "bytes": 33519,
+    "sha256": "6f570ad03733ede5f181e59de69508048ea4710d34f49529c5fcf224ca83bec2"
+  },
+  "data/raw/deliveries.csv.gz": {
+    "bytes": 2509703,
+    "sha256": "76ee011e2aeee06c7198c6b02b9c746b6c081e34fa2993c8a40738d83af6e000"
+  },
+  "data/raw/lineups.csv.gz": {
+    "bytes": 163011,
+    "sha256": "b5eaf3b53b80679a9972a4cc8209af662bc9512445fdd184a31632bf8a56acc7"
+  },
+  "data/raw/auction_sales.csv": {
+    "bytes": 127497,
+    "sha256": "ce27fb39a33c987f9383019294e1f8584d9859ad827caede727af93dfe28244e"
+  },
+  "research_v4x/sma_json.zip": {
+    "bytes": 2702621,
+    "sha256": "8e4e376ec5dc68315c62eb5311b093e1c5910b7a241801cb1470148bec2a4d69"
+  },
+  "research_v4x/bbl_json.zip": {
+    "bytes": 2706940,
+    "sha256": "7946b113c55ff4be695b2f0f7fccd12b8ce8afd652a67784a81bd6109f9b5907"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "release": "IPL Intelligence 360 V2-D",
+  "date": "2026-10-09",
+  "scope": "ten franchise pages + preserved league EDA and ML lab",
+  "franchise_count": 10,
+  "kpi_cards_per_franchise": 16,
+  "distinct_chart_views_per_franchise": 19,
+  "filter_semantics": "all selected analyses use same franchise match ID set; honors all-time",
+  "visuals": [
+    "grouped columns",
+    "horizontal bars",
+    "vertical bars",
+    "stacked bars",
+    "area",
+    "multiple lines",
+    "rolling form",
+    "scatter",
+    "bubble",
+    "histogram",
+    "line plus grouped bar"
+  ],
+  "brand_assets": {
+    "provider": "official IPL-hosted image CDN URL pattern",
+    "reachability": "NOT independently confirmed in this environment",
+    "bundled_official_logos": false,
+    "offline_fallback": "project-created monogram SVG"
+  },
+  "accessibility": "prefers-reduced-motion media query included",
+  "tests": {
+    "suite": "python -m pytest -q tests",
+    "passed": 58,
+    "failed": 0
+  },
+  "ui_verification": "No Streamlit browser session available in build container; laptop smoke test required",
+  "preserved_raw_data": true,
+  "preserved_existing_models": true,
+  "docs": [
+    "reports/V2D_Sports_Analyst_Chart_Guide.md",
+    "assets/logos/official_logos_manifest.csv",
+    "assets/logos/official/README.md"
+  ]
+}

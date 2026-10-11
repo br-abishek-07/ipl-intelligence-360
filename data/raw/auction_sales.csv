@@ -1,0 +1,971 @@
+player,role,amount,team,year,player_origin,player_key,team_code,amount_inr,amount_crore,source
+Aaron Finch,Batsman,40000000,Sunrisers Hyderabad,2014.0,Overseas,aaronfinch,SRH,40000000,4.0,auction_transactions_2013_2022.zip
+Aaron Finch,Batsman,32000000,Mumbai Indians,2015.0,Overseas,aaronfinch,MI,32000000,3.2,auction_transactions_2013_2022.zip
+Aaron Finch,Batsman,10000000,Gujarat Lions,2016.0,Overseas,aaronfinch,GL,10000000,1.0,auction_transactions_2013_2022.zip
+Aaron Finch,Batsman,62000000,Kings XI Punjab,2018.0,Overseas,aaronfinch,PBKS,62000000,6.2,auction_transactions_2013_2022.zip
+Aaron Finch,Batsman,44000000,Royal Challengers Bangalore,2020.0,Overseas,aaronfinch,RCB,44000000,4.4,auction_transactions_2013_2022.zip
+Abdul Samad,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Indian,abdulsamad,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Abhijeet Tomar,Batsman,4000000,Kolkata Knight Riders,2022.0,Indian,abhijeettomar,KKR,4000000,0.4,auction_transactions_2013_2022.zip
+Abhimanyu Mithun,Bowler,3000000,Mumbai Indians,2015.0,Indian,abhimanyumithun,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Abhimanyu Mithun,Bowler,3000000,Sunrisers Hyderabad,2016.0,Indian,abhimanyumithun,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+Abhinav Sadarangani,Batsman,26000000,Gujarat Titans,2022.0,Indian,abhinavsadarangani,GT,26000000,2.6,auction_transactions_2013_2022.zip
+Abhishek Nayar,All-Rounder,50625000,Pune Warriors India,2013.0,Indian,abhisheknayar,PWI,50625000,5.0625,auction_transactions_2013_2022.zip
+Abhishek Nayar,All-Rounder,10000000,Rajasthan Royals,2014.0,Indian,abhisheknayar,RR,10000000,1.0,auction_transactions_2013_2022.zip
+Abhishek Sharma,All-Rounder,5500000,Delhi Daredevils,2018.0,Indian,abhisheksharma,DC,5500000,0.55,auction_transactions_2013_2022.zip
+Abhishek Sharma,All-Rounder,65000000,Sunrisers Hyderabad,2022.0,Indian,abhisheksharma,SRH,65000000,6.5,auction_transactions_2013_2022.zip
+Abu Nechim Ahmed,Bowler,3000000,Royal Challengers Bangalore,2014.0,Indian,abunechimahmed,RCB,3000000,0.3,auction_transactions_2013_2022.zip
+Adam Milne,Bowler,7000000,Royal Challengers Bangalore,2015.0,Overseas,adammilne,RCB,7000000,0.7,auction_transactions_2013_2022.zip
+Adam Milne,Bowler,32000000,Mumbai Indians,2021.0,Overseas,adammilne,MI,32000000,3.2,auction_transactions_2013_2022.zip
+Adam Milne,Bowler,19000000,Chennai Super Kings,2022.0,Overseas,adammilne,CSK,19000000,1.9,auction_transactions_2013_2022.zip
+Adam Zampa,Bowler,3000000,Rising Pune Supergiant,2016.0,Overseas,adamzampa,RPS,3000000,0.3,auction_transactions_2013_2022.zip
+Aditya Garhwal,All-Rounder,2500000,Kolkata Knight Riders,2015.0,Indian,adityagarhwal,KKR,2500000,0.25,auction_transactions_2013_2022.zip
+Aditya Tare,Wicket Keeper,16000000,Mumbai Indians,2014.0,Indian,adityatare,MI,16000000,1.6,auction_transactions_2013_2022.zip
+Aditya Tare,Wicket Keeper,12000000,Sunrisers Hyderabad,2016.0,Indian,adityatare,SRH,12000000,1.2,auction_transactions_2013_2022.zip
+Aditya Tare,Wicket Keeper,2500000,Delhi Daredevils,2017.0,Indian,adityatare,DC,2500000,0.25,auction_transactions_2013_2022.zip
+Aditya Tare,Wicket Keeper,2000000,Mumbai Indians,2018.0,Indian,adityatare,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Agnivesh Ayachi,All-Rounder,2000000,Kings XI Punjab,2019.0,Indian,agniveshayachi,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Aiden Blizzard,Batsman,3000000,Mumbai Indians,2015.0,Overseas,aidenblizzard,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Aiden Markram,Batsman,26000000,Sunrisers Hyderabad,2022.0,Overseas,aidenmarkram,SRH,26000000,2.6,auction_transactions_2013_2022.zip
+Ajantha Mendis,Bowler,54375000,Pune Warriors India,2013.0,Overseas,ajanthamendis,PWI,54375000,5.4375,auction_transactions_2013_2022.zip
+Ajinkya Rahane,Batsman,40000000,Rajasthan Royals,2018.0,Indian,ajinkyarahane,RR,40000000,4.0,auction_transactions_2013_2022.zip
+Ajinkya Rahane,Batsman,10000000,Kolkata Knight Riders,2022.0,Indian,ajinkyarahane,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Akash Deep,Bowler,2000000,Royal Challengers Bangalore,2022.0,Indian,akashdeep,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Akash Singh,Bowler,2000000,Rajasthan Royals,2020.0,Indian,akashsingh,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Akash Singh,Bowler,2000000,Rajasthan Royals,2021.0,Indian,akashsingh,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Akhil Arvind Herwadkar,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,akhilarvindherwadkar,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Akila Dananjaya,All-Rounder,1500000,Chennai Super Kings,2013.0,Overseas,akiladananjaya,CSK,1500000,0.15,auction_transactions_2013_2022.zip
+Akila Dhananjaya,Bowler,5000000,Mumbai Indians,2018.0,Overseas,akiladhananjaya,MI,5000000,0.5,auction_transactions_2013_2022.zip
+Akshar Rajesh Patel,All-Rounder,7500000,Kings XI Punjab,2014.0,Indian,aksharrajeshpatel,PBKS,7500000,0.75,auction_transactions_2013_2022.zip
+Akshay Karnewar,All-Rounder,1000000,Royal Challengers Bangalore,2016.0,Indian,akshaykarnewar,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Akshay Wakhare,Bowler,1000000,Mumbai Indians,2015.0,Indian,akshaywakhare,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2016.0,Indian,akshdeepnath,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Akshdeep Nath,All-Rounder,1000000,Gujarat Lions,2017.0,Indian,akshdeepnath,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Akshdeep Nath,All-Rounder,10000000,Kings XI Punjab,2018.0,Indian,akshdeepnath,PBKS,10000000,1.0,auction_transactions_2013_2022.zip
+Akshdeep Nath,All-Rounder,36000000,Royal Challengers Bangalore,2019.0,Indian,akshdeepnath,RCB,36000000,3.6,auction_transactions_2013_2022.zip
+Albie Morkel,All-Rounder,24000000,Royal Challengers Bangalore,2014.0,Overseas,albiemorkel,RCB,24000000,2.4,auction_transactions_2013_2022.zip
+Albie Morkel,All-Rounder,3000000,Delhi Daredevils,2015.0,Overseas,albiemorkel,DC,3000000,0.3,auction_transactions_2013_2022.zip
+Alex Carey,Wicket Keeper,24000000,Delhi Capitals,2020.0,Overseas,alexcarey,DC,24000000,2.4,auction_transactions_2013_2022.zip
+Alex Hales,Batsman,15000000,Kolkata Knight Riders,2022.0,Overseas,alexhales,KKR,15000000,1.5,auction_transactions_2013_2022.zip
+Alzarri Joseph,Bowler,24000000,Gujarat Titans,2022.0,Overseas,alzarrijoseph,GT,24000000,2.4,auction_transactions_2013_2022.zip
+Aman Khan,All-Rounder,2000000,Kolkata Knight Riders,2022.0,Indian,amankhan,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Ambati Rayudu,Wicket Keeper,22000000,Chennai Super Kings,2018.0,Indian,ambatirayudu,CSK,22000000,2.2,auction_transactions_2013_2022.zip
+Ambati Rayudu,Wicket Keeper,67500000,Chennai Super Kings,2022.0,Indian,ambatirayudu,CSK,67500000,6.75,auction_transactions_2013_2022.zip
+Amit Mishra,Bowler,1000000,Rajasthan Royals,2014.0,Indian,amitmishra,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Amit Mishra,Bowler,47500000,Sunrisers Hyderabad,2014.0,Indian,amitmishra,SRH,47500000,4.75,auction_transactions_2013_2022.zip
+Amit Mishra,Bowler,35000000,Delhi Daredevils,2015.0,Indian,amitmishra,DC,35000000,3.5,auction_transactions_2013_2022.zip
+Amit Mishra,Bowler,1000000,Gujarat Lions,2016.0,Indian,amitmishra,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Amit Mishra,Bowler,40000000,Delhi Daredevils,2018.0,Indian,amitmishra,DC,40000000,4.0,auction_transactions_2013_2022.zip
+Amit Paunikar,Wicket Keeper,2000000,Sunrisers Hyderabad,2014.0,Indian,amitpaunikar,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Andre Russell,All-Rounder,6000000,Kolkata Knight Riders,2014.0,Overseas,andrerussell,KKR,6000000,0.6,auction_transactions_2013_2022.zip
+Andrew Tye,Bowler,2000000,Chennai Super Kings,2015.0,Overseas,andrewtye,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Andrew Tye,All-Rounder,5000000,Gujarat Lions,2016.0,Overseas,andrewtye,GL,5000000,0.5,auction_transactions_2013_2022.zip
+Andrew Tye,Bowler,72000000,Kings XI Punjab,2018.0,Overseas,andrewtye,PBKS,72000000,7.2,auction_transactions_2013_2022.zip
+Andrew Tye,Bowler,10000000,Rajasthan Royals,2020.0,Overseas,andrewtye,RR,10000000,1.0,auction_transactions_2013_2022.zip
+Aneeshwar Gautam,All-Rounder,2000000,Royal Challengers Bangalore,2022.0,Indian,aneeshwargautam,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Angelo Mathews,All-Rounder,75000000,Delhi Daredevils,2015.0,Overseas,angelomathews,DC,75000000,7.5,auction_transactions_2013_2022.zip
+Angelo Mathews,All-Rounder,20000000,Delhi Daredevils,2017.0,Overseas,angelomathews,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Aniket Choudhary,Bowler,20000000,Royal Challengers Bangalore,2017.0,Indian,aniketchoudhary,RCB,20000000,2.0,auction_transactions_2013_2022.zip
+Aniket Choudhary,Bowler,3000000,Royal Challengers Bangalore,2018.0,Indian,aniketchoudhary,RCB,3000000,0.3,auction_transactions_2013_2022.zip
+Anirudha Ashok Joshi,All-Rounder,2000000,Royal Challengers Bangalore,2018.0,Indian,anirudhaashokjoshi,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Anirudha Ashok Joshi,All-Rounder,2000000,Rajasthan Royals,2020.0,Indian,anirudhaashokjoshi,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Ankeet Bawane,Batsman,1000000,Delhi Daredevils,2017.0,Indian,ankeetbawane,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Ankit Nagendra Sharma,Bowler,1000000,Rajasthan Royals,2014.0,Indian,ankitnagendrasharma,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Ankit Sharma,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,ankitsharma,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Ankit Sharma,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,ankitsharma,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Ankit Singh Rajpoot,Bowler,15000000,Kolkata Knight Riders,2016.0,Indian,ankitsinghrajpoot,KKR,15000000,1.5,auction_transactions_2013_2022.zip
+Ankit Singh Rajpoot,Bowler,30000000,Kings XI Punjab,2018.0,Indian,ankitsinghrajpoot,PBKS,30000000,3.0,auction_transactions_2013_2022.zip
+Ankit Singh Rajpoot,Bowler,5000000,Lucknow Super Giants,2022.0,Indian,ankitsinghrajpoot,LSG,5000000,0.5,auction_transactions_2013_2022.zip
+Ankush Bains,Wicket Keeper,1000000,Rajasthan Royals,2014.0,Indian,ankushbains,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Ankush Bains,Wicket Keeper,1000000,Chennai Super Kings,2015.0,Indian,ankushbains,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Ankush Bains,Wicket Keeper,1000000,Rising Pune Supergiant,2016.0,Indian,ankushbains,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Ankush Bains,Wicket Keeper,2000000,Delhi Capitals,2019.0,Indian,ankushbains,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Anmolpreet Singh,Batsman,8000000,Mumbai Indians,2019.0,Indian,anmolpreetsingh,MI,8000000,0.8,auction_transactions_2013_2022.zip
+Anmolpreet Singh,Batsman,2000000,Mumbai Indians,2022.0,Indian,anmolpreetsingh,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Anrich Nortje,Bowler,2000000,Kolkata Knight Riders,2019.0,Overseas,anrichnortje,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Ansh Patel,All-Rounder,2000000,Punjab Kings,2022.0,Indian,anshpatel,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Anuj Rawat,Wicket Keeper,8000000,Rajasthan Royals,2020.0,Indian,anujrawat,RR,8000000,0.8,auction_transactions_2013_2022.zip
+Anuj Rawat,Wicket Keeper,34000000,Royal Challengers Bangalore,2022.0,Indian,anujrawat,RCB,34000000,3.4,auction_transactions_2013_2022.zip
+Anukul Roy,All-Rounder,2000000,Mumbai Indians,2018.0,Indian,anukulroy,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Anukul Roy,All-Rounder,2000000,Kolkata Knight Riders,2022.0,Indian,anukulroy,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Anunay Singh,All-Rounder,2000000,Rajasthan Royals,2022.0,Indian,anunaysingh,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Anureet Singh,Bowler,2000000,Kings XI Punjab,2014.0,Indian,anureetsingh,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Anureet Singh,Bowler,3000000,Rajasthan Royals,2018.0,Indian,anureetsingh,RR,3000000,0.3,auction_transactions_2013_2022.zip
+Apoorv Vijay Wankhade,Batsman,1000000,Mumbai Indians,2014.0,Indian,apoorvvijaywankhade,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Apoorv Vijay Wankhade,Batsman,2000000,Kolkata Knight Riders,2018.0,Indian,apoorvvijaywankhade,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Arjun Tendulkar,All-Rounder,2000000,Mumbai Indians,2021.0,Indian,arjuntendulkar,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Arjun Tendulkar,All-Rounder,3000000,Mumbai Indians,2022.0,Indian,arjuntendulkar,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Armaan Jaffer,Batsman,1000000,Kings XI Punjab,2016.0,Indian,armaanjaffer,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Arshdeep Singh,Bowler,2000000,Kings XI Punjab,2019.0,Indian,arshdeepsingh,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Aryaman Vikram Birla,All-Rounder,3000000,Rajasthan Royals,2018.0,Indian,aryamanvikrambirla,RR,3000000,0.3,auction_transactions_2013_2022.zip
+Aryan Juyal,Wicket Keeper,2000000,Mumbai Indians,2022.0,Indian,aryanjuyal,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Asela Gunarathna,Batsman,3000000,Mumbai Indians,2017.0,Overseas,aselagunarathna,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Ashish Nehra,Bowler,20000000,Chennai Super Kings,2014.0,Indian,ashishnehra,CSK,20000000,2.0,auction_transactions_2013_2022.zip
+Ashish Nehra,Bowler,55000000,Sunrisers Hyderabad,2016.0,Indian,ashishnehra,SRH,55000000,5.5,auction_transactions_2013_2022.zip
+Ashish Reddy,Bowler,2000000,Sunrisers Hyderabad,2014.0,Indian,ashishreddy,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Ashok Dinda,Bowler,15000000,Royal Challengers Bangalore,2014.0,Indian,ashokdinda,RCB,15000000,1.5,auction_transactions_2013_2022.zip
+Ashok Dinda,Bowler,5000000,Rising Pune Supergiant,2016.0,Indian,ashokdinda,RPS,5000000,0.5,auction_transactions_2013_2022.zip
+Ashok Sharma,Bowler,5500000,Kolkata Knight Riders,2022.0,Indian,ashoksharma,KKR,5500000,0.55,auction_transactions_2013_2022.zip
+Ashton Turner,All-Rounder,5000000,Rajasthan Royals,2019.0,Indian,ashtonturner,RR,5000000,0.5,auction_transactions_2013_2022.zip
+Ashwin Hebbar,Batsman,2000000,Delhi Capitals,2022.0,Indian,ashwinhebbar,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Asif K M,Bowler,4000000,Chennai Super Kings,2018.0,Indian,asifkm,CSK,4000000,0.4,auction_transactions_2013_2022.zip
+Atharva Taide,All-Rounder,2000000,Punjab Kings,2022.0,Indian,atharvataide,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Avesh Khan,Bowler,7000000,Delhi Daredevils,2018.0,Indian,aveshkhan,DC,7000000,0.7,auction_transactions_2013_2022.zip
+Avesh Khan,Bowler,100000000,Lucknow Super Giants,2022.0,Indian,aveshkhan,LSG,100000000,10.0,auction_transactions_2013_2022.zip
+Axar Rajesh Patel,All-Rounder,50000000,Delhi Capitals,2019.0,Indian,axarrajeshpatel,DC,50000000,5.0,auction_transactions_2013_2022.zip
+Ayush Badoni,All-Rounder,2000000,Lucknow Super Giants,2022.0,Indian,ayushbadoni,LSG,2000000,0.2,auction_transactions_2013_2022.zip
+B. Sai Sudharsan,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,bsaisudharsan,GT,2000000,0.2,auction_transactions_2013_2022.zip
+Baba Aparajith,Batsman,1000000,Chennai Super Kings,2014.0,Indian,babaaparajith,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Baba Aparajith,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,babaaparajith,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Baba Indrajith,Wicket Keeper,2000000,Kolkata Knight Riders,2022.0,Indian,babaindrajith,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Baltej Dhanda,Bowler,2000000,Punjab Kings,2022.0,Indian,baltejdhanda,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Bandaru Ayyappa,Bowler,2000000,Delhi Capitals,2019.0,Indian,bandaruayyappa,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Barinder Singh Saran,Bowler,1000000,Rajasthan Royals,2015.0,Indian,barindersinghsaran,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Barinder Singh Sran,Bowler,12000000,Sunrisers Hyderabad,2016.0,Indian,barindersinghsran,SRH,12000000,1.2,auction_transactions_2013_2022.zip
+Barinder Singh Sran,Bowler,22000000,Kings XI Punjab,2018.0,Indian,barindersinghsran,PBKS,22000000,2.2,auction_transactions_2013_2022.zip
+Barinder Singh Sran,Bowler,34000000,Mumbai Indians,2019.0,Indian,barindersinghsran,MI,34000000,3.4,auction_transactions_2013_2022.zip
+Basil Thampi,Bowler,8500000,Gujarat Lions,2017.0,Indian,basilthampi,GL,8500000,0.85,auction_transactions_2013_2022.zip
+Basil Thampi,Bowler,9500000,Sunrisers Hyderabad,2018.0,Indian,basilthampi,SRH,9500000,0.95,auction_transactions_2013_2022.zip
+Basil Thampi,Bowler,3000000,Mumbai Indians,2022.0,Indian,basilthampi,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Ben Cutting,Bowler,8000000,Rajasthan Royals,2014.0,Overseas,bencutting,RR,8000000,0.8,auction_transactions_2013_2022.zip
+Ben Cutting,All-Rounder,5000000,Sunrisers Hyderabad,2016.0,Overseas,bencutting,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Ben Cutting,All-Rounder,22000000,Mumbai Indians,2018.0,Overseas,bencutting,MI,22000000,2.2,auction_transactions_2013_2022.zip
+Ben Cutting,All-Rounder,7500000,Kolkata Knight Riders,2021.0,Overseas,bencutting,KKR,7500000,0.75,auction_transactions_2013_2022.zip
+Ben Dunk,Wicket Keeper,2000000,Mumbai Indians,2014.0,Overseas,bendunk,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Ben Dwarshuis,Bowler,14000000,Kings XI Punjab,2018.0,Overseas,bendwarshuis,PBKS,14000000,1.4,auction_transactions_2013_2022.zip
+Ben Hilfenhaus,Bowler,10000000,Chennai Super Kings,2014.0,Overseas,benhilfenhaus,CSK,10000000,1.0,auction_transactions_2013_2022.zip
+Ben Laughlin,Bowler,1500000,Chennai Super Kings,2013.0,Overseas,benlaughlin,CSK,1500000,0.15,auction_transactions_2013_2022.zip
+Ben Laughlin,Bowler,3000000,Sunrisers Hyderabad,2017.0,Overseas,benlaughlin,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+Ben Laughlin,Bowler,5000000,Rajasthan Royals,2018.0,Overseas,benlaughlin,RR,5000000,0.5,auction_transactions_2013_2022.zip
+Benjamin Stokes,All-Rounder,145000000,Rising Pune Supergiant,2017.0,Overseas,benjaminstokes,RPS,145000000,14.5,auction_transactions_2013_2022.zip
+Benjamin Stokes,All-Rounder,125000000,Rajasthan Royals,2018.0,Overseas,benjaminstokes,RR,125000000,12.5,auction_transactions_2013_2022.zip
+Benny Howell,All-Rounder,4000000,Punjab Kings,2022.0,Overseas,bennyhowell,PBKS,4000000,0.4,auction_transactions_2013_2022.zip
+Beuran Hendricks,Bowler,18000000,Kings XI Punjab,2014.0,Overseas,beuranhendricks,PBKS,18000000,1.8,auction_transactions_2013_2022.zip
+Bhanuka Rajapaksa,Batsman,5000000,Punjab Kings,2022.0,Overseas,bhanukarajapaksa,PBKS,5000000,0.5,auction_transactions_2013_2022.zip
+Bhuvneshwar Kumar,Bowler,42500000,Sunrisers Hyderabad,2014.0,Overseas,bhuvneshwarkumar,SRH,42500000,4.25,auction_transactions_2013_2022.zip
+Bhuvneshwar Kumar,Bowler,42000000,Sunrisers Hyderabad,2022.0,Indian,bhuvneshwarkumar,SRH,42000000,4.2,auction_transactions_2013_2022.zip
+Billy Stanlake,Bowler,3000000,Royal Challengers Bangalore,2017.0,Overseas,billystanlake,RCB,3000000,0.3,auction_transactions_2013_2022.zip
+Billy Stanlake,Batsman,5000000,Sunrisers Hyderabad,2018.0,Overseas,billystanlake,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Bipul Sharma,All-Rounder,2000000,Sunrisers Hyderabad,2018.0,Indian,bipulsharma,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Brad Hodge,Batsman,24000000,Rajasthan Royals,2014.0,Overseas,bradhodge,RR,24000000,2.4,auction_transactions_2013_2022.zip
+Brad Hogg,Bowler,5000000,Kolkata Knight Riders,2015.0,Overseas,bradhogg,KKR,5000000,0.5,auction_transactions_2013_2022.zip
+Brendan Taylor,Wicket Keeper,3000000,Sunrisers Hyderabad,2014.0,Overseas,brendantaylor,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+Brendon McCullum,Wicket Keeper,32500000,Chennai Super Kings,2014.0,Overseas,brendonmccullum,CSK,32500000,3.25,auction_transactions_2013_2022.zip
+Brendon McCullum,Batsman,36000000,Royal Challengers Bangalore,2018.0,Overseas,brendonmccullum,RCB,36000000,3.6,auction_transactions_2013_2022.zip
+C Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2021.0,Indian,charinishaanth,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+C.Hari Nishaanth,Batsman,2000000,Chennai Super Kings,2022.0,Indian,charinishaanth,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+C.M. Gautam,Wicket Keeper,2000000,Mumbai Indians,2014.0,Indian,cmgautam,MI,2000000,0.2,auction_transactions_2013_2022.zip
+C.M. Gautam,Wicket Keeper,2000000,Delhi Daredevils,2015.0,Indian,cmgautam,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Cameron Delport,All-Rounder,3000000,Kolkata Knight Riders,2018.0,Overseas,camerondelport,KKR,3000000,0.3,auction_transactions_2013_2022.zip
+Carlos Brathwaite,All-Rounder,42000000,Delhi Daredevils,2016.0,Overseas,carlosbrathwaite,DC,42000000,4.2,auction_transactions_2013_2022.zip
+Carlos Brathwaite,All-Rounder,20000000,Sunrisers Hyderabad,2018.0,Overseas,carlosbrathwaite,SRH,20000000,2.0,auction_transactions_2013_2022.zip
+Carlos Brathwaite,All-Rounder,50000000,Kolkata Knight Riders,2019.0,Overseas,carlosbrathwaite,KKR,50000000,5.0,auction_transactions_2013_2022.zip
+Chaitanya Bishnoi,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,chaitanyabishnoi,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Chama Milind,Bowler,1000000,Sunrisers Hyderabad,2014.0,Indian,chamamilind,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Chama Milind,Bowler,1000000,Delhi Daredevils,2016.0,Indian,chamamilind,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Chama Milind,Bowler,2500000,Royal Challengers Bangalore,2022.0,Indian,chamamilind,RCB,2500000,0.25,auction_transactions_2013_2022.zip
+Chamika Karunaratne,All-Rounder,5000000,Kolkata Knight Riders,2022.0,Overseas,chamikakarunaratne,KKR,5000000,0.5,auction_transactions_2013_2022.zip
+Chetan Sakariya,Bowler,12000000,Rajasthan Royals,2021.0,Indian,chetansakariya,RR,12000000,1.2,auction_transactions_2013_2022.zip
+Chetan Sakariya,Bowler,42000000,Delhi Capitals,2022.0,Indian,chetansakariya,DC,42000000,4.2,auction_transactions_2013_2022.zip
+Cheteshwar Pujara,Batsman,19000000,Kings XI Punjab,2014.0,Indian,cheteshwarpujara,PBKS,19000000,1.9,auction_transactions_2013_2022.zip
+Cheteshwar Pujara,Batsman,5000000,Chennai Super Kings,2021.0,Indian,cheteshwarpujara,CSK,5000000,0.5,auction_transactions_2013_2022.zip
+Chirag Suri,Batsman,1000000,Gujarat Lions,2017.0,Indian,chiragsuri,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Chris Green,All-Rounder,2000000,Kolkata Knight Riders,2020.0,Overseas,chrisgreen,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Chris Jordan,All-Rounder,5000000,Sunrisers Hyderabad,2017.0,Overseas,chrisjordan,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Chris Jordan,All-Rounder,10000000,Sunrisers Hyderabad,2018.0,Overseas,chrisjordan,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+Chris Jordan,All-Rounder,30000000,Kings XI Punjab,2020.0,Overseas,chrisjordan,PBKS,30000000,3.0,auction_transactions_2013_2022.zip
+Chris Jordan,All-Rounder,36000000,Chennai Super Kings,2022.0,Overseas,chrisjordan,CSK,36000000,3.6,auction_transactions_2013_2022.zip
+Chris Lynn,Batsman,13000000,Kolkata Knight Riders,2014.0,Overseas,chrislynn,KKR,13000000,1.3,auction_transactions_2013_2022.zip
+Chris Lynn,Batsman,96000000,Kolkata Knight Riders,2018.0,Overseas,chrislynn,KKR,96000000,9.6,auction_transactions_2013_2022.zip
+Chris Lynn,Batsman,20000000,Mumbai Indians,2020.0,Overseas,chrislynn,MI,20000000,2.0,auction_transactions_2013_2022.zip
+Chris Woakes,All-Rounder,42000000,Kolkata Knight Riders,2017.0,Overseas,chriswoakes,KKR,42000000,4.2,auction_transactions_2013_2022.zip
+Chris Woakes,All-Rounder,74000000,Royal Challengers Bangalore,2018.0,Overseas,chriswoakes,RCB,74000000,7.4,auction_transactions_2013_2022.zip
+Chris Woakes,All-Rounder,15000000,Delhi Capitals,2020.0,Overseas,chriswoakes,DC,15000000,1.5,auction_transactions_2013_2022.zip
+Christopher Barnwell,All-Rounder,3750000,Royal Challengers Bangalore,2013.0,Overseas,christopherbarnwell,RCB,3750000,0.375,auction_transactions_2013_2022.zip
+Christopher Gayle,Batsman,20000000,Kings XI Punjab,2018.0,Overseas,christophergayle,PBKS,20000000,2.0,auction_transactions_2013_2022.zip
+Christopher Morris,All-Rounder,46875000,Chennai Super Kings,2013.0,Overseas,christophermorris,CSK,46875000,4.6875,auction_transactions_2013_2022.zip
+Christopher Morris,All-Rounder,14000000,Rajasthan Royals,2015.0,Overseas,christophermorris,RR,14000000,1.4,auction_transactions_2013_2022.zip
+Christopher Morris,All-Rounder,70000000,Delhi Daredevils,2016.0,Overseas,christophermorris,DC,70000000,7.0,auction_transactions_2013_2022.zip
+Christopher Morris,All-Rounder,100000000,Royal Challengers Bangalore,2020.0,Overseas,christophermorris,RCB,100000000,10.0,auction_transactions_2013_2022.zip
+Christopher Morris,All-Rounder,162500000,Rajasthan Royals,2021.0,Overseas,christophermorris,RR,162500000,16.25,auction_transactions_2013_2022.zip
+Clinton McKay,Bowler,7500000,Sunrisers Hyderabad,2013.0,Overseas,clintonmckay,SRH,7500000,0.75,auction_transactions_2013_2022.zip
+Colin De Grandhomme,All-Rounder,22000000,Royal Challengers Bangalore,2018.0,Overseas,colindegrandhomme,RCB,22000000,2.2,auction_transactions_2013_2022.zip
+Colin Ingram,Batsman,64000000,Delhi Capitals,2019.0,Overseas,coliningram,DC,64000000,6.4,auction_transactions_2013_2022.zip
+Colin Munro,All-Rounder,3000000,Kolkata Knight Riders,2016.0,Overseas,colinmunro,KKR,3000000,0.3,auction_transactions_2013_2022.zip
+Colin Munro,All-Rounder,19000000,Delhi Daredevils,2018.0,Overseas,colinmunro,DC,19000000,1.9,auction_transactions_2013_2022.zip
+Corey Anderson,All-Rounder,45000000,Mumbai Indians,2014.0,Overseas,coreyanderson,MI,45000000,4.5,auction_transactions_2013_2022.zip
+Corey Anderson,All-Rounder,10000000,Delhi Daredevils,2017.0,Overseas,coreyanderson,DC,10000000,1.0,auction_transactions_2013_2022.zip
+Dale Steyn,Bowler,23000000,Gujarat Lions,2016.0,Overseas,dalesteyn,GL,23000000,2.3,auction_transactions_2013_2022.zip
+Dale Steyn,Bowler,20000000,Royal Challengers Bangalore,2020.0,Overseas,dalesteyn,RCB,20000000,2.0,auction_transactions_2013_2022.zip
+Dan Christian,All-Rounder,48000000,Royal Challengers Bangalore,2021.0,Overseas,danchristian,RCB,48000000,4.8,auction_transactions_2013_2022.zip
+Daniel Christian,All-Rounder,7500000,Royal Challengers Bangalore,2013.0,Overseas,danielchristian,RCB,7500000,0.75,auction_transactions_2013_2022.zip
+Daniel Christian,All-Rounder,10000000,Rising Pune Supergiant,2017.0,Overseas,danielchristian,RPS,10000000,1.0,auction_transactions_2013_2022.zip
+Daniel Christian,All-Rounder,15000000,Delhi Daredevils,2018.0,Overseas,danielchristian,DC,15000000,1.5,auction_transactions_2013_2022.zip
+Daniel Sams,All-Rounder,26000000,Mumbai Indians,2022.0,Overseas,danielsams,MI,26000000,2.6,auction_transactions_2013_2022.zip
+Darcy Short,All-Rounder,40000000,Rajasthan Royals,2018.0,Overseas,darcyshort,RR,40000000,4.0,auction_transactions_2013_2022.zip
+Darren Bravo,Batsman,5000000,Kolkata Knight Riders,2017.0,Overseas,darrenbravo,KKR,5000000,0.5,auction_transactions_2013_2022.zip
+Darren Sammy,All-Rounder,31875000,Sunrisers Hyderabad,2013.0,Overseas,darrensammy,SRH,31875000,3.1875,auction_transactions_2013_2022.zip
+Darren Sammy,All-Rounder,35000000,Sunrisers Hyderabad,2014.0,Overseas,darrensammy,SRH,35000000,3.5,auction_transactions_2013_2022.zip
+Darren Sammy,All-Rounder,28000000,Royal Challengers Bangalore,2015.0,Overseas,darrensammy,RCB,28000000,2.8,auction_transactions_2013_2022.zip
+Darren Sammy,All-Rounder,3000000,Kings XI Punjab,2017.0,Overseas,darrensammy,PBKS,3000000,0.3,auction_transactions_2013_2022.zip
+Darshan Nalkande,All-Rounder,3000000,Kings XI Punjab,2019.0,Indian,darshannalkande,PBKS,3000000,0.3,auction_transactions_2013_2022.zip
+Darshan Nalkande,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,darshannalkande,GT,2000000,0.2,auction_transactions_2013_2022.zip
+Daryl Mitchell,All-Rounder,7500000,Rajasthan Royals,2022.0,Overseas,darylmitchell,RR,7500000,0.75,auction_transactions_2013_2022.zip
+David Miller,Batsman,30000000,Kings XI Punjab,2018.0,Overseas,davidmiller,PBKS,30000000,3.0,auction_transactions_2013_2022.zip
+David Miller,Batsman,7500000,Rajasthan Royals,2020.0,Overseas,davidmiller,RR,7500000,0.75,auction_transactions_2013_2022.zip
+David Miller,Batsman,30000000,Gujarat Titans,2022.0,Overseas,davidmiller,GT,30000000,3.0,auction_transactions_2013_2022.zip
+David Warner,Batsman,55000000,Sunrisers Hyderabad,2014.0,Overseas,davidwarner,SRH,55000000,5.5,auction_transactions_2013_2022.zip
+David Warner,Batsman,62500000,Delhi Capitals,2022.0,Overseas,davidwarner,DC,62500000,6.25,auction_transactions_2013_2022.zip
+David Wiese,All-Rounder,28000000,Royal Challengers Bangalore,2015.0,Overseas,davidwiese,RCB,28000000,2.8,auction_transactions_2013_2022.zip
+David Willey,All-Rounder,20000000,Royal Challengers Bangalore,2022.0,Overseas,davidwilley,RCB,20000000,2.0,auction_transactions_2013_2022.zip
+Dawid Malan,All-Rounder,15000000,Punjab Kings,2021.0,Overseas,dawidmalan,PBKS,15000000,1.5,auction_transactions_2013_2022.zip
+Debabrata Das,Wicket Keeper,2000000,Kolkata Knight Riders,2014.0,Indian,debabratadas,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Deepak Chahar,All-Rounder,1000000,Rising Pune Supergiant,2016.0,Indian,deepakchahar,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Deepak Chahar,All-Rounder,8000000,Chennai Super Kings,2018.0,Indian,deepakchahar,CSK,8000000,0.8,auction_transactions_2013_2022.zip
+Deepak Chahar,Bowler,140000000,Chennai Super Kings,2022.0,Indian,deepakchahar,CSK,140000000,14.0,auction_transactions_2013_2022.zip
+Deepak Hooda,Bowler,4000000,Rajasthan Royals,2014.0,Indian,deepakhooda,RR,4000000,0.4,auction_transactions_2013_2022.zip
+Deepak Hooda,All-Rounder,42000000,Sunrisers Hyderabad,2016.0,Indian,deepakhooda,SRH,42000000,4.2,auction_transactions_2013_2022.zip
+Deepak Hooda,All-Rounder,36000000,Sunrisers Hyderabad,2018.0,Indian,deepakhooda,SRH,36000000,3.6,auction_transactions_2013_2022.zip
+Deepak Hooda,All-Rounder,5000000,Kings XI Punjab,2020.0,Indian,deepakhooda,PBKS,5000000,0.5,auction_transactions_2013_2022.zip
+Deepak Hooda,All-Rounder,57500000,Lucknow Super Giants,2022.0,Indian,deepakhooda,LSG,57500000,5.75,auction_transactions_2013_2022.zip
+Deepak Punia,All-Rounder,1000000,Mumbai Indians,2016.0,Indian,deepakpunia,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Devdutt Padikkal,Batsman,2000000,Royal Challengers Bangalore,2019.0,Indian,devduttpadikkal,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Devdutt Padikkal,Batsman,77500000,Rajasthan Royals,2022.0,Indian,devduttpadikkal,RR,77500000,7.75,auction_transactions_2013_2022.zip
+Devon Conway,Batsman,10000000,Chennai Super Kings,2022.0,Overseas,devonconway,CSK,10000000,1.0,auction_transactions_2013_2022.zip
+Dewald Brevis,Batsman,30000000,Mumbai Indians,2022.0,Overseas,dewaldbrevis,MI,30000000,3.0,auction_transactions_2013_2022.zip
+Dhawal Kulkarni,Bowler,11000000,Rajasthan Royals,2014.0,Indian,dhawalkulkarni,RR,11000000,1.1,auction_transactions_2013_2022.zip
+Dhawal Kulkarni,Bowler,20000000,Gujarat Lions,2016.0,Indian,dhawalkulkarni,GL,20000000,2.0,auction_transactions_2013_2022.zip
+Dhawal Kulkarni,Bowler,7500000,Rajasthan Royals,2018.0,Indian,dhawalkulkarni,RR,7500000,0.75,auction_transactions_2013_2022.zip
+Dhruv Jurel,Wicket Keeper,2000000,Rajasthan Royals,2022.0,Indian,dhruvjurel,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Dhruv Shorey,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,dhruvshorey,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Digvijay Deshmukh,All-Rounder,2000000,Mumbai Indians,2020.0,Indian,digvijaydeshmukh,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Dinesh Karthik,Wicket Keeper,125000000,Delhi Daredevils,2014.0,Indian,dineshkarthik,DC,125000000,12.5,auction_transactions_2013_2022.zip
+Dinesh Karthik,Wicket Keeper,105000000,Royal Challengers Bangalore,2015.0,Indian,dineshkarthik,RCB,105000000,10.5,auction_transactions_2013_2022.zip
+Dinesh Karthik,Wicket Keeper,23000000,Gujarat Lions,2016.0,Indian,dineshkarthik,GL,23000000,2.3,auction_transactions_2013_2022.zip
+Dinesh Karthik,Wicket Keeper,74000000,Kolkata Knight Riders,2018.0,Indian,dineshkarthik,KKR,74000000,7.4,auction_transactions_2013_2022.zip
+Dinesh Karthik,Wicket Keeper,55000000,Royal Challengers Bangalore,2022.0,Indian,dineshkarthik,RCB,55000000,5.5,auction_transactions_2013_2022.zip
+Dinesh Salunkhe,All-Rounder,1000000,Rajasthan Royals,2015.0,Indian,dineshsalunkhe,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Dirk Nannes,Bowler,45000000,Chennai Super Kings,2013.0,Overseas,dirknannes,CSK,45000000,4.5,auction_transactions_2013_2022.zip
+Dishant Yagnik,Wicket Keeper,3000000,Rajasthan Royals,2014.0,Indian,dishantyagnik,RR,3000000,0.3,auction_transactions_2013_2022.zip
+Dominic Drakes,All-Rounder,11000000,Gujarat Titans,2022.0,Overseas,dominicdrakes,GT,11000000,1.1,auction_transactions_2013_2022.zip
+Domnic Joseph Muthuswamy,Bowler,7500000,Delhi Daredevils,2015.0,Overseas,domnicjosephmuthuswamy,DC,7500000,0.75,auction_transactions_2013_2022.zip
+Dushmanta Chameera,Bowler,20000000,Lucknow Super Giants,2022.0,Overseas,dushmantachameera,LSG,20000000,2.0,auction_transactions_2013_2022.zip
+Dushmantha Chameera,Bowler,5000000,Rajasthan Royals,2018.0,Overseas,dushmanthachameera,RR,5000000,0.5,auction_transactions_2013_2022.zip
+Dwaine Pretorius,All-Rounder,5000000,Chennai Super Kings,2022.0,Overseas,dwainepretorius,CSK,5000000,0.5,auction_transactions_2013_2022.zip
+Dwayne Bravo,All-Rounder,64000000,Chennai Super Kings,2018.0,Overseas,dwaynebravo,CSK,64000000,6.4,auction_transactions_2013_2022.zip
+Dwayne Bravo,All-Rounder,44000000,Chennai Super Kings,2022.0,Overseas,dwaynebravo,CSK,44000000,4.4,auction_transactions_2013_2022.zip
+Dwayne Smith,Batsman,45000000,Chennai Super Kings,2014.0,Overseas,dwaynesmith,CSK,45000000,4.5,auction_transactions_2013_2022.zip
+Dwayne Smith,All-Rounder,23000000,Gujarat Lions,2016.0,Overseas,dwaynesmith,GL,23000000,2.3,auction_transactions_2013_2022.zip
+Eklavya Dwivedi,Wicket Keeper,1000000,Chennai Super Kings,2015.0,Indian,eklavyadwivedi,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Eklavya Dwivedi,Wicket Keeper,10000000,Gujarat Lions,2016.0,Indian,eklavyadwivedi,GL,10000000,1.0,auction_transactions_2013_2022.zip
+Eklavya Dwivedi,Wicket Keeper,7500000,Sunrisers Hyderabad,2017.0,Indian,eklavyadwivedi,SRH,7500000,0.75,auction_transactions_2013_2022.zip
+Eoin Morgan,Batsman,15000000,Sunrisers Hyderabad,2015.0,Overseas,eoinmorgan,SRH,15000000,1.5,auction_transactions_2013_2022.zip
+Eoin Morgan,Batsman,20000000,Kings XI Punjab,2017.0,Overseas,eoinmorgan,PBKS,20000000,2.0,auction_transactions_2013_2022.zip
+Eoin Morgan,Batsman,52500000,Kolkata Knight Riders,2020.0,Overseas,eoinmorgan,KKR,52500000,5.25,auction_transactions_2013_2022.zip
+Evin Lewis,Batsman,38000000,Mumbai Indians,2018.0,Overseas,evinlewis,MI,38000000,3.8,auction_transactions_2013_2022.zip
+Evin Lewis,Batsman,20000000,Lucknow Super Giants,2022.0,Overseas,evinlewis,LSG,20000000,2.0,auction_transactions_2013_2022.zip
+Fabian Allen,All-Rounder,5000000,Sunrisers Hyderabad,2020.0,Overseas,fabianallen,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Fabian Allen,All-Rounder,7500000,Punjab Kings,2021.0,Overseas,fabianallen,PBKS,7500000,0.75,auction_transactions_2013_2022.zip
+Fabian Allen,All-Rounder,7500000,Mumbai Indians,2022.0,Overseas,fabianallen,MI,7500000,0.75,auction_transactions_2013_2022.zip
+Faf Du Plessis,Batsman,47500000,Chennai Super Kings,2014.0,Overseas,fafduplessis,CSK,47500000,4.75,auction_transactions_2013_2022.zip
+Faf Du Plessis,Batsman,16000000,Chennai Super Kings,2018.0,Overseas,fafduplessis,CSK,16000000,1.6,auction_transactions_2013_2022.zip
+Faf Du Plessis,Batsman,70000000,Royal Challengers Bangalore,2022.0,Overseas,fafduplessis,RCB,70000000,7.0,auction_transactions_2013_2022.zip
+Farhaan Behardien,All-Rounder,3000000,Kings XI Punjab,2016.0,Overseas,farhaanbehardien,PBKS,3000000,0.3,auction_transactions_2013_2022.zip
+Fazalhaq Farooqi,Bowler,5000000,Sunrisers Hyderabad,2022.0,Overseas,fazalhaqfarooqi,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Fidel Edwards,Bowler,15750000,Rajasthan Royals,2013.0,Overseas,fideledwards,RR,15750000,1.575,auction_transactions_2013_2022.zip
+Finn Allen,Batsman,8000000,Royal Challengers Bangalore,2022.0,Overseas,finnallen,RCB,8000000,0.8,auction_transactions_2013_2022.zip
+Gautam Gambhir,Batsman,28000000,Delhi Daredevils,2018.0,Indian,gautamgambhir,DC,28000000,2.8,auction_transactions_2013_2022.zip
+George Bailey,Batsman,32500000,Kings XI Punjab,2014.0,Overseas,georgebailey,PBKS,32500000,3.25,auction_transactions_2013_2022.zip
+Glenn Maxwell,All-Rounder,75000000,Mumbai Indians,2013.0,Overseas,glennmaxwell,MI,75000000,7.5,auction_transactions_2013_2022.zip
+Glenn Maxwell,All-Rounder,60000000,Kings XI Punjab,2014.0,Overseas,glennmaxwell,PBKS,60000000,6.0,auction_transactions_2013_2022.zip
+Glenn Maxwell,All-Rounder,90000000,Delhi Daredevils,2018.0,Overseas,glennmaxwell,DC,90000000,9.0,auction_transactions_2013_2022.zip
+Glenn Maxwell,All-Rounder,107500000,Kings XI Punjab,2020.0,Overseas,glennmaxwell,PBKS,107500000,10.75,auction_transactions_2013_2022.zip
+Glenn Maxwell,All-Rounder,142500000,Royal Challengers Bangalore,2021.0,Overseas,glennmaxwell,RCB,142500000,14.25,auction_transactions_2013_2022.zip
+Glenn Phillips,Wicket Keeper,15000000,Sunrisers Hyderabad,2022.0,Overseas,glennphillips,SRH,15000000,1.5,auction_transactions_2013_2022.zip
+Gurinder Sandhu,Bowler,17000000,Delhi Daredevils,2015.0,Indian,gurindersandhu,DC,17000000,1.7,auction_transactions_2013_2022.zip
+Gurkeerat Singh Mann,All-Rounder,5000000,Gujarat Titans,2022.0,Indian,gurkeeratsinghmann,GT,5000000,0.5,auction_transactions_2013_2022.zip
+Gurkeerat Singh Mann,All-Rounder,7500000,Delhi Daredevils,2018.0,Indian,gurkeeratsinghmann,DC,7500000,0.75,auction_transactions_2013_2022.zip
+Gurkeerat Singh Mann,All-Rounder,5000000,Royal Challengers Bangalore,2019.0,Indian,gurkeeratsinghmann,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Gurkeerat Singh Mann,Batsman,13000000,Kings XI Punjab,2014.0,Indian,gurkeeratsinghmann,PBKS,13000000,1.3,auction_transactions_2013_2022.zip
+Hanuma Vihari,Batsman,1000000,Sunrisers Hyderabad,2015.0,Indian,hanumavihari,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Hanuma Vihari,Batsman,20000000,Delhi Capitals,2019.0,Indian,hanumavihari,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Harbhajan Singh,Bowler,20000000,Chennai Super Kings,2018.0,Indian,harbhajansingh,CSK,20000000,2.0,auction_transactions_2013_2022.zip
+Harbhajan Singh,Bowler,20000000,Kolkata Knight Riders,2021.0,Indian,harbhajansingh,KKR,20000000,2.0,auction_transactions_2013_2022.zip
+Hardik Pandya,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,hardikpandya,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Hardus Viljoen,Bowler,7500000,Kings XI Punjab,2019.0,Overseas,hardusviljoen,PBKS,7500000,0.75,auction_transactions_2013_2022.zip
+Harpreet Brar,All-Rounder,2000000,Kings XI Punjab,2019.0,Indian,harpreetbrar,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Harpreet Brar,All-Rounder,38000000,Punjab Kings,2022.0,Indian,harpreetbrar,PBKS,38000000,3.8,auction_transactions_2013_2022.zip
+Harry Gurney,Bowler,7500000,Kolkata Knight Riders,2019.0,Overseas,harrygurney,KKR,7500000,0.75,auction_transactions_2013_2022.zip
+Harshal Patel,Bowler,4000000,Royal Challengers Bangalore,2014.0,Indian,harshalpatel,RCB,4000000,0.4,auction_transactions_2013_2022.zip
+Harshal Patel,All-Rounder,2000000,Delhi Daredevils,2018.0,Indian,harshalpatel,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Harshal Patel,All-Rounder,107500000,Royal Challengers Bangalore,2022.0,Indian,harshalpatel,RCB,107500000,10.75,auction_transactions_2013_2022.zip
+Heinrich Klaasen,Wicket Keeper,5000000,Royal Challengers Bangalore,2019.0,Overseas,heinrichklaasen,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Himmat Singh,Batsman,6500000,Royal Challengers Bangalore,2019.0,Indian,himmatsingh,RCB,6500000,0.65,auction_transactions_2013_2022.zip
+Hrithik Shokeen,All-Rounder,2000000,Mumbai Indians,2022.0,Indian,hrithikshokeen,MI,2000000,0.2,auction_transactions_2013_2022.zip
+HS Sharath,Bowler,1000000,Delhi Daredevils,2014.0,Indian,hssharath,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Imran Tahir,Bowler,10000000,Chennai Super Kings,2018.0,Overseas,imrantahir,CSK,10000000,1.0,auction_transactions_2013_2022.zip
+Iqbal Abdullah,All-Rounder,6500000,Rajasthan Royals,2014.0,Indian,iqbalabdullah,RR,6500000,0.65,auction_transactions_2013_2022.zip
+Iqbal Abdullah,All-Rounder,1000000,Royal Challengers Bangalore,2016.0,Indian,iqbalabdullah,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Irfan Pathan,All-Rounder,24000000,Sunrisers Hyderabad,2014.0,Indian,irfanpathan,SRH,24000000,2.4,auction_transactions_2013_2022.zip
+Irfan Pathan,All-Rounder,15000000,Chennai Super Kings,2015.0,Indian,irfanpathan,CSK,15000000,1.5,auction_transactions_2013_2022.zip
+Irfan Pathan,All-Rounder,10000000,Rising Pune Supergiant,2016.0,Indian,irfanpathan,RPS,10000000,1.0,auction_transactions_2013_2022.zip
+Ishan Kishan,Wicket Keeper,3500000,Gujarat Lions,2016.0,Indian,ishankishan,GL,3500000,0.35,auction_transactions_2013_2022.zip
+Ishan Kishan,Wicket Keeper,62000000,Mumbai Indians,2018.0,Indian,ishankishan,MI,62000000,6.2,auction_transactions_2013_2022.zip
+Ishan Kishan,Wicket Keeper,152500000,Mumbai Indians,2022.0,Indian,ishankishan,MI,152500000,15.25,auction_transactions_2013_2022.zip
+Ishan Porel,Bowler,2500000,Punjab Kings,2022.0,Indian,ishanporel,PBKS,2500000,0.25,auction_transactions_2013_2022.zip
+Ishan Porel,Bowler,2000000,Kings XI Punjab,,Indian,ishanporel,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Ishank Jaggi,Batsman,1000000,Kolkata Knight Riders,2017.0,Indian,ishankjaggi,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Ishank Jaggi,Batsman,2000000,Kolkata Knight Riders,2018.0,Indian,ishankjaggi,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Ishant Sharma,Bowler,26000000,Sunrisers Hyderabad,2014.0,Indian,ishantsharma,SRH,26000000,2.6,auction_transactions_2013_2022.zip
+Ishant Sharma,Bowler,38000000,Rising Pune Supergiant,2016.0,Indian,ishantsharma,RPS,38000000,3.8,auction_transactions_2013_2022.zip
+Ishant Sharma,Bowler,11000000,Delhi Capitals,2019.0,Indian,ishantsharma,DC,11000000,1.1,auction_transactions_2013_2022.zip
+Ishwar Chandra Pandey,Bowler,15000000,Chennai Super Kings,2014.0,Indian,ishwarchandrapandey,CSK,15000000,1.5,auction_transactions_2013_2022.zip
+Ishwar Chandra Pandey,Bowler,2000000,Rising Pune Supergiant,2016.0,Indian,ishwarchandrapandey,RPS,2000000,0.2,auction_transactions_2013_2022.zip
+Isuru Udana,All-Rounder,5000000,Royal Challengers Bangalore,2020.0,Overseas,isuruudana,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+J Suchith,Bowler,3000000,Sunrisers Hyderabad,2021.0,Indian,jsuchith,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+J Suchith,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,jsuchith,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Jacob Oram,All-Rounder,3750000,Mumbai Indians,2013.0,Overseas,jacoboram,MI,3750000,0.375,auction_transactions_2013_2022.zip
+Jacques Kallis,All-Rounder,55000000,Kolkata Knight Riders,2014.0,Overseas,jacqueskallis,KKR,55000000,5.5,auction_transactions_2013_2022.zip
+Jagadeesha Suchith,Bowler,2000000,Sunrisers Hyderabad,2022.0,Indian,jagadeeshasuchith,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Jalaj Saxena,All-Rounder,9000000,Mumbai Indians,2014.0,Indian,jalajsaxena,MI,9000000,0.9,auction_transactions_2013_2022.zip
+Jalaj Saxena,All-Rounder,1000000,Royal Challengers Bangalore,2015.0,Indian,jalajsaxena,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Jalaj Saxena,All-Rounder,2000000,Delhi Capitals,2019.0,Indian,jalajsaxena,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Jalaj Saxena,All-Rounder,3000000,Punjab Kings,2021.0,Indian,jalajsaxena,PBKS,3000000,0.3,auction_transactions_2013_2022.zip
+James Faulkner,All-Rounder,30000000,Rajasthan Royals,2013.0,Overseas,jamesfaulkner,RR,30000000,3.0,auction_transactions_2013_2022.zip
+James Neesham,All-Rounder,10000000,Delhi Daredevils,2014.0,Overseas,jamesneesham,DC,10000000,1.0,auction_transactions_2013_2022.zip
+James Neesham,All-Rounder,5000000,Kolkata Knight Riders,2015.0,Overseas,jamesneesham,KKR,5000000,0.5,auction_transactions_2013_2022.zip
+James Neesham,All-Rounder,5000000,Kings XI Punjab,2020.0,Overseas,jamesneesham,PBKS,5000000,0.5,auction_transactions_2013_2022.zip
+James Neesham,All-Rounder,5000000,Mumbai Indians,2021.0,Overseas,jamesneesham,MI,5000000,0.5,auction_transactions_2013_2022.zip
+James Neesham,All-Rounder,15000000,Rajasthan Royals,2022.0,Overseas,jamesneesham,RR,15000000,1.5,auction_transactions_2013_2022.zip
+Jaskaran Singh,Bowler,1000000,Rising Pune Supergiant,2016.0,Indian,jaskaransingh,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Jason Behrendorff,Bowler,15000000,Mumbai Indians,2018.0,Overseas,jasonbehrendorff,MI,15000000,1.5,auction_transactions_2013_2022.zip
+Jason Behrendorff,Bowler,7500000,Royal Challengers Bangalore,2022.0,Overseas,jasonbehrendorff,RCB,7500000,0.75,auction_transactions_2013_2022.zip
+Jason Holder,Bowler,1500000,Chennai Super Kings,2013.0,Overseas,jasonholder,CSK,1500000,0.15,auction_transactions_2013_2022.zip
+Jason Holder,Bowler,7500000,Sunrisers Hyderabad,2014.0,Overseas,jasonholder,SRH,7500000,0.75,auction_transactions_2013_2022.zip
+Jason Holder,All-Rounder,7000000,Kolkata Knight Riders,2016.0,Overseas,jasonholder,KKR,7000000,0.7,auction_transactions_2013_2022.zip
+Jason Holder,All-Rounder,87500000,Lucknow Super Giants,2022.0,Overseas,jasonholder,LSG,87500000,8.75,auction_transactions_2013_2022.zip
+Jason Roy,Batsman,10000000,Gujarat Lions,2017.0,Overseas,jasonroy,GL,10000000,1.0,auction_transactions_2013_2022.zip
+Jason Roy,Batsman,15000000,Delhi Daredevils,2018.0,Overseas,jasonroy,DC,15000000,1.5,auction_transactions_2013_2022.zip
+Jason Roy,Batsman,15000000,Delhi Capitals,2020.0,Overseas,jasonroy,DC,15000000,1.5,auction_transactions_2013_2022.zip
+Jason Roy,Batsman,20000000,Gujarat Titans,2022.0,Overseas,jasonroy,GT,20000000,2.0,auction_transactions_2013_2022.zip
+Jasprit Bumrah,Bowler,12000000,Mumbai Indians,2014.0,Indian,jaspritbumrah,MI,12000000,1.2,auction_transactions_2013_2022.zip
+Jatin Saxena,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,jatinsaxena,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Javon Searless,All-Rounder,3000000,Kolkata Knight Riders,2018.0,Indian,javonsearless,KKR,3000000,0.3,auction_transactions_2013_2022.zip
+Jayant Yadav,All-Rounder,1000000,Delhi Daredevils,2014.0,Indian,jayantyadav,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Jayant Yadav,All-Rounder,5000000,Delhi Daredevils,2018.0,Indian,jayantyadav,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Jayant Yadav,All-Rounder,17000000,Gujarat Titans,2022.0,Indian,jayantyadav,GT,17000000,1.7,auction_transactions_2013_2022.zip
+Jaydev Shah,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,jaydevshah,GL,2000000,0.2,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,39375000,Royal Challengers Bangalore,2013.0,Indian,jaydevunadkat,RCB,39375000,3.9375,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,28000000,Delhi Daredevils,2014.0,Indian,jaydevunadkat,DC,28000000,2.8,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,11000000,Delhi Daredevils,2015.0,Indian,jaydevunadkat,DC,11000000,1.1,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,16000000,Kolkata Knight Riders,2016.0,Indian,jaydevunadkat,KKR,16000000,1.6,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,3000000,Rising Pune Supergiant,2017.0,Indian,jaydevunadkat,RPS,3000000,0.3,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,115000000,Rajasthan Royals,2018.0,Indian,jaydevunadkat,RR,115000000,11.5,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,84000000,Rajasthan Royals,2019.0,Indian,jaydevunadkat,RR,84000000,8.4,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,30000000,Rajasthan Royals,2020.0,Indian,jaydevunadkat,RR,30000000,3.0,auction_transactions_2013_2022.zip
+Jaydev Unadkat,Bowler,13000000,Mumbai Indians,2022.0,Indian,jaydevunadkat,MI,13000000,1.3,auction_transactions_2013_2022.zip
+Jean-Paul Duminy,Batsman,22000000,Delhi Daredevils,2014.0,Overseas,jeanpaulduminy,DC,22000000,2.2,auction_transactions_2013_2022.zip
+Jean-Paul Duminy,All-Rounder,10000000,Mumbai Indians,2018.0,Overseas,jeanpaulduminy,MI,10000000,1.0,auction_transactions_2013_2022.zip
+Jeevan Mendis,All-Rounder,3750000,Delhi Daredevils,2013.0,Overseas,jeevanmendis,DC,3750000,0.375,auction_transactions_2013_2022.zip
+Jesse Ryder,All-Rounder,19500000,Delhi Daredevils,2013.0,Overseas,jesseryder,DC,19500000,1.95,auction_transactions_2013_2022.zip
+Jhye Richardson,Bowler,140000000,Punjab Kings,2021.0,Overseas,jhyerichardson,PBKS,140000000,14.0,auction_transactions_2013_2022.zip
+Jitesh Sharma,Wicket Keeper,1000000,Mumbai Indians,2016.0,Indian,jiteshsharma,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Jitesh Sharma,Wicket Keeper,2000000,Punjab Kings,2022.0,Indian,jiteshsharma,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Joe Denly,Batsman,10000000,Kolkata Knight Riders,2019.0,Overseas,joedenly,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Joel Paris,Bowler,3000000,Delhi Daredevils,2016.0,Overseas,joelparis,DC,3000000,0.3,auction_transactions_2013_2022.zip
+Jofra Archer,All-Rounder,72000000,Rajasthan Royals,2018.0,Overseas,jofraarcher,RR,72000000,7.2,auction_transactions_2013_2022.zip
+Jofra Archer,All-Rounder,80000000,Mumbai Indians,2022.0,Overseas,jofraarcher,MI,80000000,8.0,auction_transactions_2013_2022.zip
+Johan Botha,All-Rounder,33750000,Delhi Daredevils,2013.0,Overseas,johanbotha,DC,33750000,3.375,auction_transactions_2013_2022.zip
+John Hastings,All-Rounder,5000000,Chennai Super Kings,2014.0,Overseas,johnhastings,CSK,5000000,0.5,auction_transactions_2013_2022.zip
+John Hastings,Bowler,13000000,Kolkata Knight Riders,2016.0,Overseas,johnhastings,KKR,13000000,1.3,auction_transactions_2013_2022.zip
+Jonny Bairstow,Wicket Keeper,22000000,Sunrisers Hyderabad,2019.0,Overseas,jonnybairstow,SRH,22000000,2.2,auction_transactions_2013_2022.zip
+Jonny Bairstow,Wicket Keeper,67500000,Punjab Kings,2022.0,Overseas,jonnybairstow,PBKS,67500000,6.75,auction_transactions_2013_2022.zip
+Jos Buttler,Wicket Keeper,38000000,Mumbai Indians,2016.0,Overseas,josbuttler,MI,38000000,3.8,auction_transactions_2013_2022.zip
+Jos Buttler,Wicket Keeper,44000000,Rajasthan Royals,2018.0,Overseas,josbuttler,RR,44000000,4.4,auction_transactions_2013_2022.zip
+Josh Hazlewood,Bowler,5000000,Mumbai Indians,2014.0,Overseas,joshhazlewood,MI,5000000,0.5,auction_transactions_2013_2022.zip
+Josh Hazlewood,Bowler,20000000,Chennai Super Kings,2020.0,Overseas,joshhazlewood,CSK,20000000,2.0,auction_transactions_2013_2022.zip
+Josh Hazlewood,Bowler,77500000,Royal Challengers Bangalore,2022.0,Overseas,joshhazlewood,RCB,77500000,7.75,auction_transactions_2013_2022.zip
+Joshua Philippe,Wicket Keeper,2000000,Royal Challengers Bangalore,2020.0,Overseas,joshuaphilippe,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Juan Theron,Bowler,3000000,Rajasthan Royals,2015.0,Overseas,juantheron,RR,3000000,0.3,auction_transactions_2013_2022.zip
+Krishnappa Gowtham,All-Rounder,9000000,Lucknow Super Giants,2022.0,Indian,krishnappagowtham,LSG,9000000,0.9,auction_transactions_2013_2022.zip
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2021.0,Indian,kbhagathvarma,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+K.Bhagath Varma,All-Rounder,2000000,Chennai Super Kings,2022.0,Indian,kbhagathvarma,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+K.C Cariappa,Bowler,2000000,Rajasthan Royals,2021.0,Indian,kccariappa,RR,2000000,0.2,auction_transactions_2013_2022.zip
+K.C Cariappa,Bowler,3000000,Rajasthan Royals,2022.0,Indian,kccariappa,RR,3000000,0.3,auction_transactions_2013_2022.zip
+K.C. Cariappa,Bowler,24000000,Kolkata Knight Riders,2015.0,Indian,kccariappa,KKR,24000000,2.4,auction_transactions_2013_2022.zip
+K.C. Cariappa,Bowler,8000000,Kings XI Punjab,2016.0,Indian,kccariappa,PBKS,8000000,0.8,auction_transactions_2013_2022.zip
+K.K. Jiyaz,Bowler,1000000,Delhi Daredevils,2015.0,Indian,kkjiyaz,DC,1000000,0.1,auction_transactions_2013_2022.zip
+K.M. Asif,Bowler,2000000,Chennai Super Kings,2022.0,Indian,kmasif,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+K.S. Bharat,Wicket Keeper,20000000,Delhi Capitals,2022.0,Indian,ksbharat,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Kagiso Rabada,Bowler,50000000,Delhi Daredevils,2017.0,Overseas,kagisorabada,DC,50000000,5.0,auction_transactions_2013_2022.zip
+Kagiso Rabada,Bowler,42000000,Delhi Daredevils,2018.0,Overseas,kagisorabada,DC,42000000,4.2,auction_transactions_2013_2022.zip
+Kagiso Rabada,Bowler,92500000,Punjab Kings,2022.0,Overseas,kagisorabada,PBKS,92500000,9.25,auction_transactions_2013_2022.zip
+Kamlesh Nagarkoti,All-Rounder,32000000,Kolkata Knight Riders,2018.0,Indian,kamleshnagarkoti,KKR,32000000,3.2,auction_transactions_2013_2022.zip
+Kamlesh Nagarkoti,All-Rounder,11000000,Delhi Capitals,2022.0,Indian,kamleshnagarkoti,DC,11000000,1.1,auction_transactions_2013_2022.zip
+Kane Richardson,Bowler,52500000,Pune Warriors India,2013.0,Overseas,kanerichardson,PWI,52500000,5.25,auction_transactions_2013_2022.zip
+Kane Richardson,Bowler,10000000,Rajasthan Royals,2014.0,Overseas,kanerichardson,RR,10000000,1.0,auction_transactions_2013_2022.zip
+Kane Richardson,Bowler,20000000,Royal Challengers Bangalore,2016.0,Overseas,kanerichardson,RCB,20000000,2.0,auction_transactions_2013_2022.zip
+Kane Richardson,Bowler,40000000,Royal Challengers Bangalore,2020.0,Overseas,kanerichardson,RCB,40000000,4.0,auction_transactions_2013_2022.zip
+Kane Williamson,All-Rounder,6000000,Sunrisers Hyderabad,2015.0,Overseas,kanewilliamson,SRH,6000000,0.6,auction_transactions_2013_2022.zip
+Kane Williamson,Batsman,30000000,Sunrisers Hyderabad,2018.0,Overseas,kanewilliamson,SRH,30000000,3.0,auction_transactions_2013_2022.zip
+Kanishk Seth,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,kanishkseth,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Karan Sharma,All-Rounder,2000000,Lucknow Super Giants,2022.0,Indian,karansharma,LSG,2000000,0.2,auction_transactions_2013_2022.zip
+Karanveer Singh,All-Rounder,1000000,Kings XI Punjab,2014.0,Indian,karanveersingh,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Karn Sharma,Bowler,37500000,Sunrisers Hyderabad,2014.0,Indian,karnsharma,SRH,37500000,3.75,auction_transactions_2013_2022.zip
+Karn Sharma,All-Rounder,32000000,Mumbai Indians,2017.0,Indian,karnsharma,MI,32000000,3.2,auction_transactions_2013_2022.zip
+Karn Sharma,Bowler,50000000,Chennai Super Kings,2018.0,Indian,karnsharma,CSK,50000000,5.0,auction_transactions_2013_2022.zip
+Karn Sharma,Bowler,5000000,Royal Challengers Bangalore,2022.0,Indian,karnsharma,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Kartik Tyagi,Bowler,13000000,Rajasthan Royals,2020.0,Indian,kartiktyagi,RR,13000000,1.3,auction_transactions_2013_2022.zip
+Kartik Tyagi,Bowler,40000000,Sunrisers Hyderabad,2022.0,Indian,kartiktyagi,SRH,40000000,4.0,auction_transactions_2013_2022.zip
+Karun Nair,Batsman,7500000,Rajasthan Royals,2014.0,Indian,karunnair,RR,7500000,0.75,auction_transactions_2013_2022.zip
+Karun Nair,Batsman,40000000,Delhi Daredevils,2016.0,Indian,karunnair,DC,40000000,4.0,auction_transactions_2013_2022.zip
+Karun Nair,Batsman,56000000,Kings XI Punjab,2018.0,Indian,karunnair,PBKS,56000000,5.6,auction_transactions_2013_2022.zip
+Karun Nair,Batsman,5000000,Kolkata Knight Riders,2021.0,Indian,karunnair,KKR,5000000,0.5,auction_transactions_2013_2022.zip
+Karun Nair,Batsman,14000000,Rajasthan Royals,2022.0,Indian,karunnair,RR,14000000,1.4,auction_transactions_2013_2022.zip
+Kedar Jadhav,Batsman,20000000,Delhi Daredevils,2014.0,Indian,kedarjadhav,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Kedar Jadhav,All-Rounder,78000000,Chennai Super Kings,2018.0,Indian,kedarjadhav,CSK,78000000,7.8,auction_transactions_2013_2022.zip
+Kedar Jadhav,All-Rounder,20000000,Sunrisers Hyderabad,2021.0,Indian,kedarjadhav,SRH,20000000,2.0,auction_transactions_2013_2022.zip
+Keemo Paul,All-Rounder,5000000,Delhi Capitals,2019.0,Overseas,keemopaul,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Kevin Pietersen,Batsman,90000000,Delhi Daredevils,2014.0,Overseas,kevinpietersen,DC,90000000,9.0,auction_transactions_2013_2022.zip
+Kevin Pietersen,Batsman,20000000,Sunrisers Hyderabad,2015.0,Overseas,kevinpietersen,SRH,20000000,2.0,auction_transactions_2013_2022.zip
+Kevin Pietersen,Batsman,35000000,Rising Pune Supergiant,2016.0,Overseas,kevinpietersen,RPS,35000000,3.5,auction_transactions_2013_2022.zip
+Kevon Cooper,All-Rounder,3000000,Rajasthan Royals,2014.0,Overseas,kevoncooper,RR,3000000,0.3,auction_transactions_2013_2022.zip
+Kieron Pollard,All-Rounder,54000000,Mumbai Indians,2018.0,Overseas,kieronpollard,MI,54000000,5.4,auction_transactions_2013_2022.zip
+Kishore Pramod Kamath,All-Rounder,14000000,Mumbai Indians,2016.0,Indian,kishorepramodkamath,MI,14000000,1.4,auction_transactions_2013_2022.zip
+KL Rahul,Batsman,10000000,Sunrisers Hyderabad,2014.0,Indian,klrahul,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+KL Rahul,Batsman,110000000,Kings XI Punjab,2018.0,Indian,klrahul,PBKS,110000000,11.0,auction_transactions_2013_2022.zip
+Kona Srikar Bharat,Wicket Keeper,1000000,Delhi Daredevils,2015.0,Indian,konasrikarbharat,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Kona Srikar Bharat,Wicket Keeper,2000000,Royal Challengers Bangalore,2021.0,Indian,konasrikarbharat,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Krishnappa Gowtham,All-Rounder,20000000,Mumbai Indians,2017.0,Indian,krishnappagowtham,MI,20000000,2.0,auction_transactions_2013_2022.zip
+Krishnappa Gowtham,Bowler,62000000,Rajasthan Royals,2018.0,Indian,krishnappagowtham,RR,62000000,6.2,auction_transactions_2013_2022.zip
+Krishnappa Gowtham,All-Rounder,92500000,Chennai Super Kings,2021.0,Indian,krishnappagowtham,CSK,92500000,9.25,auction_transactions_2013_2022.zip
+Krismar Santokie,Bowler,3000000,Mumbai Indians,2014.0,Overseas,krismarsantokie,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Krunal Pandya,All-Rounder,20000000,Mumbai Indians,2016.0,Indian,krunalpandya,MI,20000000,2.0,auction_transactions_2013_2022.zip
+Krunal Pandya,All-Rounder,88000000,Mumbai Indians,2018.0,Indian,krunalpandya,MI,88000000,8.8,auction_transactions_2013_2022.zip
+Krunal Pandya,All-Rounder,82500000,Lucknow Super Giants,2022.0,Indian,krunalpandya,LSG,82500000,8.25,auction_transactions_2013_2022.zip
+Kshitiz Sharma,All-Rounder,2000000,Chennai Super Kings,2018.0,Indian,kshitizsharma,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Kuldeep Sen,Bowler,2000000,Rajasthan Royals,2022.0,Indian,kuldeepsen,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Kuldeep Yadav,Bowler,4000000,Kolkata Knight Riders,2014.0,Indian,kuldeepyadav,KKR,4000000,0.4,auction_transactions_2013_2022.zip
+Kuldeep Yadav,Bowler,58000000,Kolkata Knight Riders,2018.0,Indian,kuldeepyadav,KKR,58000000,5.8,auction_transactions_2013_2022.zip
+Kuldeep Yadav,Bowler,20000000,Delhi Capitals,2022.0,Indian,kuldeepyadav,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2021.0,Indian,kuldipyadav,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Kuldip Yadav,Bowler,2000000,Rajasthan Royals,2022.0,Indian,kuldipyadav,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Kulwant Khejroliya,Bowler,1000000,Mumbai Indians,2017.0,Indian,kulwantkhejroliya,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Kulwant Khejroliya,Bowler,8500000,Royal Challengers Bangalore,2018.0,Indian,kulwantkhejroliya,RCB,8500000,0.85,auction_transactions_2013_2022.zip
+Kusal Janith Perera,Wicket Keeper,1500000,Rajasthan Royals,2013.0,Indian,kusaljanithperera,RR,1500000,0.15,auction_transactions_2013_2022.zip
+Kyle Abbott,Bowler,3000000,Chennai Super Kings,2015.0,Overseas,kyleabbott,CSK,3000000,0.3,auction_transactions_2013_2022.zip
+Kyle Abbott,Bowler,21000000,Kings XI Punjab,2016.0,Overseas,kyleabbott,PBKS,21000000,2.1,auction_transactions_2013_2022.zip
+Kyle Jamieson,All-Rounder,150000000,Royal Challengers Bangalore,2021.0,Overseas,kylejamieson,RCB,150000000,15.0,auction_transactions_2013_2022.zip
+Kyle Mayers,All-Rounder,5000000,Lucknow Super Giants,2022.0,Overseas,kylemayers,LSG,5000000,0.5,auction_transactions_2013_2022.zip
+Lakshmipathy Balaji,Bowler,18000000,Kings XI Punjab,2014.0,Indian,lakshmipathybalaji,PBKS,18000000,1.8,auction_transactions_2013_2022.zip
+Lalit Yadav,All-Rounder,2000000,Delhi Capitals,2020.0,Indian,lalityadav,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Lalit Yadav,All-Rounder,6500000,Delhi Capitals,2022.0,Indian,lalityadav,DC,6500000,0.65,auction_transactions_2013_2022.zip
+Lasith Malinga,Bowler,20000000,Mumbai Indians,2019.0,Overseas,lasithmalinga,MI,20000000,2.0,auction_transactions_2013_2022.zip
+Laxmi Ratan Shukla,All-Rounder,15000000,Delhi Daredevils,2014.0,Indian,laxmiratanshukla,DC,15000000,1.5,auction_transactions_2013_2022.zip
+Laxmi Ratan Shukla,All-Rounder,3000000,Sunrisers Hyderabad,2015.0,Indian,laxmiratanshukla,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+Liam Livingstone,All-Rounder,5000000,Rajasthan Royals,2019.0,Overseas,liamlivingstone,RR,5000000,0.5,auction_transactions_2013_2022.zip
+Liam Livingstone,All-Rounder,7500000,Rajasthan Royals,2021.0,Overseas,liamlivingstone,RR,7500000,0.75,auction_transactions_2013_2022.zip
+Liam Livingstone,All-Rounder,115000000,Punjab Kings,2022.0,Overseas,liamlivingstone,PBKS,115000000,11.5,auction_transactions_2013_2022.zip
+Lockie Ferguson,Bowler,5000000,Rising Pune Supergiant,2017.0,Overseas,lockieferguson,RPS,5000000,0.5,auction_transactions_2013_2022.zip
+Lockie Ferguson,Bowler,16000000,Kolkata Knight Riders,2019.0,Overseas,lockieferguson,KKR,16000000,1.6,auction_transactions_2013_2022.zip
+Lockie Ferguson,Bowler,100000000,Gujarat Titans,2022.0,Overseas,lockieferguson,GT,100000000,10.0,auction_transactions_2013_2022.zip
+Luke Pomersbach,Batsman,22500000,Kings XI Punjab,2013.0,Overseas,lukepomersbach,PBKS,22500000,2.25,auction_transactions_2013_2022.zip
+Lukman Hussain Meriwala,Bowler,2000000,Delhi Capitals,2021.0,Indian,lukmanhussainmeriwala,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Lungisani Ngidi,Bowler,5000000,Chennai Super Kings,2018.0,Overseas,lungisaningidi,CSK,5000000,0.5,auction_transactions_2013_2022.zip
+Lungisani Ngidi,Bowler,5000000,Delhi Capitals,2022.0,Overseas,lungisaningidi,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Luvnith Sisodia,Wicket Keeper,2000000,Royal Challengers Bangalore,2022.0,Indian,luvnithsisodia,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+M Siddharth,Bowler,2000000,Kolkata Knight Riders,2020.0,Indian,msiddharth,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+M Siddharth,Bowler,2000000,Delhi Capitals,2021.0,Indian,msiddharth,DC,2000000,0.2,auction_transactions_2013_2022.zip
+M. Ashwin,Bowler,45000000,Rising Pune Supergiant,2016.0,Indian,mashwin,RPS,45000000,4.5,auction_transactions_2013_2022.zip
+M. Ashwin,Bowler,10000000,Delhi Daredevils,2017.0,Indian,mashwin,DC,10000000,1.0,auction_transactions_2013_2022.zip
+M. Ashwin,Bowler,22000000,Royal Challengers Bangalore,2018.0,Indian,mashwin,RCB,22000000,2.2,auction_transactions_2013_2022.zip
+M. Ashwin,Bowler,2000000,Kings XI Punjab,2019.0,Indian,mashwin,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+M. Harisankar Reddy,Bowler,2000000,Chennai Super Kings,2021.0,Indian,mharisankarreddy,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Washington Sundar,All-Rounder,32000000,Royal Challengers Bangalore,2018.0,Indian,washingtonsundar,RCB,32000000,3.2,auction_transactions_2013_2022.zip
+Maheesh Theekshana,Bowler,7000000,Chennai Super Kings,2022.0,Overseas,maheeshtheekshana,CSK,7000000,0.7,auction_transactions_2013_2022.zip
+Mahipal Lomror,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,mahipallomror,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Mahipal Lomror,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,mahipallomror,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Mahipal Lomror,All-Rounder,9500000,Royal Challengers Bangalore,2022.0,Indian,mahipallomror,RCB,9500000,0.95,auction_transactions_2013_2022.zip
+Manan Ajay Sharma,All-Rounder,1000000,Kolkata Knight Riders,2016.0,Indian,mananajaysharma,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Manan Vohra,Batsman,11000000,Royal Challengers Bangalore,2018.0,Indian,mananvohra,RCB,11000000,1.1,auction_transactions_2013_2022.zip
+Manan Vohra,Batsman,2000000,Rajasthan Royals,2019.0,Indian,mananvohra,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Manan Vohra,Batsman,2000000,Lucknow Super Giants,2022.0,Indian,mananvohra,LSG,2000000,0.2,auction_transactions_2013_2022.zip
+Mandeep Hardev Singh,All-Rounder,8000000,Kings XI Punjab,2014.0,Indian,mandeephardevsingh,PBKS,8000000,0.8,auction_transactions_2013_2022.zip
+Mandeep Singh,All-Rounder,14000000,Royal Challengers Bangalore,2018.0,Indian,mandeepsingh,RCB,14000000,1.4,auction_transactions_2013_2022.zip
+Mandeep Singh,Batsman,11000000,Delhi Capitals,2022.0,Indian,mandeepsingh,DC,11000000,1.1,auction_transactions_2013_2022.zip
+Manish Pandey,Batsman,17000000,Kolkata Knight Riders,2014.0,Indian,manishpandey,KKR,17000000,1.7,auction_transactions_2013_2022.zip
+Manish Pandey,Batsman,110000000,Sunrisers Hyderabad,2018.0,Indian,manishpandey,SRH,110000000,11.0,auction_transactions_2013_2022.zip
+Manish Pandey,Batsman,46000000,Lucknow Super Giants,2022.0,Indian,manishpandey,LSG,46000000,4.6,auction_transactions_2013_2022.zip
+Manjot Kalra,Batsman,2000000,Delhi Daredevils,2018.0,Indian,manjotkalra,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Manoj Tiwary,Batsman,28000000,Delhi Daredevils,2014.0,Indian,manojtiwary,DC,28000000,2.8,auction_transactions_2013_2022.zip
+Manoj Tiwary,Batsman,5000000,Rising Pune Supergiant,2017.0,Indian,manojtiwary,RPS,5000000,0.5,auction_transactions_2013_2022.zip
+Manoj Tiwary,Batsman,10000000,Kings XI Punjab,2018.0,Indian,manojtiwary,PBKS,10000000,1.0,auction_transactions_2013_2022.zip
+Manpreet Gony,Bowler,37500000,Kings XI Punjab,2013.0,Indian,manpreetgony,PBKS,37500000,3.75,auction_transactions_2013_2022.zip
+Manpreet Gony,Bowler,6000000,Gujarat Lions,2017.0,Indian,manpreetgony,GL,6000000,0.6,auction_transactions_2013_2022.zip
+Manprit Juneja,Batsman,1000000,Sunrisers Hyderabad,2014.0,Indian,manpritjuneja,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Manvinder Bisla,Wicket Keeper,6000000,Kolkata Knight Riders,2014.0,Indian,manvinderbisla,KKR,6000000,0.6,auction_transactions_2013_2022.zip
+Manzoor Dar,All-Rounder,2000000,Kings XI Punjab,2018.0,Indian,manzoordar,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Marchant De Lange,Bowler,3000000,Mumbai Indians,2014.0,Overseas,marchantdelange,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Marco Jansen,All-Rounder,2000000,Mumbai Indians,2021.0,Overseas,marcojansen,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Marco Jansen,All-Rounder,42000000,Sunrisers Hyderabad,2022.0,Overseas,marcojansen,SRH,42000000,4.2,auction_transactions_2013_2022.zip
+Marcus Stoinis,All-Rounder,2500000,Delhi Daredevils,2015.0,Overseas,marcusstoinis,DC,2500000,0.25,auction_transactions_2013_2022.zip
+Marcus Stoinis,All-Rounder,5500000,Kings XI Punjab,2016.0,Overseas,marcusstoinis,PBKS,5500000,0.55,auction_transactions_2013_2022.zip
+Marcus Stoinis,All-Rounder,62000000,Kings XI Punjab,2018.0,Overseas,marcusstoinis,PBKS,62000000,6.2,auction_transactions_2013_2022.zip
+Marcus Stoinis,All-Rounder,48000000,Delhi Capitals,2020.0,Overseas,marcusstoinis,DC,48000000,4.8,auction_transactions_2013_2022.zip
+Mark Wood,Bowler,15000000,Chennai Super Kings,2018.0,Overseas,markwood,CSK,15000000,1.5,auction_transactions_2013_2022.zip
+Mark Wood,Bowler,75000000,Lucknow Super Giants,2022.0,Overseas,markwood,LSG,75000000,7.5,auction_transactions_2013_2022.zip
+Martin Guptill,Batsman,5000000,Kings XI Punjab,2017.0,Overseas,martinguptill,PBKS,5000000,0.5,auction_transactions_2013_2022.zip
+Martin Guptill,Batsman,10000000,Sunrisers Hyderabad,2019.0,Overseas,martinguptill,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+Matt Henry,Bowler,3000000,Chennai Super Kings,2014.0,Overseas,matthenry,CSK,3000000,0.3,auction_transactions_2013_2022.zip
+Matt Henry,Bowler,5000000,Kings XI Punjab,2017.0,Overseas,matthenry,PBKS,5000000,0.5,auction_transactions_2013_2022.zip
+Matthew Wade,Wicket Keeper,24000000,Gujarat Titans,2022.0,Overseas,matthewwade,GT,24000000,2.4,auction_transactions_2013_2022.zip
+Mayank Agarwal,Batsman,16000000,Delhi Daredevils,2014.0,Indian,mayankagarwal,DC,16000000,1.6,auction_transactions_2013_2022.zip
+Mayank Agarwal,Batsman,10000000,Kings XI Punjab,2018.0,Indian,mayankagarwal,PBKS,10000000,1.0,auction_transactions_2013_2022.zip
+Mayank Dagar,All-Rounder,2000000,Kings XI Punjab,2018.0,Indian,mayankdagar,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Mayank Markande,Bowler,2000000,Mumbai Indians,2018.0,Indian,mayankmarkande,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Mayank Markande,Bowler,6500000,Mumbai Indians,2022.0,Indian,mayankmarkande,MI,6500000,0.65,auction_transactions_2013_2022.zip
+Mayank Yadav,Bowler,2000000,Lucknow Super Giants,2022.0,Indian,mayankyadav,LSG,2000000,0.2,auction_transactions_2013_2022.zip
+Michael Clarke,Batsman,30000000,Pune Warriors India,2013.0,Overseas,michaelclarke,PWI,30000000,3.0,auction_transactions_2013_2022.zip
+Michael Hussey,Batsman,50000000,Mumbai Indians,2014.0,Overseas,michaelhussey,MI,50000000,5.0,auction_transactions_2013_2022.zip
+Michael Hussey,Batsman,15000000,Chennai Super Kings,2015.0,Overseas,michaelhussey,CSK,15000000,1.5,auction_transactions_2013_2022.zip
+Midhun S,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,midhuns,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Milind Kumar,Batsman,1000000,Delhi Daredevils,2014.0,Indian,milindkumar,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Milind Kumar,All-Rounder,2000000,Royal Challengers Bangalore,2019.0,Indian,milindkumar,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Milind Tandon,All-Rounder,1000000,Rising Pune Supergiant,2017.0,Indian,milindtandon,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Mitchell Johnson,All-Rounder,65000000,Kings XI Punjab,2014.0,Overseas,mitchelljohnson,PBKS,65000000,6.5,auction_transactions_2013_2022.zip
+Mitchell Johnson,Bowler,20000000,Mumbai Indians,2017.0,Overseas,mitchelljohnson,MI,20000000,2.0,auction_transactions_2013_2022.zip
+Mitchell Johnson,Bowler,20000000,Kolkata Knight Riders,2018.0,Overseas,mitchelljohnson,KKR,20000000,2.0,auction_transactions_2013_2022.zip
+Mitchell Marsh,All-Rounder,48000000,Rising Pune Supergiant,2016.0,Overseas,mitchellmarsh,RPS,48000000,4.8,auction_transactions_2013_2022.zip
+Mitchell Marsh,All-Rounder,20000000,Sunrisers Hyderabad,2020.0,Overseas,mitchellmarsh,SRH,20000000,2.0,auction_transactions_2013_2022.zip
+Mitchell Marsh,All-Rounder,65000000,Delhi Capitals,2022.0,Overseas,mitchellmarsh,DC,65000000,6.5,auction_transactions_2013_2022.zip
+Mitchell McClenaghan,Bowler,3000000,Mumbai Indians,2015.0,Overseas,mitchellmcclenaghan,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Mitchell Santner,All-Rounder,5000000,Chennai Super Kings,2018.0,Overseas,mitchellsantner,CSK,5000000,0.5,auction_transactions_2013_2022.zip
+Mitchell Santner,All-Rounder,19000000,Chennai Super Kings,2022.0,Overseas,mitchellsantner,CSK,19000000,1.9,auction_transactions_2013_2022.zip
+Mitchell Starc,Bowler,50000000,Royal Challengers Bangalore,2014.0,Overseas,mitchellstarc,RCB,50000000,5.0,auction_transactions_2013_2022.zip
+Mitchell Starc,Bowler,94000000,Kolkata Knight Riders,2018.0,Overseas,mitchellstarc,KKR,94000000,9.4,auction_transactions_2013_2022.zip
+Mithun Manhas,All-Rounder,3000000,Chennai Super Kings,2014.0,Indian,mithunmanhas,CSK,3000000,0.3,auction_transactions_2013_2022.zip
+Moeen Ali,All-Rounder,17000000,Royal Challengers Bangalore,2018.0,Overseas,moeenali,RCB,17000000,1.7,auction_transactions_2013_2022.zip
+Moeen Ali,All-Rounder,70000000,Chennai Super Kings,2021.0,Overseas,moeenali,CSK,70000000,7.0,auction_transactions_2013_2022.zip
+Mohammad Nabi,All-Rounder,3000000,Sunrisers Hyderabad,2017.0,Overseas,mohammadnabi,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+Mohammad Nabi,All-Rounder,10000000,Sunrisers Hyderabad,2018.0,Overseas,mohammadnabi,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+Mohammad Nabi,All-Rounder,10000000,Kolkata Knight Riders,2022.0,Overseas,mohammadnabi,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Mohammad Shami,Bowler,42500000,Delhi Daredevils,2014.0,Indian,mohammadshami,DC,42500000,4.25,auction_transactions_2013_2022.zip
+Mohammad Shami,Bowler,30000000,Delhi Daredevils,2018.0,Indian,mohammadshami,DC,30000000,3.0,auction_transactions_2013_2022.zip
+Mohammad Shami,Bowler,48000000,Kings XI Punjab,2019.0,Indian,mohammadshami,PBKS,48000000,4.8,auction_transactions_2013_2022.zip
+Mohammad Shami,Bowler,62500000,Gujarat Titans,2022.0,Indian,mohammadshami,GT,62500000,6.25,auction_transactions_2013_2022.zip
+Mohammed Azharudeen,Wicket Keeper,2000000,Royal Challengers Bangalore,2021.0,Indian,mohammedazharudeen,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Mohammed Siraj,Bowler,26000000,Sunrisers Hyderabad,2017.0,Indian,mohammedsiraj,SRH,26000000,2.6,auction_transactions_2013_2022.zip
+Mohammed Siraj,Bowler,26000000,Royal Challengers Bangalore,2018.0,Indian,mohammedsiraj,RCB,26000000,2.6,auction_transactions_2013_2022.zip
+Mohd. Arshad Khan,All-Rounder,2000000,Mumbai Indians,2022.0,Indian,mohdarshadkhan,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Mohit Sharma,Bowler,20000000,Chennai Super Kings,2014.0,Indian,mohitsharma,CSK,20000000,2.0,auction_transactions_2013_2022.zip
+Mohit Sharma,Bowler,65000000,Kings XI Punjab,2016.0,Indian,mohitsharma,PBKS,65000000,6.5,auction_transactions_2013_2022.zip
+Mohit Sharma,Bowler,24000000,Kings XI Punjab,2018.0,Indian,mohitsharma,PBKS,24000000,2.4,auction_transactions_2013_2022.zip
+Mohit Sharma,Bowler,50000000,Chennai Super Kings,2019.0,Indian,mohitsharma,CSK,50000000,5.0,auction_transactions_2013_2022.zip
+Mohit Sharma,Bowler,5000000,Delhi Capitals,2020.0,Indian,mohitsharma,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2018.0,Indian,mohsinkhan,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Mohsin Khan,Bowler,2000000,Mumbai Indians,2020.0,Indian,mohsinkhan,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Mohsin Khan,Bowler,2000000,Lucknow Super Giants,2022.0,Indian,mohsinkhan,LSG,2000000,0.2,auction_transactions_2013_2022.zip
+Moises Henriques,All-Rounder,22500000,Royal Challengers Bangalore,2013.0,Overseas,moiseshenriques,RCB,22500000,2.25,auction_transactions_2013_2022.zip
+Moises Henriques,All-Rounder,10000000,Sunrisers Hyderabad,2014.0,Overseas,moiseshenriques,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+Moises Henriques,All-Rounder,10000000,Kings XI Punjab,2019.0,Overseas,moiseshenriques,PBKS,10000000,1.0,auction_transactions_2013_2022.zip
+Moises Henriques,All-Rounder,42000000,Punjab Kings,2021.0,Overseas,moiseshenriques,PBKS,42000000,4.2,auction_transactions_2013_2022.zip
+Monu Singh,Bowler,2000000,Chennai Super Kings,2018.0,Indian,monusingh,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Morne Morkel,Bowler,28000000,Kolkata Knight Riders,2014.0,Overseas,mornemorkel,KKR,28000000,2.8,auction_transactions_2013_2022.zip
+Mujeeb Zadran,Bowler,40000000,Kings XI Punjab,2018.0,Overseas,mujeebzadran,PBKS,40000000,4.0,auction_transactions_2013_2022.zip
+Mujeeb Zadran,Bowler,15000000,Sunrisers Hyderabad,2021.0,Overseas,mujeebzadran,SRH,15000000,1.5,auction_transactions_2013_2022.zip
+Mukesh Choudhary,Bowler,2000000,Chennai Super Kings,2022.0,Indian,mukeshchoudhary,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Munaf Patel,Bowler,3000000,Gujarat Lions,2017.0,Indian,munafpatel,GL,3000000,0.3,auction_transactions_2013_2022.zip
+Murali Kartik,Bowler,10000000,Kings XI Punjab,2014.0,Indian,muralikartik,PBKS,10000000,1.0,auction_transactions_2013_2022.zip
+Murali Vijay,Batsman,50000000,Delhi Daredevils,2014.0,Indian,muralivijay,DC,50000000,5.0,auction_transactions_2013_2022.zip
+Murali Vijay,Batsman,30000000,Kings XI Punjab,2015.0,Indian,muralivijay,PBKS,30000000,3.0,auction_transactions_2013_2022.zip
+Murali Vijay,Batsman,20000000,Chennai Super Kings,2018.0,Indian,muralivijay,CSK,20000000,2.0,auction_transactions_2013_2022.zip
+Murugan Ashwin,Bowler,16000000,Mumbai Indians,2022.0,Indian,muruganashwin,MI,16000000,1.6,auction_transactions_2013_2022.zip
+Mustafizur Rahman,Bowler,14000000,Sunrisers Hyderabad,2016.0,Overseas,mustafizurrahman,SRH,14000000,1.4,auction_transactions_2013_2022.zip
+Mustafizur Rahman,Bowler,22000000,Mumbai Indians,2018.0,Overseas,mustafizurrahman,MI,22000000,2.2,auction_transactions_2013_2022.zip
+Mustafizur Rahman,Bowler,10000000,Rajasthan Royals,2021.0,Overseas,mustafizurrahman,RR,10000000,1.0,auction_transactions_2013_2022.zip
+Mustafizur Rahman,Bowler,20000000,Delhi Capitals,2022.0,Overseas,mustafizurrahman,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Muttiah Muralitharan,Bowler,10000000,Royal Challengers Bangalore,2014.0,Overseas,muttiahmuralitharan,RCB,10000000,1.0,auction_transactions_2013_2022.zip
+N Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2018.0,Indian,njagadeesan,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+N. Jagadeesan,Wicket Keeper,2000000,Chennai Super Kings,2022.0,Indian,njagadeesan,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+N. Tilak Varma,All-Rounder,17000000,Mumbai Indians,2022.0,Indian,ntilakvarma,MI,17000000,1.7,auction_transactions_2013_2022.zip
+Naman Ojha,Wicket Keeper,5000000,Sunrisers Hyderabad,2014.0,Indian,namanojha,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Naman Ojha,Wicket Keeper,14000000,Delhi Daredevils,2018.0,Indian,namanojha,DC,14000000,1.4,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,33750000,Mumbai Indians,2013.0,Overseas,nathancoulternile,MI,33750000,3.375,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,42500000,Delhi Daredevils,2014.0,Overseas,nathancoulternile,DC,42500000,4.25,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,35000000,Kolkata Knight Riders,2017.0,Overseas,nathancoulternile,KKR,35000000,3.5,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,22000000,Royal Challengers Bangalore,2018.0,Overseas,nathancoulternile,RCB,22000000,2.2,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,80000000,Mumbai Indians,2020.0,Overseas,nathancoulternile,MI,80000000,8.0,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,50000000,Mumbai Indians,2021.0,Overseas,nathancoulternile,MI,50000000,5.0,auction_transactions_2013_2022.zip
+Nathan Coulter-Nile,Bowler,20000000,Rajasthan Royals,2022.0,Overseas,nathancoulternile,RR,20000000,2.0,auction_transactions_2013_2022.zip
+Nathan Ellis,Bowler,7500000,Punjab Kings,2022.0,Overseas,nathanellis,PBKS,7500000,0.75,auction_transactions_2013_2022.zip
+Nathan McCullum,Bowler,7500000,Sunrisers Hyderabad,2013.0,Overseas,nathanmccullum,SRH,7500000,0.75,auction_transactions_2013_2022.zip
+Nathu Singh,Bowler,32000000,Mumbai Indians,2016.0,Indian,nathusingh,MI,32000000,3.2,auction_transactions_2013_2022.zip
+Nathu Singh,Bowler,5000000,Gujarat Lions,2017.0,Indian,nathusingh,GL,5000000,0.5,auction_transactions_2013_2022.zip
+Nathu Singh,Bowler,2000000,Delhi Capitals,2019.0,Indian,nathusingh,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Navdeep Saini,Bowler,1000000,Delhi Daredevils,2017.0,Indian,navdeepsaini,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Navdeep Saini,Bowler,30000000,Royal Challengers Bangalore,2018.0,Indian,navdeepsaini,RCB,30000000,3.0,auction_transactions_2013_2022.zip
+Navdeep Saini,Bowler,26000000,Rajasthan Royals,2022.0,Indian,navdeepsaini,RR,26000000,2.6,auction_transactions_2013_2022.zip
+Nic Maddinson,Batsman,5000000,Royal Challengers Bangalore,2014.0,Overseas,nicmaddinson,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Nicolas Pooran,Wicket Keeper,107500000,Sunrisers Hyderabad,2022.0,Overseas,nicolaspooran,SRH,107500000,10.75,auction_transactions_2013_2022.zip
+Nicolas Pooran,Wicket Keeper,3000000,Mumbai Indians,2017.0,Overseas,nicolaspooran,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Nicolas Pooran,Wicket Keeper,42000000,Kings XI Punjab,2019.0,Overseas,nicolaspooran,PBKS,42000000,4.2,auction_transactions_2013_2022.zip
+Nidheesh M D Dinesan,Bowler,2000000,Mumbai Indians,2018.0,Indian,nidheeshmddinesan,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Nikhil Shankar Naik,Wicket Keeper,3000000,Kings XI Punjab,2015.0,Indian,nikhilshankarnaik,PBKS,3000000,0.3,auction_transactions_2013_2022.zip
+Nikhil Shankar Naik,Wicket Keeper,2000000,Kolkata Knight Riders,2019.0,Indian,nikhilshankarnaik,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Nikhil Shankar Naik,Wicket Keeper,2000000,Kolkata Knight Riders,2020.0,Indian,nikhilshankarnaik,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Nitish Rana,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,nitishrana,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Nitish Rana,All-Rounder,34000000,Kolkata Knight Riders,2018.0,Indian,nitishrana,KKR,34000000,3.4,auction_transactions_2013_2022.zip
+Nitish Rana,All-Rounder,80000000,Kolkata Knight Riders,2022.0,Indian,nitishrana,KKR,80000000,8.0,auction_transactions_2013_2022.zip
+Noor Ahmad,Bowler,3000000,Gujarat Titans,2022.0,Overseas,noorahmad,GT,3000000,0.3,auction_transactions_2013_2022.zip
+Obed Mccoy,Bowler,7500000,Rajasthan Royals,2022.0,Overseas,obedmccoy,RR,7500000,0.75,auction_transactions_2013_2022.zip
+Odean Smith,All-Rounder,60000000,Punjab Kings,2022.0,Overseas,odeansmith,PBKS,60000000,6.0,auction_transactions_2013_2022.zip
+Oshane Thomas,Bowler,11000000,Rajasthan Royals,2019.0,Overseas,oshanethomas,RR,11000000,1.1,auction_transactions_2013_2022.zip
+Oshane Thomas,Bowler,5000000,Rajasthan Royals,2020.0,Overseas,oshanethomas,RR,5000000,0.5,auction_transactions_2013_2022.zip
+Pankaj Jaswal,All-Rounder,2000000,Mumbai Indians,2019.0,Overseas,pankajjaswal,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Pankaj Singh,Bowler,11250000,Royal Challengers Bangalore,2013.0,Indian,pankajsingh,RCB,11250000,1.125,auction_transactions_2013_2022.zip
+Paras Dogra,Batsman,1000000,Gujarat Lions,2016.0,Indian,parasdogra,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Pardeep Sahu,All-Rounder,1000000,Rajasthan Royals,2015.0,Indian,pardeepsahu,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Pardeep Sahu,All-Rounder,1000000,Kings XI Punjab,2016.0,Indian,pardeepsahu,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Pardeep Sahu,Bowler,2000000,Kings XI Punjab,2018.0,Indian,pardeepsahu,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Parthiv Patel,Wicket Keeper,14000000,Royal Challengers Bangalore,2014.0,Indian,parthivpatel,RCB,14000000,1.4,auction_transactions_2013_2022.zip
+Parthiv Patel,Wicket Keeper,17000000,Royal Challengers Bangalore,2018.0,Indian,parthivpatel,RCB,17000000,1.7,auction_transactions_2013_2022.zip
+Parveez Rasool,All-Rounder,9500000,Sunrisers Hyderabad,2014.0,Indian,parveezrasool,SRH,9500000,0.95,auction_transactions_2013_2022.zip
+Parvinder Awana,Bowler,6500000,Kings XI Punjab,2014.0,Indian,parvinderawana,PBKS,6500000,0.65,auction_transactions_2013_2022.zip
+Pat Cummins,Bowler,54000000,Mumbai Indians,2018.0,Overseas,patcummins,MI,54000000,5.4,auction_transactions_2013_2022.zip
+Pat Cummins,All-Rounder,155000000,Kolkata Knight Riders,2020.0,Overseas,patcummins,KKR,155000000,15.5,auction_transactions_2013_2022.zip
+Pat Cummins,All-Rounder,72500000,Kolkata Knight Riders,2022.0,Overseas,patcummins,KKR,72500000,7.25,auction_transactions_2013_2022.zip
+Pat Cummins,Bowler,10000000,Kolkata Knight Riders,2014.0,Overseas,patcummins,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Pat Cummins,Bowler,45000000,Delhi Daredevils,2017.0,Overseas,patcummins,DC,45000000,4.5,auction_transactions_2013_2022.zip
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2018.0,Indian,pavandeshpande,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Pavan Deshpande,All-Rounder,2000000,Royal Challengers Bangalore,2020.0,Indian,pavandeshpande,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Pawan Negi,Bowler,1000000,Chennai Super Kings,2014.0,Indian,pawannegi,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Pawan Negi,All-Rounder,85000000,Delhi Daredevils,2016.0,Indian,pawannegi,DC,85000000,8.5,auction_transactions_2013_2022.zip
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2017.0,Indian,pawannegi,RCB,10000000,1.0,auction_transactions_2013_2022.zip
+Pawan Negi,All-Rounder,10000000,Royal Challengers Bangalore,2018.0,Indian,pawannegi,RCB,10000000,1.0,auction_transactions_2013_2022.zip
+Pawan Negi,All-Rounder,5000000,Kolkata Knight Riders,2021.0,Indian,pawannegi,KKR,5000000,0.5,auction_transactions_2013_2022.zip
+Pawan Suyal,Bowler,1000000,Mumbai Indians,2014.0,Indian,pawansuyal,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Pawan Suyal,Bowler,1000000,Delhi Daredevils,2016.0,Indian,pawansuyal,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Peter Handscomb,Wicket Keeper,3000000,Rising Pune Supergiant,2016.0,Overseas,peterhandscomb,RPS,3000000,0.3,auction_transactions_2013_2022.zip
+Philip Hughes,Batsman,7500000,Mumbai Indians,2013.0,Overseas,philiphughes,MI,7500000,0.75,auction_transactions_2013_2022.zip
+Piyush Chawla,Bowler,42500000,Kolkata Knight Riders,2014.0,Indian,piyushchawla,KKR,42500000,4.25,auction_transactions_2013_2022.zip
+Piyush Chawla,Bowler,42000000,Kolkata Knight Riders,2018.0,Indian,piyushchawla,KKR,42000000,4.2,auction_transactions_2013_2022.zip
+Piyush Chawla,Bowler,67500000,Chennai Super Kings,2020.0,Indian,piyushchawla,CSK,67500000,6.75,auction_transactions_2013_2022.zip
+Piyush Chawla,Bowler,24000000,Mumbai Indians,2021.0,Indian,piyushchawla,MI,24000000,2.4,auction_transactions_2013_2022.zip
+Prabhsimran Singh,Wicket Keeper,48000000,Kings XI Punjab,2019.0,Indian,prabhsimransingh,PBKS,48000000,4.8,auction_transactions_2013_2022.zip
+Prabhsimran Singh,Wicket Keeper,5500000,Kings XI Punjab,2020.0,Indian,prabhsimransingh,PBKS,5500000,0.55,auction_transactions_2013_2022.zip
+Prabhsimran Singh,Wicket Keeper,6000000,Punjab Kings,2022.0,Indian,prabhsimransingh,PBKS,6000000,0.6,auction_transactions_2013_2022.zip
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,pradeepsangwan,GL,2000000,0.2,auction_transactions_2013_2022.zip
+Pradeep Sangwan,Bowler,15000000,Mumbai Indians,2018.0,Indian,pradeepsangwan,MI,15000000,1.5,auction_transactions_2013_2022.zip
+Pradeep Sangwan,All-Rounder,2000000,Gujarat Titans,2022.0,Indian,pradeepsangwan,GT,2000000,0.2,auction_transactions_2013_2022.zip
+Pragyan Ojha,Bowler,32500000,Mumbai Indians,2014.0,Indian,pragyanojha,MI,32500000,3.25,auction_transactions_2013_2022.zip
+Pragyan Ojha,Bowler,5000000,Mumbai Indians,2015.0,Indian,pragyanojha,MI,5000000,0.5,auction_transactions_2013_2022.zip
+Prasanth Padmanabhan,All-Rounder,1000000,Sunrisers Hyderabad,2015.0,Indian,prasanthpadmanabhan,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Prasanth Parameswaran,Bowler,3000000,Sunrisers Hyderabad,2014.0,Indian,prasanthparameswaran,SRH,3000000,0.3,auction_transactions_2013_2022.zip
+Prashant Chopra,Wicket Keeper,2000000,Rajasthan Royals,2018.0,Indian,prashantchopra,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Prashant Solanki,Bowler,12000000,Chennai Super Kings,2022.0,Indian,prashantsolanki,CSK,12000000,1.2,auction_transactions_2013_2022.zip
+Prasidh Krishna,Bowler,100000000,Rajasthan Royals,2022.0,Indian,prasidhkrishna,RR,100000000,10.0,auction_transactions_2013_2022.zip
+Pratham Singh,All-Rounder,1000000,Gujarat Lions,2017.0,Indian,prathamsingh,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Pratham Singh,Batsman,2000000,Kolkata Knight Riders,2022.0,Indian,prathamsingh,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Pratyush Singh,All-Rounder,1000000,Chennai Super Kings,2015.0,Indian,pratyushsingh,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Pratyush Singh,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,pratyushsingh,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Praveen Dubey,All-Rounder,3500000,Royal Challengers Bangalore,2016.0,Indian,praveendubey,RCB,3500000,0.35,auction_transactions_2013_2022.zip
+Praveen Dubey,All-Rounder,1000000,Royal Challengers Bangalore,2017.0,Indian,praveendubey,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Praveen Kumar,Bowler,22000000,Sunrisers Hyderabad,2015.0,Indian,praveenkumar,SRH,22000000,2.2,auction_transactions_2013_2022.zip
+Praveen Kumar,Bowler,35000000,Gujarat Lions,2016.0,Indian,praveenkumar,GL,35000000,3.5,auction_transactions_2013_2022.zip
+Pravin Dubey,All-Rounder,5000000,Delhi Capitals,2022.0,Indian,pravindubey,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Pravin Tambe,Bowler,1000000,Rajasthan Royals,2014.0,Indian,pravintambe,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Pravin Tambe,Bowler,2000000,Gujarat Lions,2016.0,Indian,pravintambe,GL,2000000,0.2,auction_transactions_2013_2022.zip
+Pravin Tambe,Bowler,1000000,Sunrisers Hyderabad,2017.0,Indian,pravintambe,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Pravin Tambe,Bowler,2000000,Kolkata Knight Riders,2020.0,Indian,pravintambe,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Prayas Ray Barman,All-Rounder,15000000,Royal Challengers Bangalore,2019.0,Indian,prayasraybarman,RCB,15000000,1.5,auction_transactions_2013_2022.zip
+Prerak Mankad,All-Rounder,2000000,Punjab Kings,2022.0,Indian,prerakmankad,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Prince Balwant Rai Singh,All-Rounder,2000000,Mumbai Indians,2020.0,Indian,princebalwantraisingh,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Prithvi Raj Yarra,Bowler,2000000,Kolkata Knight Riders,2019.0,Indian,prithvirajyarra,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Prithvi Shaw,Batsman,12000000,Delhi Daredevils,2018.0,Indian,prithvishaw,DC,12000000,1.2,auction_transactions_2013_2022.zip
+Priyam Garg,Batsman,19000000,Sunrisers Hyderabad,2020.0,Indian,priyamgarg,SRH,19000000,1.9,auction_transactions_2013_2022.zip
+Priyam Garg,Batsman,2000000,Sunrisers Hyderabad,2022.0,Indian,priyamgarg,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Quinton De Kock,Wicket Keeper,1500000,Sunrisers Hyderabad,2013.0,Overseas,quintondekock,SRH,1500000,0.15,auction_transactions_2013_2022.zip
+Quinton De Kock,Wicket Keeper,35000000,Delhi Daredevils,2014.0,Overseas,quintondekock,DC,35000000,3.5,auction_transactions_2013_2022.zip
+Quinton De Kock,Wicket Keeper,28000000,Royal Challengers Bangalore,2018.0,Overseas,quintondekock,RCB,28000000,2.8,auction_transactions_2013_2022.zip
+Quinton De Kock,Wicket Keeper,67500000,Lucknow Super Giants,2022.0,Overseas,quintondekock,LSG,67500000,6.75,auction_transactions_2013_2022.zip
+R Samarth,Batsman,2000000,Sunrisers Hyderabad,2022.0,Indian,rsamarth,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+R. Ashwin,All-Rounder,50000000,Rajasthan Royals,2022.0,Indian,rashwin,RR,50000000,5.0,auction_transactions_2013_2022.zip
+R. Sai Kishore,Bowler,2000000,Chennai Super Kings,2020.0,Indian,rsaikishore,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+R. Sai Kishore,Bowler,30000000,Gujarat Titans,2022.0,Indian,rsaikishore,GT,30000000,3.0,auction_transactions_2013_2022.zip
+R. Sanjay Yadav,All-Rounder,1000000,Kolkata Knight Riders,2017.0,Indian,rsanjayyadav,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Rahul Ajay Tripathi,All-Rounder,1000000,Rising Pune Supergiant,2017.0,Indian,rahulajaytripathi,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Rahul Buddhi,Batsman,2000000,Mumbai Indians,2022.0,Indian,rahulbuddhi,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Rahul Chahar,Bowler,1000000,Rising Pune Supergiant,2017.0,Indian,rahulchahar,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Rahul Chahar,Bowler,19000000,Mumbai Indians,2018.0,Indian,rahulchahar,MI,19000000,1.9,auction_transactions_2013_2022.zip
+Rahul Chahar,Bowler,52500000,Punjab Kings,2022.0,Indian,rahulchahar,PBKS,52500000,5.25,auction_transactions_2013_2022.zip
+Rahul Sharma,Bowler,19000000,Delhi Daredevils,2014.0,Indian,rahulsharma,DC,19000000,1.9,auction_transactions_2013_2022.zip
+Rahul Sharma,Bowler,3000000,Chennai Super Kings,2015.0,Indian,rahulsharma,CSK,3000000,0.3,auction_transactions_2013_2022.zip
+Rahul Shukla,Bowler,4000000,Delhi Daredevils,2014.0,Indian,rahulshukla,DC,4000000,0.4,auction_transactions_2013_2022.zip
+Rahul Tewatia,All-Rounder,1000000,Rajasthan Royals,2014.0,Indian,rahultewatia,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Rahul Tewatia,All-Rounder,2500000,Kings XI Punjab,2017.0,Indian,rahultewatia,PBKS,2500000,0.25,auction_transactions_2013_2022.zip
+Rahul Tewatia,All-Rounder,30000000,Delhi Daredevils,2018.0,Indian,rahultewatia,DC,30000000,3.0,auction_transactions_2013_2022.zip
+Rahul Tewatia,All-Rounder,90000000,Gujarat Titans,2022.0,Indian,rahultewatia,GT,90000000,9.0,auction_transactions_2013_2022.zip
+Rahul Tripathi,Batsman,34000000,Rajasthan Royals,2018.0,Indian,rahultripathi,RR,34000000,3.4,auction_transactions_2013_2022.zip
+Rahul Tripathi,Batsman,6000000,Kolkata Knight Riders,2020.0,Indian,rahultripathi,KKR,6000000,0.6,auction_transactions_2013_2022.zip
+Rahul Tripathi,Batsman,85000000,Sunrisers Hyderabad,2022.0,Indian,rahultripathi,SRH,85000000,8.5,auction_transactions_2013_2022.zip
+Raj Angad Bawa,All-Rounder,20000000,Punjab Kings,2022.0,Indian,rajangadbawa,PBKS,20000000,2.0,auction_transactions_2013_2022.zip
+Rajagopal Sathish,All-Rounder,2000000,Kolkata Knight Riders,2016.0,Indian,rajagopalsathish,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Rajat Bhatia,All-Rounder,17000000,Rajasthan Royals,2014.0,Indian,rajatbhatia,RR,17000000,1.7,auction_transactions_2013_2022.zip
+Rajat Bhatia,All-Rounder,6000000,Rising Pune Supergiant,2016.0,Indian,rajatbhatia,RPS,6000000,0.6,auction_transactions_2013_2022.zip
+Rajat Patidar,Batsman,2000000,Royal Challengers Bangalore,2021.0,Indian,rajatpatidar,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Rajvardhan Hangargekar,All-Rounder,15000000,Chennai Super Kings,2022.0,Indian,rajvardhanhangargekar,CSK,15000000,1.5,auction_transactions_2013_2022.zip
+Ramandeep Singh,All-Rounder,2000000,Mumbai Indians,2022.0,Indian,ramandeepsingh,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Ramesh Kumar,Batsman,2000000,Kolkata Knight Riders,2022.0,Indian,rameshkumar,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Ranganath Vinay Kumar,Bowler,28000000,Kolkata Knight Riders,2014.0,Indian,ranganathvinaykumar,KKR,28000000,2.8,auction_transactions_2013_2022.zip
+Ranganath Vinay Kumar,Bowler,10000000,Kolkata Knight Riders,2018.0,Indian,ranganathvinaykumar,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Rashid Khan Arman,Bowler,40000000,Sunrisers Hyderabad,2017.0,Overseas,rashidkhanarman,SRH,40000000,4.0,auction_transactions_2013_2022.zip
+Rashid Khan Arman,Bowler,90000000,Sunrisers Hyderabad,2018.0,Overseas,rashidkhanarman,SRH,90000000,9.0,auction_transactions_2013_2022.zip
+Rasikh Dar,Bowler,2000000,Mumbai Indians,2019.0,Indian,rasikhdar,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Rasikh Dar,Bowler,2000000,Kolkata Knight Riders,2022.0,Indian,rasikhdar,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Rassie Van Der Dussen,Batsman,10000000,Rajasthan Royals,2022.0,Overseas,rassievanderdussen,RR,10000000,1.0,auction_transactions_2013_2022.zip
+Ravi Bishnoi,Bowler,20000000,Kings XI Punjab,2020.0,Indian,ravibishnoi,PBKS,20000000,2.0,auction_transactions_2013_2022.zip
+Ravi Bopara,All-Rounder,10000000,Sunrisers Hyderabad,2015.0,Indian,ravibopara,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+Ravi Rampaul,Bowler,21750000,Royal Challengers Bangalore,2013.0,Overseas,ravirampaul,RCB,21750000,2.175,auction_transactions_2013_2022.zip
+Ravi Rampaul,Bowler,9000000,Royal Challengers Bangalore,2014.0,Overseas,ravirampaul,RCB,9000000,0.9,auction_transactions_2013_2022.zip
+Ravichandran Ashwin,All-Rounder,76000000,Kings XI Punjab,2018.0,Overseas,ravichandranashwin,PBKS,76000000,7.6,auction_transactions_2013_2022.zip
+Ricky Bhui,Batsman,1000000,Sunrisers Hyderabad,2014.0,Overseas,rickybhui,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Ricky Bhui,Batsman,2000000,Sunrisers Hyderabad,2018.0,Overseas,rickybhui,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Ricky Ponting,Batsman,30000000,Mumbai Indians,2013.0,Overseas,rickyponting,MI,30000000,3.0,auction_transactions_2013_2022.zip
+Riley Meredith,Bowler,80000000,Punjab Kings,2021.0,Overseas,rileymeredith,PBKS,80000000,8.0,auction_transactions_2013_2022.zip
+Riley Meredith,Bowler,10000000,Mumbai Indians,2022.0,Overseas,rileymeredith,MI,10000000,1.0,auction_transactions_2013_2022.zip
+Rinku Singh,Batsman,1000000,Kings XI Punjab,2017.0,Indian,rinkusingh,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Rinku Singh,Batsman,8000000,Kolkata Knight Riders,2018.0,Indian,rinkusingh,KKR,8000000,0.8,auction_transactions_2013_2022.zip
+Rinku Singh,Batsman,5500000,Kolkata Knight Riders,2022.0,Indian,rinkusingh,KKR,5500000,0.55,auction_transactions_2013_2022.zip
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2021.0,Indian,ripalpatel,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Ripal Patel,All-Rounder,2000000,Delhi Capitals,2022.0,Indian,ripalpatel,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Rishabh Pant,Wicket Keeper,19000000,Delhi Daredevils,2016.0,Indian,rishabhpant,DC,19000000,1.9,auction_transactions_2013_2022.zip
+Rishi Dhawan,All-Rounder,30000000,Kings XI Punjab,2014.0,Indian,rishidhawan,PBKS,30000000,3.0,auction_transactions_2013_2022.zip
+Rishi Dhawan,All-Rounder,5500000,Kolkata Knight Riders,2017.0,Indian,rishidhawan,KKR,5500000,0.55,auction_transactions_2013_2022.zip
+Rishi Dhawan,All-Rounder,5500000,Punjab Kings,2022.0,Indian,rishidhawan,PBKS,5500000,0.55,auction_transactions_2013_2022.zip
+Riyan Parag,All-Rounder,2000000,Rajasthan Royals,2019.0,Indian,riyanparag,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Riyan Parag,All-Rounder,38000000,Rajasthan Royals,2022.0,Indian,riyanparag,RR,38000000,3.8,auction_transactions_2013_2022.zip
+Robin Uthappa,Batsman,50000000,Kolkata Knight Riders,2014.0,Indian,robinuthappa,KKR,50000000,5.0,auction_transactions_2013_2022.zip
+Robin Uthappa,Batsman,64000000,Kolkata Knight Riders,2018.0,Indian,robinuthappa,KKR,64000000,6.4,auction_transactions_2013_2022.zip
+Robin Uthappa,Batsman,30000000,Rajasthan Royals,2020.0,Indian,robinuthappa,RR,30000000,3.0,auction_transactions_2013_2022.zip
+Robin Uthappa,Batsman,20000000,Chennai Super Kings,2022.0,Indian,robinuthappa,CSK,20000000,2.0,auction_transactions_2013_2022.zip
+Romario Shepherd,All-Rounder,77500000,Sunrisers Hyderabad,2022.0,Overseas,romarioshepherd,SRH,77500000,7.75,auction_transactions_2013_2022.zip
+Ronit More,Bowler,1000000,Chennai Super Kings,2014.0,Indian,ronitmore,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Ross Taylor,Batsman,20000000,Delhi Daredevils,2014.0,Overseas,rosstaylor,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Rovman Powell,All-Rounder,3000000,Kolkata Knight Riders,2017.0,Overseas,rovmanpowell,KKR,3000000,0.3,auction_transactions_2013_2022.zip
+Rovman Powell,Batsman,28000000,Delhi Capitals,2022.0,Overseas,rovmanpowell,DC,28000000,2.8,auction_transactions_2013_2022.zip
+Rudra Pratap Singh,Bowler,30000000,Royal Challengers Bangalore,2013.0,Indian,rudrapratapsingh,RCB,30000000,3.0,auction_transactions_2013_2022.zip
+Rudra Pratap Singh,Bowler,3000000,Rising Pune Supergiant,2016.0,Indian,rudrapratapsingh,RPS,3000000,0.3,auction_transactions_2013_2022.zip
+Ruturaj Gaikwad,Batsman,2000000,Chennai Super Kings,2019.0,Indian,ruturajgaikwad,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Ryan McLaren,Bowler,3750000,Kolkata Knight Riders,2013.0,Overseas,ryanmclaren,KKR,3750000,0.375,auction_transactions_2013_2022.zip
+Ryan Ten Doeschate,All-Rounder,10000000,Kolkata Knight Riders,2014.0,Overseas,ryantendoeschate,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Sachin Baby,Batsman,1000000,Royal Challengers Bangalore,2016.0,Indian,sachinbaby,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Sachin Baby,Batsman,2000000,Sunrisers Hyderabad,2018.0,Indian,sachinbaby,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Sachin Baby,Batsman,2000000,Royal Challengers Bangalore,2021.0,Indian,sachinbaby,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Sachin Rana,Bowler,2000000,Royal Challengers Bangalore,2014.0,Indian,sachinrana,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Sachithra Senanayaka,All-Rounder,46875000,Kolkata Knight Riders,2013.0,Overseas,sachithrasenanayaka,KKR,46875000,4.6875,auction_transactions_2013_2022.zip
+Sagar Trivedi,All-Rounder,1000000,Rajasthan Royals,2015.0,Indian,sagartrivedi,RR,1000000,0.1,auction_transactions_2013_2022.zip
+Sam Billings,Wicket Keeper,3000000,Delhi Daredevils,2016.0,Overseas,sambillings,DC,3000000,0.3,auction_transactions_2013_2022.zip
+Sam Billings,Wicket Keeper,10000000,Chennai Super Kings,2018.0,Overseas,sambillings,CSK,10000000,1.0,auction_transactions_2013_2022.zip
+Sam Billings,Wicket Keeper,20000000,Delhi Capitals,2021.0,Overseas,sambillings,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Sam Billings,Wicket Keeper,20000000,Kolkata Knight Riders,2022.0,Overseas,sambillings,KKR,20000000,2.0,auction_transactions_2013_2022.zip
+Sam Curran,All-Rounder,72000000,Kings XI Punjab,2019.0,Overseas,samcurran,PBKS,72000000,7.2,auction_transactions_2013_2022.zip
+Sam Curran,All-Rounder,55000000,Chennai Super Kings,2020.0,Overseas,samcurran,CSK,55000000,5.5,auction_transactions_2013_2022.zip
+Samuel Badree,Bowler,3000000,Chennai Super Kings,2014.0,Overseas,samuelbadree,CSK,3000000,0.3,auction_transactions_2013_2022.zip
+Samuel Badree,Bowler,5000000,Royal Challengers Bangalore,2016.0,Overseas,samuelbadree,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Sandeep Bavanaka,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Overseas,sandeepbavanaka,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Sandeep Lamichhane,Bowler,2000000,Delhi Daredevils,2018.0,Overseas,sandeeplamichhane,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Sandeep Sharma,Bowler,8500000,Kings XI Punjab,2014.0,Indian,sandeepsharma,PBKS,8500000,0.85,auction_transactions_2013_2022.zip
+Sandeep Sharma,Bowler,30000000,Sunrisers Hyderabad,2018.0,Indian,sandeepsharma,SRH,30000000,3.0,auction_transactions_2013_2022.zip
+Sandeep Sharma,Bowler,5000000,Punjab Kings,2022.0,Indian,sandeepsharma,PBKS,5000000,0.5,auction_transactions_2013_2022.zip
+Sandeep Warrier,Bowler,1000000,Royal Challengers Bangalore,2014.0,Indian,sandeepwarrier,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Sanjay Yadav,All-Rounder,2000000,Sunrisers Hyderabad,2020.0,Indian,sanjayyadav,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Sanjay Yadav,All-Rounder,5000000,Mumbai Indians,2022.0,Indian,sanjayyadav,MI,5000000,0.5,auction_transactions_2013_2022.zip
+Sanju Samson,Wicket Keeper,42000000,Delhi Daredevils,2016.0,Indian,sanjusamson,DC,42000000,4.2,auction_transactions_2013_2022.zip
+Sanju Samson,Wicket Keeper,80000000,Rajasthan Royals,2018.0,Indian,sanjusamson,RR,80000000,8.0,auction_transactions_2013_2022.zip
+Sarabjit Ladda,Bowler,1000000,Gujarat Lions,2016.0,Indian,sarabjitladda,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Sarfaraz Khan,All-Rounder,2000000,Delhi Capitals,2022.0,Indian,sarfarazkhan,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Sarfaraz Naushad Khan,Batsman,5000000,Royal Challengers Bangalore,2015.0,Indian,sarfaraznaushadkhan,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Sarfaraz Naushad Khan,All-Rounder,2500000,Kings XI Punjab,2019.0,Indian,sarfaraznaushadkhan,PBKS,2500000,0.25,auction_transactions_2013_2022.zip
+Saurabh Dubey,Bowler,2000000,Sunrisers Hyderabad,2022.0,Indian,saurabhdubey,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Saurabh Kumar,Bowler,1000000,Rising Pune Supergiant,2017.0,Indian,saurabhkumar,RPS,1000000,0.1,auction_transactions_2013_2022.zip
+Saurabh Kumar,All-Rounder,2000000,Punjab Kings,2021.0,Indian,saurabhkumar,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Saurabh Tiwary,Batsman,7000000,Delhi Daredevils,2014.0,Indian,saurabhtiwary,DC,7000000,0.7,auction_transactions_2013_2022.zip
+Saurabh Tiwary,Batsman,3000000,Mumbai Indians,2017.0,Indian,saurabhtiwary,MI,3000000,0.3,auction_transactions_2013_2022.zip
+Saurabh Tiwary,Batsman,8000000,Mumbai Indians,2018.0,Indian,saurabhtiwary,MI,8000000,0.8,auction_transactions_2013_2022.zip
+Saurabh Tiwary,Batsman,5000000,Mumbai Indians,2020.0,Indian,saurabhtiwary,MI,5000000,0.5,auction_transactions_2013_2022.zip
+Sayan Ghosh,Bowler,1000000,Kolkata Knight Riders,2017.0,Indian,sayanghosh,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Sayan Ghosh,Bowler,2000000,Delhi Daredevils,2018.0,Indian,sayanghosh,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Sayan Sekhar Mandal,All-Rounder,1000000,Kolkata Knight Riders,2014.0,Indian,sayansekharmandal,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Scott Boland,Bowler,5000000,Rising Pune Supergiant,2016.0,Overseas,scottboland,RPS,5000000,0.5,auction_transactions_2013_2022.zip
+Sean Abbott,Bowler,10000000,Royal Challengers Bangalore,2015.0,Overseas,seanabbott,RCB,10000000,1.0,auction_transactions_2013_2022.zip
+Sean Abbott,Bowler,24000000,Sunrisers Hyderabad,2022.0,Overseas,seanabbott,SRH,24000000,2.4,auction_transactions_2013_2022.zip
+Shadab Jakati,Bowler,2000000,Royal Challengers Bangalore,2014.0,Indian,shadabjakati,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Shadab Jakati,All-Rounder,2000000,Gujarat Lions,2016.0,Indian,shadabjakati,GL,2000000,0.2,auction_transactions_2013_2022.zip
+Shahbaz Ahamad,Wicket Keeper,2000000,Royal Challengers Bangalore,2020.0,Indian,shahbazahamad,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Shahbaz Ahamad,All-Rounder,24000000,Royal Challengers Bangalore,2022.0,Indian,shahbazahamad,RCB,24000000,2.4,auction_transactions_2013_2022.zip
+Shahbaz Nadeem,Bowler,8500000,Delhi Daredevils,2014.0,Indian,shahbaznadeem,DC,8500000,0.85,auction_transactions_2013_2022.zip
+Shahbaz Nadeem,Bowler,32000000,Delhi Daredevils,2018.0,Indian,shahbaznadeem,DC,32000000,3.2,auction_transactions_2013_2022.zip
+Shahbaz Nadeem,Bowler,5000000,Lucknow Super Giants,2022.0,Indian,shahbaznadeem,LSG,5000000,0.5,auction_transactions_2013_2022.zip
+Shahrukh Khan,All-Rounder,52500000,Punjab Kings,2021.0,Indian,shahrukhkhan,PBKS,52500000,5.25,auction_transactions_2013_2022.zip
+Shahrukh Khan,All-Rounder,90000000,Punjab Kings,2022.0,Indian,shahrukhkhan,PBKS,90000000,9.0,auction_transactions_2013_2022.zip
+Shakib Al Hasan,All-Rounder,28000000,Kolkata Knight Riders,2014.0,Overseas,shakibalhasan,KKR,28000000,2.8,auction_transactions_2013_2022.zip
+Shakib Al Hasan,All-Rounder,20000000,Sunrisers Hyderabad,2018.0,Overseas,shakibalhasan,SRH,20000000,2.0,auction_transactions_2013_2022.zip
+Shakib Al Hasan,All-Rounder,32000000,Kolkata Knight Riders,2021.0,Overseas,shakibalhasan,KKR,32000000,3.2,auction_transactions_2013_2022.zip
+Shane Watson,All-Rounder,95000000,Royal Challengers Bangalore,2016.0,Overseas,shanewatson,RCB,95000000,9.5,auction_transactions_2013_2022.zip
+Shane Watson,All-Rounder,40000000,Chennai Super Kings,2018.0,Overseas,shanewatson,CSK,40000000,4.0,auction_transactions_2013_2022.zip
+Sharad Lumba,Batsman,2000000,Mumbai Indians,2018.0,Indian,sharadlumba,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Shardul Thakur,Bowler,2000000,Kings XI Punjab,2014.0,Indian,shardulthakur,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Shardul Thakur,Bowler,26000000,Chennai Super Kings,2018.0,Indian,shardulthakur,CSK,26000000,2.6,auction_transactions_2013_2022.zip
+Shardul Thakur,Bowler,107500000,Delhi Capitals,2022.0,Indian,shardulthakur,DC,107500000,10.75,auction_transactions_2013_2022.zip
+Shashank Singh,All-Rounder,1000000,Delhi Daredevils,2017.0,Indian,shashanksingh,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Shashank Singh,All-Rounder,3000000,Rajasthan Royals,2019.0,Indian,shashanksingh,RR,3000000,0.3,auction_transactions_2013_2022.zip
+Shashank Singh,All-Rounder,2000000,Sunrisers Hyderabad,2022.0,Indian,shashanksingh,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Shaun Marsh,Batsman,22000000,Kings XI Punjab,2014.0,Overseas,shaunmarsh,PBKS,22000000,2.2,auction_transactions_2013_2022.zip
+Sheldon Cottrell,Bowler,85000000,Kings XI Punjab,2020.0,Overseas,sheldoncottrell,PBKS,85000000,8.5,auction_transactions_2013_2022.zip
+Sheldon Jackson,Batsman,1500000,Kolkata Knight Riders,2015.0,Indian,sheldonjackson,KKR,1500000,0.15,auction_transactions_2013_2022.zip
+Sheldon Jackson,Wicket Keeper,2000000,Kolkata Knight Riders,2021.0,Indian,sheldonjackson,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Sheldon Jackson,Wicket Keeper,6000000,Kolkata Knight Riders,2022.0,Indian,sheldonjackson,KKR,6000000,0.6,auction_transactions_2013_2022.zip
+Shelley Shaurya,Bowler,1000000,Gujarat Lions,2017.0,Indian,shelleyshaurya,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Sherfane Rutherford,All-Rounder,20000000,Delhi Capitals,2019.0,Overseas,sherfanerutherford,DC,20000000,2.0,auction_transactions_2013_2022.zip
+Sherfane Rutherford,All-Rounder,10000000,Royal Challengers Bangalore,2022.0,Overseas,sherfanerutherford,RCB,10000000,1.0,auction_transactions_2013_2022.zip
+Shikhar Dhawan,Batsman,52000000,Sunrisers Hyderabad,2018.0,Indian,shikhardhawan,SRH,52000000,5.2,auction_transactions_2013_2022.zip
+Shikhar Dhawan,Batsman,82500000,Punjab Kings,2022.0,Indian,shikhardhawan,PBKS,82500000,8.25,auction_transactions_2013_2022.zip
+Shimron Hetmyer,Batsman,42000000,Royal Challengers Bangalore,2019.0,Overseas,shimronhetmyer,RCB,42000000,4.2,auction_transactions_2013_2022.zip
+Shimron Hetmyer,Batsman,77500000,Delhi Capitals,2020.0,Overseas,shimronhetmyer,DC,77500000,7.75,auction_transactions_2013_2022.zip
+Shimron Hetmyer,Batsman,85000000,Rajasthan Royals,2022.0,Overseas,shimronhetmyer,RR,85000000,8.5,auction_transactions_2013_2022.zip
+Shishir Bhavane,Batsman,1000000,Royal Challengers Bangalore,2015.0,Indian,shishirbhavane,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Shivam Dube,All-Rounder,50000000,Royal Challengers Bangalore,2019.0,Indian,shivamdube,RCB,50000000,5.0,auction_transactions_2013_2022.zip
+Shivam Dube,All-Rounder,44000000,Rajasthan Royals,2021.0,Indian,shivamdube,RR,44000000,4.4,auction_transactions_2013_2022.zip
+Shivam Dube,All-Rounder,40000000,Chennai Super Kings,2022.0,Indian,shivamdube,CSK,40000000,4.0,auction_transactions_2013_2022.zip
+Shivam Mavi,All-Rounder,30000000,Kolkata Knight Riders,2018.0,Indian,shivammavi,KKR,30000000,3.0,auction_transactions_2013_2022.zip
+Shivam Mavi,All-Rounder,72500000,Kolkata Knight Riders,2022.0,Indian,shivammavi,KKR,72500000,7.25,auction_transactions_2013_2022.zip
+Shivam Sharma,Bowler,1000000,Kings XI Punjab,2014.0,Indian,shivamsharma,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Shivil Kaushik,Bowler,1000000,Gujarat Lions,2016.0,Indian,shivilkaushik,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Shreevats Goswami,Wicket Keeper,10000000,Sunrisers Hyderabad,2018.0,Indian,shreevatsgoswami,SRH,10000000,1.0,auction_transactions_2013_2022.zip
+Shreyas Gopal,Bowler,1000000,Mumbai Indians,2014.0,Indian,shreyasgopal,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Shreyas Gopal,All-Rounder,2000000,Rajasthan Royals,2018.0,Indian,shreyasgopal,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Shreyas Gopal,Bowler,7500000,Sunrisers Hyderabad,2022.0,Indian,shreyasgopal,SRH,7500000,0.75,auction_transactions_2013_2022.zip
+Shreyas Iyer,Batsman,26000000,Delhi Daredevils,2015.0,Indian,shreyasiyer,DC,26000000,2.6,auction_transactions_2013_2022.zip
+Shreyas Iyer,Batsman,122500000,Kolkata Knight Riders,2022.0,Indian,shreyasiyer,KKR,122500000,12.25,auction_transactions_2013_2022.zip
+Shrikant Mundhe,All-Rounder,2000000,Kolkata Knight Riders,2019.0,Indian,shrikantmundhe,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Shubam Agrawal,All-Rounder,1000000,Gujarat Lions,2017.0,Indian,shubamagrawal,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Shubham Garhwal,All-Rounder,2000000,Rajasthan Royals,2022.0,Indian,shubhamgarhwal,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Shubham Ranjane,All-Rounder,2000000,Rajasthan Royals,2019.0,Indian,shubhamranjane,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Shubman Gill,Batsman,18000000,Kolkata Knight Riders,2018.0,Indian,shubmangill,KKR,18000000,1.8,auction_transactions_2013_2022.zip
+Siddarth Kaul,Bowler,4500000,Delhi Daredevils,2014.0,Indian,siddarthkaul,DC,4500000,0.45,auction_transactions_2013_2022.zip
+Siddarth Kaul,Bowler,1000000,Sunrisers Hyderabad,2015.0,Indian,siddarthkaul,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Siddarth Kaul,Bowler,38000000,Sunrisers Hyderabad,2018.0,Indian,siddarthkaul,SRH,38000000,3.8,auction_transactions_2013_2022.zip
+Siddharth Kaul,Bowler,7500000,Royal Challengers Bangalore,2022.0,Indian,siddharthkaul,RCB,7500000,0.75,auction_transactions_2013_2022.zip
+Siddhesh Dinesh Lad,All-Rounder,1000000,Mumbai Indians,2015.0,Indian,siddheshdineshlad,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Siddhesh Dinesh Lad,Batsman,2000000,Mumbai Indians,2018.0,Indian,siddheshdineshlad,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Simarjeet Singh,Bowler,2000000,Chennai Super Kings,2022.0,Indian,simarjeetsingh,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Srikkanth Anirudha,Batsman,2000000,Sunrisers Hyderabad,2014.0,Indian,srikkanthanirudha,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Steven Smith,All-Rounder,40000000,Rajasthan Royals,2014.0,Overseas,stevensmith,RR,40000000,4.0,auction_transactions_2013_2022.zip
+Steven Smith,Batsman,22000000,Delhi Capitals,2021.0,Overseas,stevensmith,DC,22000000,2.2,auction_transactions_2013_2022.zip
+Stuart Binny,All-Rounder,20000000,Royal Challengers Bangalore,2016.0,Indian,stuartbinny,RCB,20000000,2.0,auction_transactions_2013_2022.zip
+Stuart Binny,All-Rounder,5000000,Rajasthan Royals,2018.0,Indian,stuartbinny,RR,5000000,0.5,auction_transactions_2013_2022.zip
+Subhranshu Senapati,Batsman,2000000,Chennai Super Kings,2022.0,Indian,subhranshusenapati,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Subramaniam Badrinath,Batsman,3000000,Royal Challengers Bangalore,2015.0,Indian,subramaniambadrinath,RCB,3000000,0.3,auction_transactions_2013_2022.zip
+Sudeep Tyagi,Bowler,7500000,Sunrisers Hyderabad,2013.0,Indian,sudeeptyagi,SRH,7500000,0.75,auction_transactions_2013_2022.zip
+Sumit Narwal,All-Rounder,1000000,Kolkata Knight Riders,2015.0,Indian,sumitnarwal,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Suryakumar Yadav,Batsman,7000000,Kolkata Knight Riders,2014.0,Indian,suryakumaryadav,KKR,7000000,0.7,auction_transactions_2013_2022.zip
+Suryakumar Yadav,Batsman,32000000,Mumbai Indians,2018.0,Indian,suryakumaryadav,MI,32000000,3.2,auction_transactions_2013_2022.zip
+Sushant Marathe,Wicket Keeper,1000000,Mumbai Indians,2014.0,Indian,sushantmarathe,MI,1000000,0.1,auction_transactions_2013_2022.zip
+Suyash Prabhudesai,All-Rounder,2000000,Royal Challengers Bangalore,2021.0,Indian,suyashprabhudesai,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Suyash Prabhudessai,All-Rounder,3000000,Royal Challengers Bangalore,2022.0,Indian,suyashprabhudessai,RCB,3000000,0.3,auction_transactions_2013_2022.zip
+Swapnil Singh,All-Rounder,1000000,Kings XI Punjab,2016.0,Indian,swapnilsingh,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Syed Khaleel Ahmed,All-Rounder,1000000,Delhi Daredevils,2016.0,Indian,syedkhaleelahmed,DC,1000000,0.1,auction_transactions_2013_2022.zip
+Syed Khaleel Ahmed,Bowler,30000000,Sunrisers Hyderabad,2018.0,Indian,syedkhaleelahmed,SRH,30000000,3.0,auction_transactions_2013_2022.zip
+Syed Khaleel Ahmed,Bowler,52500000,Delhi Capitals,2022.0,Indian,syedkhaleelahmed,DC,52500000,5.25,auction_transactions_2013_2022.zip
+Syed Mehdi Hasan,All-Rounder,2000000,Sunrisers Hyderabad,2018.0,Indian,syedmehdihasan,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+T Natarajan,Bowler,30000000,Kings XI Punjab,2017.0,Indian,tnatarajan,PBKS,30000000,3.0,auction_transactions_2013_2022.zip
+T Natarajan,Bowler,4000000,Sunrisers Hyderabad,2018.0,Indian,tnatarajan,SRH,4000000,0.4,auction_transactions_2013_2022.zip
+T. Natarajan,Bowler,40000000,Sunrisers Hyderabad,2022.0,Indian,tnatarajan,SRH,40000000,4.0,auction_transactions_2013_2022.zip
+Tajinder Dhillon,All-Rounder,5500000,Mumbai Indians,2018.0,Indian,tajinderdhillon,MI,5500000,0.55,auction_transactions_2013_2022.zip
+Tajinder Dhillon,All-Rounder,2000000,Kings XI Punjab,2020.0,Indian,tajinderdhillon,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Tanmay Agarwal,Batsman,1000000,Sunrisers Hyderabad,2017.0,Indian,tanmayagarwal,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Tanmay Agarwal,Batsman,2000000,Sunrisers Hyderabad,2018.0,Indian,tanmayagarwal,SRH,2000000,0.2,auction_transactions_2013_2022.zip
+Tanmay Mishra,Batsman,1000000,Royal Challengers Bangalore,2014.0,Indian,tanmaymishra,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Tejas Baroka,Bowler,2000000,Rajasthan Royals,2022.0,Indian,tejasbaroka,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Tejas Singh Baroka,Bowler,1000000,Gujarat Lions,2017.0,Indian,tejassinghbaroka,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Thisara Perera,All-Rounder,50625000,Sunrisers Hyderabad,2013.0,Overseas,thisaraperera,SRH,50625000,5.0625,auction_transactions_2013_2022.zip
+Thisara Perera,All-Rounder,16000000,Kings XI Punjab,2014.0,Overseas,thisaraperera,PBKS,16000000,1.6,auction_transactions_2013_2022.zip
+Thisara Perera,All-Rounder,10000000,Rising Pune Supergiant,2016.0,Overseas,thisaraperera,RPS,10000000,1.0,auction_transactions_2013_2022.zip
+Tim David,All-Rounder,82500000,Mumbai Indians,2022.0,Overseas,timdavid,MI,82500000,8.25,auction_transactions_2013_2022.zip
+Tim Seifert,Wicket Keeper,5000000,Delhi Capitals,2022.0,Overseas,timseifert,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Tim Southee,Bowler,12000000,Rajasthan Royals,2014.0,Overseas,timsouthee,RR,12000000,1.2,auction_transactions_2013_2022.zip
+Tim Southee,Bowler,25000000,Mumbai Indians,2016.0,Overseas,timsouthee,MI,25000000,2.5,auction_transactions_2013_2022.zip
+Tim Southee,Bowler,10000000,Royal Challengers Bangalore,2018.0,Overseas,timsouthee,RCB,10000000,1.0,auction_transactions_2013_2022.zip
+Tim Southee,Bowler,15000000,Kolkata Knight Riders,2022.0,Overseas,timsouthee,KKR,15000000,1.5,auction_transactions_2013_2022.zip
+Tirumalasetti Suman,Batsman,1000000,Sunrisers Hyderabad,2016.0,Indian,tirumalasettisuman,SRH,1000000,0.1,auction_transactions_2013_2022.zip
+Tom Banton,Batsman,10000000,Kolkata Knight Riders,2020.0,Overseas,tombanton,KKR,10000000,1.0,auction_transactions_2013_2022.zip
+Tom Curran,All-Rounder,10000000,Rajasthan Royals,2020.0,Overseas,tomcurran,RR,10000000,1.0,auction_transactions_2013_2022.zip
+Tom Curran,All-Rounder,52500000,Delhi Capitals,2021.0,Overseas,tomcurran,DC,52500000,5.25,auction_transactions_2013_2022.zip
+Travis Head,Batsman,3000000,Delhi Daredevils,2015.0,Overseas,travishead,DC,3000000,0.3,auction_transactions_2013_2022.zip
+Travis Head,Batsman,5000000,Royal Challengers Bangalore,2016.0,Overseas,travishead,RCB,5000000,0.5,auction_transactions_2013_2022.zip
+Trent Boult,Bowler,38000000,Sunrisers Hyderabad,2015.0,Overseas,trentboult,SRH,38000000,3.8,auction_transactions_2013_2022.zip
+Trent Boult,Bowler,50000000,Kolkata Knight Riders,2017.0,Overseas,trentboult,KKR,50000000,5.0,auction_transactions_2013_2022.zip
+Trent Boult,Bowler,22000000,Delhi Daredevils,2018.0,Overseas,trentboult,DC,22000000,2.2,auction_transactions_2013_2022.zip
+Trent Boult,Bowler,80000000,Rajasthan Royals,2022.0,Overseas,trentboult,RR,80000000,8.0,auction_transactions_2013_2022.zip
+Tushar Deshpande,Bowler,2000000,Delhi Capitals,2020.0,Indian,tushardeshpande,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Tushar Deshpande,Bowler,2000000,Chennai Super Kings,2022.0,Indian,tushardeshpande,CSK,2000000,0.2,auction_transactions_2013_2022.zip
+Tymal Mills,Bowler,120000000,Royal Challengers Bangalore,2017.0,Overseas,tymalmills,RCB,120000000,12.0,auction_transactions_2013_2022.zip
+Tymal Mills,Bowler,15000000,Mumbai Indians,2022.0,Overseas,tymalmills,MI,15000000,1.5,auction_transactions_2013_2022.zip
+Umang Sharma,Batsman,1000000,Gujarat Lions,2016.0,Indian,umangsharma,GL,1000000,0.1,auction_transactions_2013_2022.zip
+Umesh Yadav,Bowler,26000000,Kolkata Knight Riders,2014.0,Indian,umeshyadav,KKR,26000000,2.6,auction_transactions_2013_2022.zip
+Umesh Yadav,Bowler,42000000,Royal Challengers Bangalore,2018.0,Indian,umeshyadav,RCB,42000000,4.2,auction_transactions_2013_2022.zip
+Umesh Yadav,Bowler,10000000,Delhi Capitals,2021.0,Indian,umeshyadav,DC,10000000,1.0,auction_transactions_2013_2022.zip
+Umesh Yadav,Bowler,20000000,Kolkata Knight Riders,2022.0,Indian,umeshyadav,KKR,20000000,2.0,auction_transactions_2013_2022.zip
+Unmukt Chand,Batsman,6500000,Rajasthan Royals,2014.0,Indian,unmuktchand,RR,6500000,0.65,auction_transactions_2013_2022.zip
+Utkarsh Singh,All-Rounder,2000000,Punjab Kings,2021.0,Indian,utkarshsingh,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Vaibhav Arora,Bowler,2000000,Kolkata Knight Riders,2021.0,Indian,vaibhavarora,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Vaibhav Arora,Bowler,20000000,Punjab Kings,2022.0,Indian,vaibhavarora,PBKS,20000000,2.0,auction_transactions_2013_2022.zip
+Vaibhav Rawal,All-Rounder,1000000,Kolkata Knight Riders,2015.0,Indian,vaibhavrawal,KKR,1000000,0.1,auction_transactions_2013_2022.zip
+Varun Aaron,Bowler,20000000,Royal Challengers Bangalore,2014.0,Indian,varunaaron,RCB,20000000,2.0,auction_transactions_2013_2022.zip
+Varun Aaron,Bowler,28000000,Kings XI Punjab,2017.0,Indian,varunaaron,PBKS,28000000,2.8,auction_transactions_2013_2022.zip
+Varun Aaron,Bowler,24000000,Rajasthan Royals,2019.0,Indian,varunaaron,RR,24000000,2.4,auction_transactions_2013_2022.zip
+Varun Aaron,Bowler,5000000,Gujarat Titans,2022.0,Indian,varunaaron,GT,5000000,0.5,auction_transactions_2013_2022.zip
+Varun Chakaravarthy,All-Rounder,84000000,Kings XI Punjab,2019.0,Indian,varunchakaravarthy,PBKS,84000000,8.4,auction_transactions_2013_2022.zip
+Varun Chakaravarthy,All-Rounder,40000000,Kolkata Knight Riders,2020.0,Indian,varunchakaravarthy,KKR,40000000,4.0,auction_transactions_2013_2022.zip
+Veer Pratap Singh,Bowler,4000000,Kolkata Knight Riders,2014.0,Indian,veerpratapsingh,KKR,4000000,0.4,auction_transactions_2013_2022.zip
+Venkatesh Iyer,All-Rounder,2000000,Kolkata Knight Riders,2021.0,Indian,venkateshiyer,KKR,2000000,0.2,auction_transactions_2013_2022.zip
+Venugopal Rao,Batsman,5500000,Sunrisers Hyderabad,2014.0,Indian,venugopalrao,SRH,5500000,0.55,auction_transactions_2013_2022.zip
+Vicky Ostwal,All-Rounder,2000000,Delhi Capitals,2022.0,Indian,vickyostwal,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Vijay Shankar,All-Rounder,1000000,Chennai Super Kings,2014.0,Indian,vijayshankar,CSK,1000000,0.1,auction_transactions_2013_2022.zip
+Vijay Shankar,All-Rounder,3500000,Sunrisers Hyderabad,2016.0,Indian,vijayshankar,SRH,3500000,0.35,auction_transactions_2013_2022.zip
+Vijay Shankar,All-Rounder,32000000,Delhi Daredevils,2018.0,Indian,vijayshankar,DC,32000000,3.2,auction_transactions_2013_2022.zip
+Vijay Shankar,All-Rounder,14000000,Gujarat Titans,2022.0,Indian,vijayshankar,GT,14000000,1.4,auction_transactions_2013_2022.zip
+Vijay Zol,Batsman,3000000,Royal Challengers Bangalore,2014.0,Indian,vijayzol,RCB,3000000,0.3,auction_transactions_2013_2022.zip
+Vikas Tokas,Bowler,1000000,Royal Challengers Bangalore,2016.0,Indian,vikastokas,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Vikramjeet Malik,Bowler,2000000,Rajasthan Royals,2014.0,Indian,vikramjeetmalik,RR,2000000,0.2,auction_transactions_2013_2022.zip
+Vikramjeet Malik,Bowler,2000000,Royal Challengers Bangalore,2016.0,Indian,vikramjeetmalik,RCB,2000000,0.2,auction_transactions_2013_2022.zip
+Virat Singh,Batsman,19000000,Sunrisers Hyderabad,2020.0,Indian,viratsingh,SRH,19000000,1.9,auction_transactions_2013_2022.zip
+Virender Sehwag,Batsman,32000000,Kings XI Punjab,2014.0,Indian,virendersehwag,PBKS,32000000,3.2,auction_transactions_2013_2022.zip
+Vishnu Vinod,Wicket Keeper,2000000,Delhi Capitals,2021.0,Indian,vishnuvinod,DC,2000000,0.2,auction_transactions_2013_2022.zip
+Vishnu Vinod,Wicket Keeper,5000000,Sunrisers Hyderabad,2022.0,Indian,vishnuvinod,SRH,5000000,0.5,auction_transactions_2013_2022.zip
+Wanindu Hasaranga,All-Rounder,107500000,Royal Challengers Bangalore,2022.0,Overseas,waninduhasaranga,RCB,107500000,10.75,auction_transactions_2013_2022.zip
+Washington Sundar,All-Rounder,87500000,Sunrisers Hyderabad,2022.0,Indian,washingtonsundar,SRH,87500000,8.75,auction_transactions_2013_2022.zip
+Wayne Parnell,Bowler,10000000,Delhi Daredevils,2014.0,Overseas,wayneparnell,DC,10000000,1.0,auction_transactions_2013_2022.zip
+Wriddhiman Saha,Wicket Keeper,22000000,Kings XI Punjab,2014.0,Indian,wriddhimansaha,PBKS,22000000,2.2,auction_transactions_2013_2022.zip
+Wriddhiman Saha,Wicket Keeper,50000000,Sunrisers Hyderabad,2018.0,Indian,wriddhimansaha,SRH,50000000,5.0,auction_transactions_2013_2022.zip
+Wriddhiman Saha,Wicket Keeper,12000000,Sunrisers Hyderabad,2019.0,Indian,wriddhimansaha,SRH,12000000,1.2,auction_transactions_2013_2022.zip
+Wriddhiman Saha,Wicket Keeper,19000000,Gujarat Titans,2022.0,Indian,wriddhimansaha,GT,19000000,1.9,auction_transactions_2013_2022.zip
+Writtick Chatterjee,All-Rounder,2000000,Punjab Kings,2022.0,Indian,writtickchatterjee,PBKS,2000000,0.2,auction_transactions_2013_2022.zip
+Yash Dayal,Bowler,32000000,Gujarat Titans,2022.0,Indian,yashdayal,GT,32000000,3.2,auction_transactions_2013_2022.zip
+Yash Dhull,All-Rounder,5000000,Delhi Capitals,2022.0,Indian,yashdhull,DC,5000000,0.5,auction_transactions_2013_2022.zip
+Yashasvi Jaiswal,All-Rounder,24000000,Rajasthan Royals,2020.0,Indian,yashasvijaiswal,RR,24000000,2.4,auction_transactions_2013_2022.zip
+Yogesh Gowalkar,All-Rounder,1000000,Kings XI Punjab,2015.0,Indian,yogeshgowalkar,PBKS,1000000,0.1,auction_transactions_2013_2022.zip
+Yogesh Takawale,Wicket Keeper,1000000,Royal Challengers Bangalore,2014.0,Indian,yogeshtakawale,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Yudhvir Charak,All-Rounder,2000000,Mumbai Indians,2021.0,Indian,yudhvircharak,MI,2000000,0.2,auction_transactions_2013_2022.zip
+Yusuf Pathan,All-Rounder,32500000,Kolkata Knight Riders,2014.0,Indian,yusufpathan,KKR,32500000,3.25,auction_transactions_2013_2022.zip
+Yusuf Pathan,All-Rounder,19000000,Sunrisers Hyderabad,2018.0,Indian,yusufpathan,SRH,19000000,1.9,auction_transactions_2013_2022.zip
+Yuvraj Singh,All-Rounder,140000000,Royal Challengers Bangalore,2014.0,Indian,yuvrajsingh,RCB,140000000,14.0,auction_transactions_2013_2022.zip
+Yuvraj Singh,Batsman,160000000,Delhi Daredevils,2015.0,Indian,yuvrajsingh,DC,160000000,16.0,auction_transactions_2013_2022.zip
+Yuvraj Singh,All-Rounder,70000000,Sunrisers Hyderabad,2016.0,Indian,yuvrajsingh,SRH,70000000,7.0,auction_transactions_2013_2022.zip
+Yuvraj Singh,All-Rounder,20000000,Kings XI Punjab,2018.0,Indian,yuvrajsingh,PBKS,20000000,2.0,auction_transactions_2013_2022.zip
+Yuvraj Singh,All-Rounder,10000000,Mumbai Indians,2019.0,Indian,yuvrajsingh,MI,10000000,1.0,auction_transactions_2013_2022.zip
+Yuzvendra Chahal,Bowler,65000000,Rajasthan Royals,2022.0,Indian,yuzvendrachahal,RR,65000000,6.5,auction_transactions_2013_2022.zip
+Yuzvendra Singh Chahal,Bowler,1000000,Royal Challengers Bangalore,2014.0,Indian,yuzvendrasinghchahal,RCB,1000000,0.1,auction_transactions_2013_2022.zip
+Yuzvendra Singh Chahal,Bowler,60000000,Royal Challengers Bangalore,2018.0,Indian,yuzvendrasinghchahal,RCB,60000000,6.0,auction_transactions_2013_2022.zip
+Zaheer Khan,Bowler,26000000,Mumbai Indians,2014.0,Indian,zaheerkhan,MI,26000000,2.6,auction_transactions_2013_2022.zip
+Zaheer Khan,Bowler,40000000,Delhi Daredevils,2015.0,Indian,zaheerkhan,DC,40000000,4.0,auction_transactions_2013_2022.zip
+Zahir Khan Pakteen,Bowler,6000000,Rajasthan Royals,2018.0,Indian,zahirkhanpakteen,RR,6000000,0.6,auction_transactions_2013_2022.zip

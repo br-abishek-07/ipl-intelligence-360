@@ -1,0 +1,11 @@
+{
+  "source_match_count": 1243,
+  "award_rows": 1234,
+  "unique_award_matches": 1234,
+  "matches_without_award": 9,
+  "missing_match_ids": 0,
+  "unresolved_award_team_or_identity": 0,
+  "resolved_awards": 1234,
+  "method": "Exact Cricsheet person-ID and match-team membership; no guesses.",
+  "notes": "A record is an awarded Player-of-Match mention, not necessarily a performance-quality score."
+}

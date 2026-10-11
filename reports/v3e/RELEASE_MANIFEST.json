@@ -1,0 +1,13 @@
+{
+  "release": "V3-E",
+  "app_at_zip_root": true,
+  "new_feature": "documented coaching timelines and prior-season-only player-context chase research",
+  "source_and_production_models": "unchanged from V3-D SHA-256 validated",
+  "qualified_models_modified": false,
+  "current_franchises_documented": 10,
+  "coaching_eras": 31,
+  "sourced_active_team_seasons": 86,
+  "remaining_unknown_team_seasons": 67,
+  "new_model_deployed": false,
+  "browser_acceptance": "pending"
+}

@@ -1,0 +1,45 @@
+{
+  "release": "V3-F",
+  "source_release": "V3-E",
+  "description": "Filtered sports analyst report generator with downloadable PDF and source-evidence ZIP",
+  "original_model_and_analytics_files_changed": false,
+  "sha256_verified_unchanged": {
+    "models_portable/chase_after_108_balls.json": "27d5165257235ea0ad42d91a0085bf7b145696cc15e71fd61b7ab85f97bf1444",
+    "models_portable/first_innings_180_after_60_balls.json": "4e4e619487c9c4e3651dd21eac5482ccd8243ab28bbe0bd64ef829441f409f13",
+    "models_portable/chase_after_60_balls.json": "61d514bb8a085d6d68563c73f8b173cfa13019fbe8d2db6f9cdc8eed05c22cd4",
+    "models_portable/chase_after_90_balls.json": "923f351bcdfe5367f54c85a6db755a5ac686760d49661708c553f55dea493539",
+    "data/analytics/matches_enriched.csv": "4bb399a68773b00bed0b44950a3511acf5ad992aea9cd5072a5390a428bbc771",
+    "data/analytics/team_match_summary.csv": "92752bd8116676a1f76699fb99a7c91a67c00e22830448b2e30818c866fb375a",
+    "data/analytics/batting_player_match.csv": "6158d34d5fcd5437dca565b91c72c559f1a8de720f3ea9e94243b7e186f2dbf7",
+    "data/analytics/bowling_player_match.csv": "23cacc5a36dfac54414b0c8213605e8955bfcb9f2428031311fa31735a74fed0"
+  },
+  "new_streamlit_page": "pages/24_Sports_Analyst_Report_Studio.py",
+  "new_dependencies": [
+    "reportlab>=4.2,<5"
+  ],
+  "source_match_count": 1243,
+  "source_team_match_count": 2486,
+  "team_list": [
+    "CSK",
+    "DC",
+    "DCH",
+    "GL",
+    "GT",
+    "KKR",
+    "KTK",
+    "LSG",
+    "MI",
+    "PBKS",
+    "PWI",
+    "RCB",
+    "RPS",
+    "RR",
+    "SRH"
+  ],
+  "pdf_samples": [
+    "preview/CSK_Analyst_Report_Sample.pdf",
+    "preview/MI_Analyst_Report_Sample.pdf"
+  ],
+  "browser_user_acceptance": "PENDING - Streamlit unavailable in build environment",
+  "reported_accuracy_claims": "None: no model retraining or new predictive accuracy claims"
+}

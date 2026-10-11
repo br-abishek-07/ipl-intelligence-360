@@ -1,0 +1,180 @@
+{
+  "release": "V2-J QA & Research Integration",
+  "checks_total": 34,
+  "passed": 34,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "Master source/model unchanged: data/source/ipl_json.zip",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: data/analytics/matches_enriched.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: data/analytics/team_match_summary.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: data/analytics/team_phase_match.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: data/analytics/player_registry_v2f.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/model_gate_summary.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/model_gate_report.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/qualified_model_names.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: models_portable/chase_after_60_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: models_portable/chase_after_90_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: models_portable/chase_after_108_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: models_portable/first_innings_180_after_60_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/holdout_predictions/chase_after_108_balls.csv.gz",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/holdout_predictions/chase_after_60_balls.csv.gz",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/holdout_predictions/chase_after_90_balls.csv.gz",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Master source/model unchanged: model_reports/holdout_predictions/first_innings_180_after_60_balls.csv.gz",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Research evidence is present",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Independent train/calibration/test match partitions reported",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "User notebook in-sample predictions are not presented as qualified",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Corrected research all-state accuracy documented",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Retrospective after_10_overs cohort exists",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Retrospective after_15_overs cohort exists",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Retrospective after_18_overs cohort exists",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Only the original four checkpoint models are qualified",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Every qualified model is marked research candidate",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "AI Prediction Centre has clearly separated live research tab",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Research chart uses descriptive title and shared full-screen viewer",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Capstone research guide links earlier live audit",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Ten dedicated franchise routes still exist",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Original credential-bearing Jupyter notebook not packaged",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Simulated franchise revenue CSV not packaged",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Previously uploaded in-sample live CSV not packaged",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "No obvious hardcoded application credential assignments",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "All existing academic deliverables preserved",
+      "passed": true,
+      "details": ""
+    }
+  ],
+  "browser_acceptance": "PENDING HUMAN SIGN-OFF",
+  "status": "offline-gate-passed"
+}

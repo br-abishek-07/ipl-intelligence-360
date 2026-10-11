@@ -1,0 +1,18 @@
+{
+  "data/source/ipl_json.zip": "5757e04287179767ff8495f02902bd13812b9572ec8fa2ac1347ec2e9c6d4709",
+  "data/analytics/matches_enriched.csv": "4bb399a68773b00bed0b44950a3511acf5ad992aea9cd5072a5390a428bbc771",
+  "data/analytics/team_match_summary.csv": "92752bd8116676a1f76699fb99a7c91a67c00e22830448b2e30818c866fb375a",
+  "data/analytics/team_phase_match.csv": "d046a66eef9eeb7255a0c46ccfba42cec283139cc794e350096e05e83bbfca20",
+  "data/analytics/player_registry_v2f.csv": "fd993ab30b489fbcc39d45f8519a317142c03be307b9a05f6badbcc005d7bf8a",
+  "model_reports/model_gate_summary.csv": "8412fadab3da406578a641e20b8e7e3aecc38b059db34a94347761644e949570",
+  "model_reports/model_gate_report.json": "73f5223ff49dc30b6e0d2d2c89b619eef5c66c49640bdd7fc774641fba09bfeb",
+  "model_reports/qualified_model_names.json": "eda60aeae3b2cf5cbb508a942180faca491203d1d4982d470935b62f3d992923",
+  "models_portable/chase_after_60_balls.json": "61d514bb8a085d6d68563c73f8b173cfa13019fbe8d2db6f9cdc8eed05c22cd4",
+  "models_portable/chase_after_90_balls.json": "923f351bcdfe5367f54c85a6db755a5ac686760d49661708c553f55dea493539",
+  "models_portable/chase_after_108_balls.json": "27d5165257235ea0ad42d91a0085bf7b145696cc15e71fd61b7ab85f97bf1444",
+  "models_portable/first_innings_180_after_60_balls.json": "4e4e619487c9c4e3651dd21eac5482ccd8243ab28bbe0bd64ef829441f409f13",
+  "model_reports/holdout_predictions/chase_after_108_balls.csv.gz": "e3e6ec173833b8af08fb95970c2e0c1fd3dea230b35714d89755264daf28e267",
+  "model_reports/holdout_predictions/chase_after_60_balls.csv.gz": "e336ca3d90ba351696b8c09c9137c9c3fbac223de3578ef326759ac0a0c29fb3",
+  "model_reports/holdout_predictions/chase_after_90_balls.csv.gz": "56b740d2d280ccd9ff0b6f0576708163af6b6b55455454aa95bade3d77799ec4",
+  "model_reports/holdout_predictions/first_innings_180_after_60_balls.csv.gz": "c4fe846bc05664c4569b8157eb995fa7471f3a634df89a7fa84d83da59d7e36c"
+}

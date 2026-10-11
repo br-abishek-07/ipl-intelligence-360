@@ -1,0 +1,50 @@
+{
+  "bowling_overall": {
+    "matches": 148,
+    "rows": 5586,
+    "ml_accuracy": 0.7805,
+    "repeat_last_accuracy": 0.7567,
+    "delta_pp": 2.38,
+    "bootstrap_95pct_delta_pp": [
+      1.24,
+      3.52
+    ],
+    "match_clustered_interval_excludes_zero": true
+  },
+  "bowling_death": {
+    "matches": 148,
+    "rows": 2793,
+    "ml_accuracy": 0.7451,
+    "repeat_last_accuracy": 0.7143,
+    "delta_pp": 3.08,
+    "bootstrap_95pct_delta_pp": [
+      1.66,
+      4.51
+    ],
+    "match_clustered_interval_excludes_zero": true
+  },
+  "bowling_powerplay": {
+    "matches": 148,
+    "rows": 2793,
+    "ml_accuracy": 0.816,
+    "repeat_last_accuracy": 0.7991,
+    "delta_pp": 1.68,
+    "bootstrap_95pct_delta_pp": [
+      0.46,
+      2.96
+    ],
+    "match_clustered_interval_excludes_zero": true
+  },
+  "participation_overall": {
+    "matches": 148,
+    "rows": 4852,
+    "ml_accuracy": 0.8351,
+    "repeat_last_accuracy": 0.8337,
+    "delta_pp": 0.14,
+    "bootstrap_95pct_delta_pp": [
+      -0.1,
+      0.47
+    ],
+    "match_clustered_interval_excludes_zero": false
+  }
+}

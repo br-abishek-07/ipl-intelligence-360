@@ -1,0 +1,9 @@
+{
+  "release": "IPL Intelligence 360 V2-I",
+  "date": "2026-10-09",
+  "files_in_bundle": 182,
+  "core_sources_unchanged": true,
+  "regression_tests": "159/159 passed, excluding long simulated full dashboard render",
+  "offline_audit": "36/36 passed",
+  "browser_sign_off": "PENDING"
+}

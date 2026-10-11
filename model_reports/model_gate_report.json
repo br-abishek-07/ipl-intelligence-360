@@ -1,0 +1,1068 @@
+{
+  "policy": {
+    "accuracy_minimum": 0.7,
+    "beat_majority_by": 0.03,
+    "auc_minimum": 0.6,
+    "brier_improvement_over_train_prevalence_minimum": 0.005,
+    "each_test_season_accuracy_minimum": 0.65,
+    "sample_count_minimum": 80,
+    "wilson_95_accuracy_lower_bound_strictly_above_70pct": true,
+    "independent_future_season_required_to_certify": true
+  },
+  "split": {
+    "train_through": 2022,
+    "selection_years": [
+      2023,
+      2024
+    ],
+    "refit_through": 2024,
+    "test_years": [
+      2025,
+      2026
+    ]
+  },
+  "models": [
+    {
+      "name": "chase_after_0_balls",
+      "task": "chase_win",
+      "features": [
+        "target_runs",
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "runs_needed",
+        "balls_left",
+        "wickets_left",
+        "run_rate",
+        "required_rr",
+        "required_minus_current_rr",
+        "target_per_over",
+        "required_run_fraction"
+      ],
+      "target": "won",
+      "selected_on_validation": "histboost",
+      "validation": {
+        "logistic": {
+          "n": 141,
+          "prevalence": 0.48226950354609927,
+          "accuracy": 0.6524822695035462,
+          "balanced_accuracy": 0.645245769540693,
+          "auc": 0.7486905721192587,
+          "brier": 0.21292952914562793,
+          "logloss": 0.6160079471857705
+        },
+        "histboost": {
+          "n": 141,
+          "prevalence": 0.48226950354609927,
+          "accuracy": 0.6524822695035462,
+          "balanced_accuracy": 0.645245769540693,
+          "auc": 0.7408340048348107,
+          "brier": 0.20822947714909337,
+          "logloss": 0.604793942406401
+        }
+      },
+      "holdout": {
+        "n": 138,
+        "prevalence": 0.5797101449275363,
+        "accuracy": 0.6521739130434783,
+        "balanced_accuracy": 0.6952586206896552,
+        "auc": 0.7960129310344828,
+        "brier": 0.2296972693157502,
+        "logloss": 0.6662009290063008
+      },
+      "baseline": {
+        "n": 138,
+        "prevalence": 0.5797101449275363,
+        "accuracy": 0.5797101449275363,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.2451765089067631,
+        "logloss": 0.683482559259024,
+        "majority_accuracy": 0.5797101449275363
+      },
+      "yearly": {
+        "2025": {
+          "n": 68,
+          "prevalence": 0.5147058823529411,
+          "accuracy": 0.7058823529411765,
+          "balanced_accuracy": 0.7134199134199134,
+          "auc": 0.8333333333333333,
+          "brier": 0.20130836666069596,
+          "logloss": 0.5961166064980746
+        },
+        "2026": {
+          "n": 70,
+          "prevalence": 0.6428571428571429,
+          "accuracy": 0.6,
+          "balanced_accuracy": 0.6799999999999999,
+          "auc": 0.7871111111111113,
+          "brier": 0.2572750604663744,
+          "logloss": 0.7342828423000063
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.5696,
+        0.7265
+      ],
+      "independent_matches": 138,
+      "train_rows": 1047,
+      "gate_passed": false,
+      "gate_reason": "Accuracy below 70%",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Conditional on chase reaching this ball; excludes rain-shortened chases and no-results."
+    },
+    {
+      "name": "chase_after_36_balls",
+      "task": "chase_win",
+      "features": [
+        "target_runs",
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "runs_needed",
+        "balls_left",
+        "wickets_left",
+        "run_rate",
+        "required_rr",
+        "required_minus_current_rr",
+        "target_per_over",
+        "required_run_fraction"
+      ],
+      "target": "won",
+      "selected_on_validation": "logistic",
+      "validation": {
+        "logistic": {
+          "n": 141,
+          "prevalence": 0.48226950354609927,
+          "accuracy": 0.7446808510638298,
+          "balanced_accuracy": 0.7418412570507655,
+          "auc": 0.8287671232876713,
+          "brier": 0.17132872929203724,
+          "logloss": 0.518729865064436
+        },
+        "histboost": {
+          "n": 141,
+          "prevalence": 0.48226950354609927,
+          "accuracy": 0.75177304964539,
+          "balanced_accuracy": 0.7507050765511685,
+          "auc": 0.818593875906527,
+          "brier": 0.17214887561789158,
+          "logloss": 0.5219827666536966
+        }
+      },
+      "holdout": {
+        "n": 138,
+        "prevalence": 0.5797101449275363,
+        "accuracy": 0.7681159420289855,
+        "balanced_accuracy": 0.788146551724138,
+        "auc": 0.9093749999999999,
+        "brier": 0.14571230157533832,
+        "logloss": 0.4507234115040663
+      },
+      "baseline": {
+        "n": 138,
+        "prevalence": 0.5797101449275363,
+        "accuracy": 0.5797101449275363,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.24521106338458354,
+        "logloss": 0.6835521217419013,
+        "majority_accuracy": 0.5797101449275363
+      },
+      "yearly": {
+        "2025": {
+          "n": 68,
+          "prevalence": 0.5147058823529411,
+          "accuracy": 0.75,
+          "balanced_accuracy": 0.7536796536796537,
+          "auc": 0.861038961038961,
+          "brier": 0.16180012515130593,
+          "logloss": 0.49671879844280153
+        },
+        "2026": {
+          "n": 70,
+          "prevalence": 0.6428571428571429,
+          "accuracy": 0.7857142857142857,
+          "balanced_accuracy": 0.8244444444444444,
+          "auc": 0.9617777777777777,
+          "brier": 0.1300841301015412,
+          "logloss": 0.4060421784778664
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.691,
+        0.8307
+      ],
+      "independent_matches": 138,
+      "train_rows": 1046,
+      "gate_passed": false,
+      "gate_reason": "95% Wilson accuracy lower bound does not exceed 70%",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Conditional on chase reaching this ball; excludes rain-shortened chases and no-results."
+    },
+    {
+      "name": "chase_after_60_balls",
+      "task": "chase_win",
+      "features": [
+        "target_runs",
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "runs_needed",
+        "balls_left",
+        "wickets_left",
+        "run_rate",
+        "required_rr",
+        "required_minus_current_rr",
+        "target_per_over",
+        "required_run_fraction"
+      ],
+      "target": "won",
+      "selected_on_validation": "histboost",
+      "validation": {
+        "logistic": {
+          "n": 139,
+          "prevalence": 0.4748201438848921,
+          "accuracy": 0.762589928057554,
+          "balanced_accuracy": 0.7594437525944375,
+          "auc": 0.8590701535907015,
+          "brier": 0.1560015936282952,
+          "logloss": 0.47004379705230237
+        },
+        "histboost": {
+          "n": 139,
+          "prevalence": 0.4748201438848921,
+          "accuracy": 0.7841726618705036,
+          "balanced_accuracy": 0.7814445828144458,
+          "auc": 0.8541926110419261,
+          "brier": 0.15150786614389913,
+          "logloss": 0.469818316594364
+        }
+      },
+      "holdout": {
+        "n": 136,
+        "prevalence": 0.5735294117647058,
+        "accuracy": 0.8235294117647058,
+        "balanced_accuracy": 0.8306808134394341,
+        "auc": 0.9068302387267905,
+        "brier": 0.1335103400585844,
+        "logloss": 0.4165062176107182
+      },
+      "baseline": {
+        "n": 136,
+        "prevalence": 0.5735294117647058,
+        "accuracy": 0.5735294117647058,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.2459186102630818,
+        "logloss": 0.684971893960112,
+        "majority_accuracy": 0.5735294117647058
+      },
+      "yearly": {
+        "2025": {
+          "n": 67,
+          "prevalence": 0.5074626865671642,
+          "accuracy": 0.8208955223880597,
+          "balanced_accuracy": 0.821301247771836,
+          "auc": 0.8796791443850267,
+          "brier": 0.14048734284456713,
+          "logloss": 0.4370924405470114
+        },
+        "2026": {
+          "n": 69,
+          "prevalence": 0.6376811594202898,
+          "accuracy": 0.8260869565217391,
+          "balanced_accuracy": 0.8463636363636364,
+          "auc": 0.9418181818181818,
+          "brier": 0.12673556923741272,
+          "logloss": 0.39651669678852053
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.7508,
+        0.8784
+      ],
+      "independent_matches": 136,
+      "train_rows": 1037,
+      "gate_passed": true,
+      "gate_reason": "Provisional holdout pass; independent future-season confirmation required",
+      "deployment_status": "RESEARCH_CANDIDATE_PASSED_RETROSPECTIVE_GATE",
+      "notes": "Conditional on chase reaching this ball; excludes rain-shortened chases and no-results."
+    },
+    {
+      "name": "chase_after_90_balls",
+      "task": "chase_win",
+      "features": [
+        "target_runs",
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "runs_needed",
+        "balls_left",
+        "wickets_left",
+        "run_rate",
+        "required_rr",
+        "required_minus_current_rr",
+        "target_per_over",
+        "required_run_fraction"
+      ],
+      "target": "won",
+      "selected_on_validation": "logistic",
+      "validation": {
+        "logistic": {
+          "n": 133,
+          "prevalence": 0.45864661654135336,
+          "accuracy": 0.849624060150376,
+          "balanced_accuracy": 0.8473360655737705,
+          "auc": 0.9319216757741349,
+          "brier": 0.10368655128252874,
+          "logloss": 0.32689922308966474
+        },
+        "histboost": {
+          "n": 133,
+          "prevalence": 0.45864661654135336,
+          "accuracy": 0.8421052631578947,
+          "balanced_accuracy": 0.841643897996357,
+          "auc": 0.9156420765027322,
+          "brier": 0.11693939984320517,
+          "logloss": 0.37297124611632043
+        }
+      },
+      "holdout": {
+        "n": 130,
+        "prevalence": 0.5692307692307692,
+        "accuracy": 0.9,
+        "balanced_accuracy": 0.8969594594594594,
+        "auc": 0.9541505791505793,
+        "brier": 0.08608124173180293,
+        "logloss": 0.27485513319225985
+      },
+      "baseline": {
+        "n": 130,
+        "prevalence": 0.5692307692307692,
+        "accuracy": 0.5692307692307692,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.24799888367477727,
+        "logloss": 0.6891436092586896,
+        "majority_accuracy": 0.5692307692307692
+      },
+      "yearly": {
+        "2025": {
+          "n": 65,
+          "prevalence": 0.49230769230769234,
+          "accuracy": 0.8615384615384616,
+          "balanced_accuracy": 0.8626893939393939,
+          "auc": 0.9441287878787878,
+          "brier": 0.101258489238243,
+          "logloss": 0.3128863424766127
+        },
+        "2026": {
+          "n": 65,
+          "prevalence": 0.6461538461538462,
+          "accuracy": 0.9384615384615385,
+          "balanced_accuracy": 0.9523809523809523,
+          "auc": 0.9772256728778468,
+          "brier": 0.07090399422536284,
+          "logloss": 0.23682392390790707
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.8364,
+        0.9406
+      ],
+      "independent_matches": 130,
+      "train_rows": 976,
+      "gate_passed": true,
+      "gate_reason": "Provisional holdout pass; independent future-season confirmation required",
+      "deployment_status": "RESEARCH_CANDIDATE_PASSED_RETROSPECTIVE_GATE",
+      "notes": "Conditional on chase reaching this ball; excludes rain-shortened chases and no-results."
+    },
+    {
+      "name": "chase_after_108_balls",
+      "task": "chase_win",
+      "features": [
+        "target_runs",
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "runs_needed",
+        "balls_left",
+        "wickets_left",
+        "run_rate",
+        "required_rr",
+        "required_minus_current_rr",
+        "target_per_over",
+        "required_run_fraction"
+      ],
+      "target": "won",
+      "selected_on_validation": "logistic",
+      "validation": {
+        "logistic": {
+          "n": 110,
+          "prevalence": 0.39090909090909093,
+          "accuracy": 0.8818181818181818,
+          "balanced_accuracy": 0.8654980909406456,
+          "auc": 0.9524470669906282,
+          "brier": 0.08305689445189393,
+          "logloss": 0.27487769359187664
+        },
+        "histboost": {
+          "n": 110,
+          "prevalence": 0.39090909090909093,
+          "accuracy": 0.8636363636363636,
+          "balanced_accuracy": 0.8380770565775773,
+          "auc": 0.9394307532106907,
+          "brier": 0.08718030861373847,
+          "logloss": 0.28765115441744854
+        }
+      },
+      "holdout": {
+        "n": 98,
+        "prevalence": 0.5,
+        "accuracy": 0.9081632653061225,
+        "balanced_accuracy": 0.9081632653061225,
+        "auc": 0.9750104123281965,
+        "brier": 0.06419989356323084,
+        "logloss": 0.20468035371726218
+      },
+      "baseline": {
+        "n": 98,
+        "prevalence": 0.5,
+        "accuracy": 0.5,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.25153787004998074,
+        "logloss": 0.6962324198130062,
+        "majority_accuracy": 0.5
+      },
+      "yearly": {
+        "2025": {
+          "n": 48,
+          "prevalence": 0.375,
+          "accuracy": 0.8958333333333334,
+          "balanced_accuracy": 0.9055555555555556,
+          "auc": 0.9685185185185184,
+          "brier": 0.07353403252521161,
+          "logloss": 0.22426354028441042
+        },
+        "2026": {
+          "n": 50,
+          "prevalence": 0.62,
+          "accuracy": 0.92,
+          "balanced_accuracy": 0.9252971137521222,
+          "auc": 0.9847198641765704,
+          "brier": 0.05523912015972932,
+          "logloss": 0.18588049461279987
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.8346,
+        0.9509
+      ],
+      "independent_matches": 98,
+      "train_rows": 816,
+      "gate_passed": true,
+      "gate_reason": "Provisional holdout pass; independent future-season confirmation required",
+      "deployment_status": "RESEARCH_CANDIDATE_PASSED_RETROSPECTIVE_GATE",
+      "notes": "Conditional on chase reaching this ball; excludes rain-shortened chases and no-results."
+    },
+    {
+      "name": "first_innings_180_after_36_balls",
+      "task": "innings_180",
+      "features": [
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "balls_left",
+        "current_rr",
+        "projected_total",
+        "runs_to_180",
+        "needed_rate_180"
+      ],
+      "target": "target_180",
+      "selected_on_validation": "logistic",
+      "validation": {
+        "logistic": {
+          "n": 143,
+          "prevalence": 0.5454545454545454,
+          "accuracy": 0.6783216783216783,
+          "balanced_accuracy": 0.7,
+          "auc": 0.7851084812623274,
+          "brier": 0.21083479442087735,
+          "logloss": 0.612839157800991
+        },
+        "histboost": {
+          "n": 143,
+          "prevalence": 0.5454545454545454,
+          "accuracy": 0.6643356643356644,
+          "balanced_accuracy": 0.6858974358974359,
+          "auc": 0.7903353057199212,
+          "brier": 0.2226059952447502,
+          "logloss": 0.6430129555896195
+        }
+      },
+      "holdout": {
+        "n": 145,
+        "prevalence": 0.6620689655172414,
+        "accuracy": 0.7103448275862069,
+        "balanced_accuracy": 0.7312925170068028,
+        "auc": 0.8292942176870748,
+        "brier": 0.18053781138540675,
+        "logloss": 0.5326176580143038
+      },
+      "baseline": {
+        "n": 145,
+        "prevalence": 0.6620689655172414,
+        "accuracy": 0.33793103448275863,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.3420503532101459,
+        "logloss": 0.8877159806172523,
+        "majority_accuracy": 0.6620689655172414
+      },
+      "yearly": {
+        "2025": {
+          "n": 73,
+          "prevalence": 0.6575342465753424,
+          "accuracy": 0.7123287671232876,
+          "balanced_accuracy": 0.7333333333333334,
+          "auc": 0.8345833333333333,
+          "brier": 0.17926837295400955,
+          "logloss": 0.5258146425767146
+        },
+        "2026": {
+          "n": 72,
+          "prevalence": 0.6666666666666666,
+          "accuracy": 0.7083333333333334,
+          "balanced_accuracy": 0.7291666666666666,
+          "auc": 0.8177083333333334,
+          "brier": 0.18182488090612894,
+          "logloss": 0.539515159777415
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.6318,
+        0.778
+      ],
+      "independent_matches": 145,
+      "train_rows": 1072,
+      "gate_passed": false,
+      "gate_reason": "95% Wilson accuracy lower bound does not exceed 70%",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Forecast whether first innings total >=180; threshold has not already been crossed.",
+      "pace_extrapolation_baseline_accuracy": 0.7517241379310344,
+      "beats_simple_pace_extrapolation": false
+    },
+    {
+      "name": "first_innings_180_after_60_balls",
+      "task": "innings_180",
+      "features": [
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "balls_left",
+        "current_rr",
+        "projected_total",
+        "runs_to_180",
+        "needed_rate_180"
+      ],
+      "target": "target_180",
+      "selected_on_validation": "logistic",
+      "validation": {
+        "logistic": {
+          "n": 143,
+          "prevalence": 0.5454545454545454,
+          "accuracy": 0.7622377622377622,
+          "balanced_accuracy": 0.7705128205128206,
+          "auc": 0.872189349112426,
+          "brier": 0.15666244176937122,
+          "logloss": 0.47530918257449334
+        },
+        "histboost": {
+          "n": 143,
+          "prevalence": 0.5454545454545454,
+          "accuracy": 0.7832167832167832,
+          "balanced_accuracy": 0.7858974358974359,
+          "auc": 0.8608481262327418,
+          "brier": 0.16593448963446245,
+          "logloss": 0.5119650547037197
+        }
+      },
+      "holdout": {
+        "n": 145,
+        "prevalence": 0.6620689655172414,
+        "accuracy": 0.8206896551724138,
+        "balanced_accuracy": 0.8196215986394557,
+        "auc": 0.8819090136054422,
+        "brier": 0.12774927465147318,
+        "logloss": 0.41898047818975404
+      },
+      "baseline": {
+        "n": 145,
+        "prevalence": 0.6620689655172414,
+        "accuracy": 0.33793103448275863,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.341437025976017,
+        "logloss": 0.8863032615019057,
+        "majority_accuracy": 0.6620689655172414
+      },
+      "yearly": {
+        "2025": {
+          "n": 73,
+          "prevalence": 0.6575342465753424,
+          "accuracy": 0.7945205479452054,
+          "balanced_accuracy": 0.8054166666666667,
+          "auc": 0.88375,
+          "brier": 0.1329983940324635,
+          "logloss": 0.43666871411384967
+        },
+        "2026": {
+          "n": 72,
+          "prevalence": 0.6666666666666666,
+          "accuracy": 0.8472222222222222,
+          "balanced_accuracy": 0.8333333333333333,
+          "auc": 0.8836805555555556,
+          "brier": 0.12242725083463576,
+          "logloss": 0.4010465723222681
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.7502,
+        0.8746
+      ],
+      "independent_matches": 145,
+      "train_rows": 1069,
+      "gate_passed": true,
+      "gate_reason": "Provisional holdout pass; independent future-season confirmation required",
+      "deployment_status": "RESEARCH_CANDIDATE_PASSED_RETROSPECTIVE_GATE",
+      "notes": "Forecast whether first innings total >=180; threshold has not already been crossed.",
+      "pace_extrapolation_baseline_accuracy": 0.7724137931034483,
+      "beats_simple_pace_extrapolation": true
+    },
+    {
+      "name": "first_innings_180_after_90_balls",
+      "task": "innings_180",
+      "features": [
+        "runs_before_ball",
+        "wickets_before_ball",
+        "legal_balls_before",
+        "balls_left",
+        "current_rr",
+        "projected_total",
+        "runs_to_180",
+        "needed_rate_180"
+      ],
+      "target": "target_180",
+      "selected_on_validation": "logistic",
+      "validation": {
+        "logistic": {
+          "n": 135,
+          "prevalence": 0.5185185185185185,
+          "accuracy": 0.8814814814814815,
+          "balanced_accuracy": 0.8824175824175824,
+          "auc": 0.9515384615384614,
+          "brier": 0.09289367797294693,
+          "logloss": 0.2999598064373917
+        },
+        "histboost": {
+          "n": 135,
+          "prevalence": 0.5185185185185185,
+          "accuracy": 0.8444444444444444,
+          "balanced_accuracy": 0.8456043956043956,
+          "auc": 0.9443956043956043,
+          "brier": 0.10052797145889246,
+          "logloss": 0.32196406166779984
+        }
+      },
+      "holdout": {
+        "n": 131,
+        "prevalence": 0.6564885496183206,
+        "accuracy": 0.8778625954198473,
+        "balanced_accuracy": 0.8751937984496124,
+        "auc": 0.960077519379845,
+        "brier": 0.07906053829570789,
+        "logloss": 0.25436471385438647
+      },
+      "baseline": {
+        "n": 131,
+        "prevalence": 0.6564885496183206,
+        "accuracy": 0.3435114503816794,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.34274364980411703,
+        "logloss": 0.8897599721658226,
+        "majority_accuracy": 0.6564885496183206
+      },
+      "yearly": {
+        "2025": {
+          "n": 68,
+          "prevalence": 0.6764705882352942,
+          "accuracy": 0.8970588235294118,
+          "balanced_accuracy": 0.900197628458498,
+          "auc": 0.9619565217391305,
+          "brier": 0.07943789377508717,
+          "logloss": 0.26020026398077317
+        },
+        "2026": {
+          "n": 63,
+          "prevalence": 0.6349206349206349,
+          "accuracy": 0.8571428571428571,
+          "balanced_accuracy": 0.8505434782608696,
+          "auc": 0.9565217391304348,
+          "brier": 0.07865323396875883,
+          "logloss": 0.24806602482908013
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.8108,
+        0.9234
+      ],
+      "independent_matches": 131,
+      "train_rows": 1057,
+      "gate_passed": false,
+      "gate_reason": "Does not beat naive current-run-rate extrapolation by >1pp",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Forecast whether first innings total >=180; threshold has not already been crossed.",
+      "pace_extrapolation_baseline_accuracy": 0.8702290076335878,
+      "beats_simple_pace_extrapolation": false
+    },
+    {
+      "name": "bat_30_plus_if_bats",
+      "task": "player_runs_milestone",
+      "features": [
+        "prior_matches",
+        "prior_mean_runs",
+        "prior_last5_runs",
+        "prior_mean_balls",
+        "prior_last5_balls",
+        "prior_mean_first_over",
+        "prior_last5_first_over"
+      ],
+      "target": "run_30_plus",
+      "selected_on_validation": "histboost",
+      "validation": {
+        "logistic": {
+          "n": 2286,
+          "prevalence": 0.27165354330708663,
+          "accuracy": 0.7252843394575678,
+          "balanced_accuracy": 0.5387909648779213,
+          "auc": 0.6840357265478039,
+          "brier": 0.18315467905469074,
+          "logloss": 0.5430509313775498
+        },
+        "histboost": {
+          "n": 2286,
+          "prevalence": 0.27165354330708663,
+          "accuracy": 0.7287839020122485,
+          "balanced_accuracy": 0.5023197110153632,
+          "auc": 0.6928556575899572,
+          "brier": 0.18044067137456749,
+          "logloss": 0.534694280972171
+        }
+      },
+      "holdout": {
+        "n": 2253,
+        "prevalence": 0.3031513537505548,
+        "accuracy": 0.6968486462494452,
+        "balanced_accuracy": 0.5,
+        "auc": 0.7032607175163899,
+        "brier": 0.1906067227033915,
+        "logloss": 0.5561150047379789
+      },
+      "baseline": {
+        "n": 2253,
+        "prevalence": 0.3031513537505548,
+        "accuracy": 0.6968486462494452,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.2142042325612075,
+        "logloss": 0.621071240872259,
+        "majority_accuracy": 0.6968486462494452
+      },
+      "yearly": {
+        "2025": {
+          "n": 1123,
+          "prevalence": 0.3107747105966162,
+          "accuracy": 0.6892252894033838,
+          "balanced_accuracy": 0.5,
+          "auc": 0.6977466071388907,
+          "brier": 0.19412164702719345,
+          "logloss": 0.5633649631786588
+        },
+        "2026": {
+          "n": 1130,
+          "prevalence": 0.29557522123893804,
+          "accuracy": 0.7044247787610619,
+          "balanced_accuracy": 0.5,
+          "auc": 0.7090260433906057,
+          "brier": 0.18711357224708214,
+          "logloss": 0.5489099575442768
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.6775,
+        0.7155
+      ],
+      "independent_matches": 148,
+      "train_rows": 16515,
+      "gate_passed": false,
+      "gate_reason": "Accuracy below 70%",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Conditional on player facing at least one ball; cannot claim accuracy over all named squad members."
+    },
+    {
+      "name": "bat_50_plus_if_bats",
+      "task": "player_runs_milestone",
+      "features": [
+        "prior_matches",
+        "prior_mean_runs",
+        "prior_last5_runs",
+        "prior_mean_balls",
+        "prior_last5_balls",
+        "prior_mean_first_over",
+        "prior_last5_first_over"
+      ],
+      "target": "run_50_plus",
+      "selected_on_validation": "histboost",
+      "validation": {
+        "logistic": {
+          "n": 2286,
+          "prevalence": 0.12904636920384951,
+          "accuracy": 0.8709536307961505,
+          "balanced_accuracy": 0.5,
+          "auc": 0.7033157684154969,
+          "brier": 0.1066551088232214,
+          "logloss": 0.35797933381023983
+        },
+        "histboost": {
+          "n": 2286,
+          "prevalence": 0.12904636920384951,
+          "accuracy": 0.8709536307961505,
+          "balanced_accuracy": 0.5,
+          "auc": 0.709905592113664,
+          "brier": 0.1059589311327674,
+          "logloss": 0.35478569381473724
+        }
+      },
+      "holdout": {
+        "n": 2253,
+        "prevalence": 0.14336440301819794,
+        "accuracy": 0.856635596981802,
+        "balanced_accuracy": 0.5,
+        "auc": 0.7420539309260655,
+        "brier": 0.11269577093563214,
+        "logloss": 0.3653715007218398
+      },
+      "baseline": {
+        "n": 2253,
+        "prevalence": 0.14336440301819794,
+        "accuracy": 0.856635596981802,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.12402606040490229,
+        "logloss": 0.4167948606247109,
+        "majority_accuracy": 0.856635596981802
+      },
+      "yearly": {
+        "2025": {
+          "n": 1123,
+          "prevalence": 0.1371326803205699,
+          "accuracy": 0.8628673196794301,
+          "balanced_accuracy": 0.5,
+          "auc": 0.7464248857437712,
+          "brier": 0.10880387460361753,
+          "logloss": 0.35459410518683543
+        },
+        "2026": {
+          "n": 1130,
+          "prevalence": 0.1495575221238938,
+          "accuracy": 0.8504424778761062,
+          "balanced_accuracy": 0.5,
+          "auc": 0.7369265250078505,
+          "brier": 0.11656355817532453,
+          "logloss": 0.3760821336296362
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.8416,
+        0.8705
+      ],
+      "independent_matches": 148,
+      "train_rows": 16515,
+      "gate_passed": false,
+      "gate_reason": "Less than 3 percentage points above cohort majority baseline",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Conditional on player facing at least one ball; cannot claim accuracy over all named squad members."
+    },
+    {
+      "name": "bowl_1_plus_if_bowls",
+      "task": "player_wickets_milestone",
+      "features": [
+        "prior_matches",
+        "prior_mean_wickets",
+        "prior_last5_wickets",
+        "prior_mean_legal_balls",
+        "prior_last5_legal_balls",
+        "prior_mean_runs_conceded",
+        "prior_last5_runs_conceded"
+      ],
+      "target": "wickets_1_plus",
+      "selected_on_validation": "histboost",
+      "validation": {
+        "logistic": {
+          "n": 1755,
+          "prevalence": 0.5908831908831909,
+          "accuracy": 0.6182336182336182,
+          "balanced_accuracy": 0.5636310280082626,
+          "auc": 0.6006136460703282,
+          "brier": 0.23322545910724307,
+          "logloss": 0.6590317278558695
+        },
+        "histboost": {
+          "n": 1755,
+          "prevalence": 0.5908831908831909,
+          "accuracy": 0.6210826210826211,
+          "balanced_accuracy": 0.5615432345822936,
+          "auc": 0.6081650249944264,
+          "brier": 0.23201406993122056,
+          "logloss": 0.6565861098148243
+        }
+      },
+      "holdout": {
+        "n": 1722,
+        "prevalence": 0.6045296167247387,
+        "accuracy": 0.6236933797909407,
+        "balanced_accuracy": 0.5493658672828143,
+        "auc": 0.577469845017992,
+        "brier": 0.2330738771675409,
+        "logloss": 0.6587676485338395
+      },
+      "baseline": {
+        "n": 1722,
+        "prevalence": 0.6045296167247387,
+        "accuracy": 0.6045296167247387,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.24021042721943026,
+        "logloss": 0.6734696060552093,
+        "majority_accuracy": 0.6045296167247387
+      },
+      "yearly": {
+        "2025": {
+          "n": 868,
+          "prevalence": 0.6013824884792627,
+          "accuracy": 0.6175115207373272,
+          "balanced_accuracy": 0.5460545257236507,
+          "auc": 0.5828101122848979,
+          "brier": 0.23344691427733374,
+          "logloss": 0.6594643427076501
+        },
+        "2026": {
+          "n": 854,
+          "prevalence": 0.607728337236534,
+          "accuracy": 0.629976580796253,
+          "balanced_accuracy": 0.5526989330802634,
+          "auc": 0.5711586575791562,
+          "brier": 0.23269472469529245,
+          "logloss": 0.658059533144065
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.6006,
+        0.6463
+      ],
+      "independent_matches": 148,
+      "train_rows": 12978,
+      "gate_passed": false,
+      "gate_reason": "Accuracy below 70%",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Conditional on bowler bowling >= 1 delivery; wickets exclude run-outs and retirements."
+    },
+    {
+      "name": "bowl_2_plus_if_bowls",
+      "task": "player_wickets_milestone",
+      "features": [
+        "prior_matches",
+        "prior_mean_wickets",
+        "prior_last5_wickets",
+        "prior_mean_legal_balls",
+        "prior_last5_legal_balls",
+        "prior_mean_runs_conceded",
+        "prior_last5_runs_conceded"
+      ],
+      "target": "wickets_2_plus",
+      "selected_on_validation": "histboost",
+      "validation": {
+        "logistic": {
+          "n": 1755,
+          "prevalence": 0.2643874643874644,
+          "accuracy": 0.7350427350427351,
+          "balanced_accuracy": 0.49961270333075136,
+          "auc": 0.5792998277197575,
+          "brier": 0.19152083532754746,
+          "logloss": 0.568724940162315
+        },
+        "histboost": {
+          "n": 1755,
+          "prevalence": 0.2643874643874644,
+          "accuracy": 0.7356125356125356,
+          "balanced_accuracy": 0.5,
+          "auc": 0.5778157469483693,
+          "brier": 0.19116161141852434,
+          "logloss": 0.5680748258194284
+        }
+      },
+      "holdout": {
+        "n": 1722,
+        "prevalence": 0.2572590011614402,
+        "accuracy": 0.7427409988385598,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5764158652446095,
+        "brier": 0.18789839078863319,
+        "logloss": 0.5607493529607273
+      },
+      "baseline": {
+        "n": 1722,
+        "prevalence": 0.2572590011614402,
+        "accuracy": 0.7427409988385598,
+        "balanced_accuracy": 0.5,
+        "auc": 0.5,
+        "brier": 0.19125595908054627,
+        "logloss": 0.5706502833075472,
+        "majority_accuracy": 0.7427409988385598
+      },
+      "yearly": {
+        "2025": {
+          "n": 868,
+          "prevalence": 0.2511520737327189,
+          "accuracy": 0.7488479262672811,
+          "balanced_accuracy": 0.5,
+          "auc": 0.5732921665490472,
+          "brier": 0.1856473465212598,
+          "logloss": 0.5562371351220026
+        },
+        "2026": {
+          "n": 854,
+          "prevalence": 0.26346604215456676,
+          "accuracy": 0.7365339578454333,
+          "balanced_accuracy": 0.5,
+          "auc": 0.5779014308426073,
+          "brier": 0.1901863374210455,
+          "logloss": 0.5653355415836934
+        }
+      },
+      "ci_95_wilson_accuracy": [
+        0.7216,
+        0.7628
+      ],
+      "independent_matches": 148,
+      "train_rows": 12978,
+      "gate_passed": false,
+      "gate_reason": "Less than 3 percentage points above cohort majority baseline",
+      "deployment_status": "RESEARCH_ONLY_REJECTED",
+      "notes": "Conditional on bowler bowling >= 1 delivery; wickets exclude run-outs and retirements."
+    }
+  ]
+}

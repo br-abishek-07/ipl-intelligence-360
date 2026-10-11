@@ -1,0 +1,10 @@
+{
+  "source_archive": "IPL_Intelligence_360_V4Z_Fact_Checked_Fan_Wars.zip",
+  "distribution": "Streamlit public deployment bundle",
+  "file_count": 219,
+  "uncompressed_bytes": 17466667,
+  "python_version": "3.12",
+  "model_json_count": 4,
+  "python_syntax_files_passed": 64,
+  "checks": "file existence, Python AST syntax, credential pattern scan, source archive integrity; NOT remote deployment or browser certification"
+}

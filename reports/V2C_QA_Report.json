@@ -1,0 +1,46 @@
+{
+  "release": "IPL Intelligence 360 V2-C / 2026-10-09",
+  "upgraded_team_pages": 10,
+  "team_legacy_summaries": 10,
+  "alltime_source_matches": 1243,
+  "team_sidebar_filters": [
+    "season range",
+    "opponent",
+    "venue",
+    "match stage",
+    "team result",
+    "innings role",
+    "toss result",
+    "recorded participant"
+  ],
+  "team_glass_kpis": 12,
+  "team_analysis_tabs": 7,
+  "pytest_result": "43 passed",
+  "v2c_notebook_executed_code_cells": 6,
+  "v2c_notebook_execution_errors": 0,
+  "preserved_raw_and_model_files": true,
+  "preserved_file_checksums": {
+    "models/chase_after_108_balls.joblib": true,
+    "models/chase_after_60_balls.joblib": true,
+    "models/chase_after_90_balls.joblib": true,
+    "models/first_innings_180_after_60_balls.joblib": true,
+    "data/raw/auction_sales.csv": true,
+    "data/raw/deliveries.csv.gz": true,
+    "data/raw/lineups.csv.gz": true,
+    "data/raw/matches.csv.gz": true,
+    "data/raw/wickets.csv.gz": true,
+    "data/source/ipl_json.zip": true
+  },
+  "official_logos_embedded": false,
+  "player_photographs_embedded": false,
+  "captain_rankings_available_without_sourced_registry": false,
+  "actual_streamlit_browser_session": "Not tested in build environment (Streamlit package unavailable).",
+  "visual_preview": "Verified 10-team/season interactive design prototype using Chromium; not an actual Streamlit screenshot.",
+  "known_caveats": [
+    "All-time trophy cabinet is deliberately independent of slicers.",
+    "Player participant filter is not a confirmed starting XI.",
+    "Best captain needs sourced match-level captain data.",
+    "Phase and win-rate differences are descriptive, not causal.",
+    "Existing four machine-learning models retained, not retrained."
+  ]
+}

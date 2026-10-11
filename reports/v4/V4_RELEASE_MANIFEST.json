@@ -1,0 +1,24 @@
+{
+  "release": "V4.0",
+  "build_date": "2026-10-10",
+  "upstream": "V3-F",
+  "files_listed": 276,
+  "models_portable_preserved": true,
+  "deployment_status": "prepared_not_published",
+  "test_status": {
+    "non_smoke": "241 passed",
+    "selected_smoke": "2 passed",
+    "other_smoke": "3 not run",
+    "browser": "PENDING"
+  },
+  "important_sha256": {
+    "app.py": "32f171a380f4d001395f3be34e5e7780e1c369206422b8d470dacefccfe261aa",
+    "requirements.txt": "d7aca2a24782468f40e2aeb5191b76c1873dc8a888952a4282d8c36ad5f542a9",
+    "deliverables/IPL360_Capstone_Report_V4.pdf": "f1f50cd7423be784a8258192cb5712cb81ba490303c6796098eb5dfa40d1e81c",
+    "deliverables/IPL360_Viva_Presentation_V4.pptx": "e612cffc6e4daab3db3b839c54c1ab0d81b97de630061092f8c17637418a9662",
+    "models_portable/chase_after_60_balls.json": "61d514bb8a085d6d68563c73f8b173cfa13019fbe8d2db6f9cdc8eed05c22cd4",
+    "models_portable/chase_after_90_balls.json": "923f351bcdfe5367f54c85a6db755a5ac686760d49661708c553f55dea493539",
+    "models_portable/chase_after_108_balls.json": "27d5165257235ea0ad42d91a0085bf7b145696cc15e71fd61b7ab85f97bf1444",
+    "models_portable/first_innings_180_after_60_balls.json": "4e4e619487c9c4e3651dd21eac5482ccd8243ab28bbe0bd64ef829441f409f13"
+  }
+}

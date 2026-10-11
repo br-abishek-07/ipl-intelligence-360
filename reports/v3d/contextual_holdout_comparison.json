@@ -1,0 +1,112 @@
+{
+  "purpose": "research only; initial development <=2022, refit <=2024; retrospectively test 2025\u20132026; not untouched-future validated",
+  "rows": [
+    {
+      "checkpoint_legal_balls": 60,
+      "initial_training_matches": 912,
+      "final_training_matches": 1051,
+      "development_matches": 139,
+      "test_matches": 138,
+      "initial_training_years": "2008\u20132022",
+      "final_training_years": "2008\u20132024",
+      "development_years": "2023\u20132024",
+      "test_years": "2025\u20132026",
+      "context_model_test": {
+        "n": 138,
+        "accuracy": 0.77536,
+        "roc_auc": 0.89188,
+        "brier": 0.1425,
+        "log_loss": 0.4409,
+        "majority_baseline": 0.56522
+      },
+      "existing_scoreboard_model_same_test_matches": {
+        "n": 138,
+        "accuracy": 0.81159,
+        "roc_auc": 0.90011,
+        "brier": 0.13608,
+        "log_loss": 0.42229,
+        "majority_baseline": 0.56522
+      },
+      "context_model_dev": {
+        "n": 139,
+        "accuracy": 0.77698,
+        "roc_auc": 0.85866,
+        "brier": 0.15528,
+        "log_loss": 0.47158,
+        "majority_baseline": 0.52518
+      }
+    },
+    {
+      "checkpoint_legal_balls": 90,
+      "initial_training_matches": 857,
+      "final_training_matches": 990,
+      "development_matches": 133,
+      "test_matches": 132,
+      "initial_training_years": "2008\u20132022",
+      "final_training_years": "2008\u20132024",
+      "development_years": "2023\u20132024",
+      "test_years": "2025\u20132026",
+      "context_model_test": {
+        "n": 132,
+        "accuracy": 0.88636,
+        "roc_auc": 0.93966,
+        "brier": 0.10017,
+        "log_loss": 0.31108,
+        "majority_baseline": 0.56061
+      },
+      "existing_scoreboard_model_same_test_matches": {
+        "n": 132,
+        "accuracy": 0.89394,
+        "roc_auc": 0.95317,
+        "brier": 0.08746,
+        "log_loss": 0.27855,
+        "majority_baseline": 0.56061
+      },
+      "context_model_dev": {
+        "n": 133,
+        "accuracy": 0.85714,
+        "roc_auc": 0.93238,
+        "brier": 0.10773,
+        "log_loss": 0.3339,
+        "majority_baseline": 0.54135
+      }
+    },
+    {
+      "checkpoint_legal_balls": 108,
+      "initial_training_matches": 720,
+      "final_training_matches": 830,
+      "development_matches": 110,
+      "test_matches": 100,
+      "initial_training_years": "2008\u20132022",
+      "final_training_years": "2008\u20132024",
+      "development_years": "2023\u20132024",
+      "test_years": "2025\u20132026",
+      "context_model_test": {
+        "n": 100,
+        "accuracy": 0.88,
+        "roc_auc": 0.96639,
+        "brier": 0.0758,
+        "log_loss": 0.23188,
+        "majority_baseline": 0.51
+      },
+      "existing_scoreboard_model_same_test_matches": {
+        "n": 100,
+        "accuracy": 0.9,
+        "roc_auc": 0.97119,
+        "brier": 0.0685,
+        "log_loss": 0.21558,
+        "majority_baseline": 0.51
+      },
+      "context_model_dev": {
+        "n": 110,
+        "accuracy": 0.88182,
+        "roc_auc": 0.95245,
+        "brier": 0.08499,
+        "log_loss": 0.2809,
+        "majority_baseline": 0.60909
+      }
+    }
+  ],
+  "classification_gate": "70 percent is necessary not sufficient; must outperform majority baseline and improve scoring/calibration, verify on untouched season",
+  "player_limitation": "Player identities intentionally omitted: complete contemporaneous lineup/availability and prior-only player context not validated."
+}

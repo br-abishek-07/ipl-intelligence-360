@@ -1,0 +1,1030 @@
+{
+  "status": "PASS",
+  "filter_tests": 100,
+  "league_tests": 6,
+  "franchise_squad_checks": 10,
+  "total_programmatic_checks": 120,
+  "franchise_results": [
+    {
+      "team": "CSK",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 21,
+      "2026_matches": 14,
+      "2026_wins": 6
+    },
+    {
+      "team": "DC",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 22,
+      "2026_matches": 14,
+      "2026_wins": 7
+    },
+    {
+      "team": "GT",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 19,
+      "2026_matches": 17,
+      "2026_wins": 10
+    },
+    {
+      "team": "KKR",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 19,
+      "2026_matches": 14,
+      "2026_wins": 6
+    },
+    {
+      "team": "LSG",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 23,
+      "2026_matches": 14,
+      "2026_wins": 4
+    },
+    {
+      "team": "MI",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 24,
+      "2026_matches": 14,
+      "2026_wins": 4
+    },
+    {
+      "team": "PBKS",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 19,
+      "2026_matches": 14,
+      "2026_wins": 7
+    },
+    {
+      "team": "RCB",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 16,
+      "2026_matches": 16,
+      "2026_wins": 11
+    },
+    {
+      "team": "RR",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 20,
+      "2026_matches": 16,
+      "2026_wins": 9
+    },
+    {
+      "team": "SRH",
+      "2026_post_auction_snapshot": 25,
+      "2026_recorded_match_participants": 19,
+      "2026_matches": 15,
+      "2026_wins": 9
+    }
+  ],
+  "filter_samples": [
+    {
+      "team": "CSK",
+      "filter": "all_seasons",
+      "matches": 266,
+      "wins": 148,
+      "batters": 95,
+      "bowlers": 93,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "only_2026",
+      "matches": 14,
+      "wins": 6,
+      "batters": 17,
+      "bowlers": 14,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "last_5_seasons",
+      "matches": 72,
+      "wins": 31,
+      "batters": 46,
+      "bowlers": 40,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "won_matches",
+      "matches": 148,
+      "wins": 148,
+      "batters": 75,
+      "bowlers": 80,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "lost_matches",
+      "matches": 117,
+      "wins": 0,
+      "batters": 91,
+      "bowlers": 81,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "chasing",
+      "matches": 122,
+      "wins": 74,
+      "batters": 87,
+      "bowlers": 79,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "won_toss",
+      "matches": 133,
+      "wins": 79,
+      "batters": 83,
+      "bowlers": 77,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "2026_opponent",
+      "matches": 2,
+      "wins": 2,
+      "batters": 6,
+      "bowlers": 7,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "2026_venue",
+      "matches": 7,
+      "wins": 4,
+      "batters": 11,
+      "bowlers": 13,
+      "pass": true
+    },
+    {
+      "team": "CSK",
+      "filter": "2026_victories",
+      "matches": 6,
+      "wins": 6,
+      "batters": 11,
+      "bowlers": 9,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "all_seasons",
+      "matches": 281,
+      "wins": 129,
+      "batters": 170,
+      "bowlers": 119,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "only_2026",
+      "matches": 14,
+      "wins": 7,
+      "batters": 20,
+      "bowlers": 13,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "last_5_seasons",
+      "matches": 71,
+      "wins": 33,
+      "batters": 58,
+      "bowlers": 31,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "won_matches",
+      "matches": 129,
+      "wins": 129,
+      "batters": 112,
+      "bowlers": 100,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "lost_matches",
+      "matches": 148,
+      "wins": 0,
+      "batters": 168,
+      "bowlers": 111,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "chasing",
+      "matches": 157,
+      "wins": 78,
+      "batters": 157,
+      "bowlers": 112,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "won_toss",
+      "matches": 148,
+      "wins": 71,
+      "batters": 157,
+      "bowlers": 110,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "2026_opponent",
+      "matches": 2,
+      "wins": 0,
+      "batters": 13,
+      "bowlers": 7,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "2026_venue",
+      "matches": 7,
+      "wins": 2,
+      "batters": 17,
+      "bowlers": 12,
+      "pass": true
+    },
+    {
+      "team": "DC",
+      "filter": "2026_victories",
+      "matches": 7,
+      "wins": 7,
+      "batters": 13,
+      "bowlers": 11,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "all_seasons",
+      "matches": 77,
+      "wins": 47,
+      "batters": 41,
+      "bowlers": 34,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "only_2026",
+      "matches": 17,
+      "wins": 10,
+      "batters": 16,
+      "bowlers": 11,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "last_5_seasons",
+      "matches": 77,
+      "wins": 47,
+      "batters": 41,
+      "bowlers": 34,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "won_matches",
+      "matches": 47,
+      "wins": 47,
+      "batters": 29,
+      "bowlers": 33,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "lost_matches",
+      "matches": 30,
+      "wins": 0,
+      "batters": 40,
+      "bowlers": 30,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "chasing",
+      "matches": 43,
+      "wins": 28,
+      "batters": 36,
+      "bowlers": 30,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "won_toss",
+      "matches": 36,
+      "wins": 23,
+      "batters": 35,
+      "bowlers": 31,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "2026_opponent",
+      "matches": 4,
+      "wins": 1,
+      "batters": 13,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "2026_venue",
+      "matches": 8,
+      "wins": 5,
+      "batters": 15,
+      "bowlers": 9,
+      "pass": true
+    },
+    {
+      "team": "GT",
+      "filter": "2026_victories",
+      "matches": 10,
+      "wins": 10,
+      "batters": 11,
+      "bowlers": 10,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "all_seasons",
+      "matches": 278,
+      "wins": 142,
+      "batters": 135,
+      "bowlers": 101,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "only_2026",
+      "matches": 14,
+      "wins": 6,
+      "batters": 16,
+      "bowlers": 11,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "last_5_seasons",
+      "matches": 69,
+      "wins": 34,
+      "batters": 44,
+      "bowlers": 33,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "won_matches",
+      "matches": 142,
+      "wins": 142,
+      "batters": 95,
+      "bowlers": 84,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "lost_matches",
+      "matches": 134,
+      "wins": 0,
+      "batters": 130,
+      "bowlers": 93,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "chasing",
+      "matches": 145,
+      "wins": 84,
+      "batters": 115,
+      "bowlers": 88,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "won_toss",
+      "matches": 135,
+      "wins": 73,
+      "batters": 112,
+      "bowlers": 85,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "2026_opponent",
+      "matches": 2,
+      "wins": 1,
+      "batters": 12,
+      "bowlers": 7,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "2026_venue",
+      "matches": 7,
+      "wins": 3,
+      "batters": 16,
+      "bowlers": 11,
+      "pass": true
+    },
+    {
+      "team": "KKR",
+      "filter": "2026_victories",
+      "matches": 6,
+      "wins": 6,
+      "batters": 12,
+      "bowlers": 9,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "all_seasons",
+      "matches": 72,
+      "wins": 34,
+      "batters": 50,
+      "bowlers": 37,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "only_2026",
+      "matches": 14,
+      "wins": 4,
+      "batters": 21,
+      "bowlers": 15,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "last_5_seasons",
+      "matches": 72,
+      "wins": 34,
+      "batters": 50,
+      "bowlers": 37,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "won_matches",
+      "matches": 34,
+      "wins": 34,
+      "batters": 37,
+      "bowlers": 32,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "lost_matches",
+      "matches": 37,
+      "wins": 0,
+      "batters": 48,
+      "bowlers": 35,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "chasing",
+      "matches": 31,
+      "wins": 13,
+      "batters": 43,
+      "bowlers": 32,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "won_toss",
+      "matches": 30,
+      "wins": 16,
+      "batters": 39,
+      "bowlers": 32,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "2026_opponent",
+      "matches": 2,
+      "wins": 1,
+      "batters": 11,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "2026_venue",
+      "matches": 7,
+      "wins": 2,
+      "batters": 20,
+      "bowlers": 13,
+      "pass": true
+    },
+    {
+      "team": "LSG",
+      "filter": "2026_victories",
+      "matches": 4,
+      "wins": 4,
+      "batters": 11,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "all_seasons",
+      "matches": 291,
+      "wins": 157,
+      "batters": 149,
+      "bowlers": 128,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "only_2026",
+      "matches": 14,
+      "wins": 4,
+      "batters": 21,
+      "bowlers": 14,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "last_5_seasons",
+      "matches": 74,
+      "wins": 30,
+      "batters": 56,
+      "bowlers": 56,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "won_matches",
+      "matches": 157,
+      "wins": 157,
+      "batters": 98,
+      "bowlers": 101,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "lost_matches",
+      "matches": 134,
+      "wins": 0,
+      "batters": 143,
+      "bowlers": 115,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "chasing",
+      "matches": 141,
+      "wins": 79,
+      "batters": 126,
+      "bowlers": 111,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "won_toss",
+      "matches": 160,
+      "wins": 86,
+      "batters": 132,
+      "bowlers": 111,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "2026_opponent",
+      "matches": 2,
+      "wins": 0,
+      "batters": 15,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "2026_venue",
+      "matches": 7,
+      "wins": 2,
+      "batters": 19,
+      "bowlers": 13,
+      "pass": true
+    },
+    {
+      "team": "MI",
+      "filter": "2026_victories",
+      "matches": 4,
+      "wins": 4,
+      "batters": 10,
+      "bowlers": 14,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "all_seasons",
+      "matches": 278,
+      "wins": 129,
+      "batters": 157,
+      "bowlers": 119,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "only_2026",
+      "matches": 14,
+      "wins": 7,
+      "batters": 15,
+      "bowlers": 12,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "last_5_seasons",
+      "matches": 74,
+      "wins": 35,
+      "batters": 46,
+      "bowlers": 34,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "won_matches",
+      "matches": 129,
+      "wins": 129,
+      "batters": 122,
+      "bowlers": 96,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "lost_matches",
+      "matches": 146,
+      "wins": 0,
+      "batters": 153,
+      "bowlers": 112,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "chasing",
+      "matches": 134,
+      "wins": 72,
+      "batters": 137,
+      "bowlers": 100,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "won_toss",
+      "matches": 129,
+      "wins": 58,
+      "batters": 136,
+      "bowlers": 100,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "2026_opponent",
+      "matches": 2,
+      "wins": 1,
+      "batters": 8,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "2026_venue",
+      "matches": 4,
+      "wins": 3,
+      "batters": 10,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "PBKS",
+      "filter": "2026_victories",
+      "matches": 7,
+      "wins": 7,
+      "batters": 10,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "all_seasons",
+      "matches": 286,
+      "wins": 145,
+      "batters": 163,
+      "bowlers": 124,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "only_2026",
+      "matches": 16,
+      "wins": 11,
+      "batters": 13,
+      "bowlers": 9,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "last_5_seasons",
+      "matches": 76,
+      "wins": 45,
+      "batters": 43,
+      "bowlers": 34,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "won_matches",
+      "matches": 145,
+      "wins": 145,
+      "batters": 117,
+      "bowlers": 110,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "lost_matches",
+      "matches": 138,
+      "wins": 0,
+      "batters": 160,
+      "bowlers": 116,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "chasing",
+      "matches": 141,
+      "wins": 78,
+      "batters": 150,
+      "bowlers": 116,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "won_toss",
+      "matches": 136,
+      "wins": 74,
+      "batters": 151,
+      "bowlers": 110,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "2026_opponent",
+      "matches": 4,
+      "wins": 3,
+      "batters": 11,
+      "bowlers": 7,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "2026_venue",
+      "matches": 5,
+      "wins": 4,
+      "batters": 10,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "RCB",
+      "filter": "2026_victories",
+      "matches": 11,
+      "wins": 11,
+      "batters": 12,
+      "bowlers": 8,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "all_seasons",
+      "matches": 251,
+      "wins": 125,
+      "batters": 160,
+      "bowlers": 119,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "only_2026",
+      "matches": 16,
+      "wins": 9,
+      "batters": 18,
+      "bowlers": 13,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "last_5_seasons",
+      "matches": 76,
+      "wins": 39,
+      "batters": 52,
+      "bowlers": 40,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "won_matches",
+      "matches": 125,
+      "wins": 125,
+      "batters": 113,
+      "bowlers": 102,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "lost_matches",
+      "matches": 124,
+      "wins": 0,
+      "batters": 150,
+      "bowlers": 108,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "chasing",
+      "matches": 134,
+      "wins": 73,
+      "batters": 138,
+      "bowlers": 101,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "won_toss",
+      "matches": 137,
+      "wins": 67,
+      "batters": 135,
+      "bowlers": 107,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "2026_opponent",
+      "matches": 3,
+      "wins": 1,
+      "batters": 12,
+      "bowlers": 10,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "2026_venue",
+      "matches": 4,
+      "wins": 1,
+      "batters": 13,
+      "bowlers": 12,
+      "pass": true
+    },
+    {
+      "team": "RR",
+      "filter": "2026_victories",
+      "matches": 9,
+      "wins": 9,
+      "batters": 13,
+      "bowlers": 11,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "all_seasons",
+      "matches": 211,
+      "wins": 103,
+      "batters": 114,
+      "bowlers": 87,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "only_2026",
+      "matches": 15,
+      "wins": 9,
+      "batters": 18,
+      "bowlers": 13,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "last_5_seasons",
+      "matches": 73,
+      "wins": 34,
+      "batters": 52,
+      "bowlers": 43,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "won_matches",
+      "matches": 103,
+      "wins": 103,
+      "batters": 80,
+      "bowlers": 73,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "lost_matches",
+      "matches": 107,
+      "wins": 0,
+      "batters": 111,
+      "bowlers": 81,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "chasing",
+      "matches": 99,
+      "wins": 50,
+      "batters": 100,
+      "bowlers": 74,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "won_toss",
+      "matches": 100,
+      "wins": 43,
+      "batters": 101,
+      "bowlers": 75,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "2026_opponent",
+      "matches": 3,
+      "wins": 2,
+      "batters": 12,
+      "bowlers": 7,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "2026_venue",
+      "matches": 7,
+      "wins": 5,
+      "batters": 15,
+      "bowlers": 12,
+      "pass": true
+    },
+    {
+      "team": "SRH",
+      "filter": "2026_victories",
+      "matches": 9,
+      "wins": 9,
+      "batters": 12,
+      "bowlers": 13,
+      "pass": true
+    }
+  ],
+  "league_filter_examples": [
+    {
+      "filter": "all",
+      "matches": 1243,
+      "runs": 401423,
+      "wickets": 14674,
+      "pass": true
+    },
+    {
+      "filter": "2026",
+      "matches": 74,
+      "runs": 27450,
+      "wickets": 880,
+      "pass": true
+    },
+    {
+      "filter": "CSK_2026",
+      "matches": 14,
+      "runs": 5042,
+      "wickets": 166,
+      "pass": true
+    },
+    {
+      "filter": "2026_CSK_won",
+      "matches": 6,
+      "runs": 2108,
+      "wickets": 71,
+      "pass": true
+    },
+    {
+      "filter": "2026_CSK_chase",
+      "matches": 6,
+      "runs": 2248,
+      "wickets": 75,
+      "pass": true
+    },
+    {
+      "filter": "2026_MI",
+      "matches": 14,
+      "runs": 5189,
+      "wickets": 165,
+      "pass": true
+    }
+  ],
+  "limitations": [
+    "Data-layer execution, not a real Streamlit browser session",
+    "2026 roster is a dated December 2025 post-auction snapshot; it is not proof of the final season-registration list",
+    "2026 participant list includes Impact Players and is not a confirmed starting XI"
+  ]
+}

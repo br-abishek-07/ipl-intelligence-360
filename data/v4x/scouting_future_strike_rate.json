@@ -1,0 +1,40 @@
+{
+  "title": "scouting_future_strike_rate",
+  "task": "regression",
+  "features": [
+    "ipl_prior_sr",
+    "experience_log",
+    "sma_prior_sr",
+    "sma_experience_log",
+    "bbl_prior_sr",
+    "bbl_experience_log"
+  ],
+  "mean": [
+    120.88203948450169,
+    4.725368607284755,
+    110.8215711018358,
+    1.1119490557232297,
+    110.15154666532774,
+    0.8844201197042191
+  ],
+  "scale": [
+    14.781726124486312,
+    2.684698741010752,
+    10.688785016739788,
+    2.1805533285800114,
+    9.582102766065375,
+    1.9222453847769003
+  ],
+  "coefficients": [
+    5.426539559225891,
+    -2.1484959792899496,
+    2.0994316719473516,
+    0.07957685730268703,
+    3.393079961899479,
+    0.7061346064382987
+  ],
+  "intercept": 126.56370503574476,
+  "train_max_season": 2023,
+  "n_training": 1376,
+  "reference": "Pure NumPy portable linear predictor, no sklearn runtime dependency"
+}

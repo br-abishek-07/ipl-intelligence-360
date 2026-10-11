@@ -1,0 +1,34 @@
+[
+  {
+    "file": "data/raw/matches.csv.gz",
+    "sha256": "6f570ad03733ede5f181e59de69508048ea4710d34f49529c5fcf224ca83bec2"
+  },
+  {
+    "file": "data/raw/deliveries.csv.gz",
+    "sha256": "76ee011e2aeee06c7198c6b02b9c746b6c081e34fa2993c8a40738d83af6e000"
+  },
+  {
+    "file": "data/raw/lineups.csv.gz",
+    "sha256": "b5eaf3b53b80679a9972a4cc8209af662bc9512445fdd184a31632bf8a56acc7"
+  },
+  {
+    "file": "data/raw/auction_sales.csv",
+    "sha256": "ce27fb39a33c987f9383019294e1f8584d9859ad827caede727af93dfe28244e"
+  },
+  {
+    "file": "models_portable/chase_after_108_balls.json",
+    "sha256": "27d5165257235ea0ad42d91a0085bf7b145696cc15e71fd61b7ab85f97bf1444"
+  },
+  {
+    "file": "models_portable/first_innings_180_after_60_balls.json",
+    "sha256": "4e4e619487c9c4e3651dd21eac5482ccd8243ab28bbe0bd64ef829441f409f13"
+  },
+  {
+    "file": "models_portable/chase_after_60_balls.json",
+    "sha256": "61d514bb8a085d6d68563c73f8b173cfa13019fbe8d2db6f9cdc8eed05c22cd4"
+  },
+  {
+    "file": "models_portable/chase_after_90_balls.json",
+    "sha256": "923f351bcdfe5367f54c85a6db755a5ac686760d49661708c553f55dea493539"
+  }
+]

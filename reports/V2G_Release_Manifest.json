@@ -1,0 +1,51 @@
+{
+  "release": "V2-G",
+  "total_regression_tests_passed": 108,
+  "executed_notebook_code_cells": 5,
+  "qualified_retrospective_models": {
+    "chase_after_60_balls": {
+      "matches": 136,
+      "accuracy": 0.8235294117647058,
+      "majority_accuracy": 0.5735294117647058,
+      "brier": 0.13351034005858436
+    },
+    "chase_after_90_balls": {
+      "matches": 130,
+      "accuracy": 0.9,
+      "majority_accuracy": 0.5692307692307692,
+      "brier": 0.08608124173180293
+    },
+    "chase_after_108_balls": {
+      "matches": 98,
+      "accuracy": 0.9081632653061225,
+      "majority_accuracy": 0.5,
+      "brier": 0.06419989356323084
+    },
+    "first_innings_180_after_60_balls": {
+      "matches": 145,
+      "accuracy": 0.8206896551724138,
+      "majority_accuracy": 0.6620689655172414,
+      "brier": 0.12774927465147318
+    }
+  },
+  "prior_source_data_and_model_files_unchanged_sha256": true,
+  "new_features": [
+    "checkpoint probability gauges",
+    "chase what-if plots",
+    "180+ sensitivity heatmap",
+    "two-scenario comparison",
+    "holdout confusion matrix",
+    "retrospective calibration",
+    "threshold lab",
+    "season-by-season evaluation",
+    "five interpretive lab tabs",
+    "shared full-screen chart controls"
+  ],
+  "known_limitations": [
+    "no independent future-season confirmation",
+    "manual state inputs only",
+    "no Streamlit browser session tested",
+    "historical checkpoint conditioning",
+    "captaincy/photo assets still pending"
+  ]
+}

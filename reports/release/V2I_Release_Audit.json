@@ -1,0 +1,284 @@
+{
+  "release": "IPL Intelligence 360 V2-I",
+  "date": "2026-10-09",
+  "automated_checks": {
+    "total": 36,
+    "passed": 36,
+    "failed": 0
+  },
+  "source_integrity": {
+    "data/source/ipl_json.zip": {
+      "present": true,
+      "bytes": 5187770,
+      "sha256": "5757e04287179767ff8495f02902bd13812b9572ec8fa2ac1347ec2e9c6d4709",
+      "purpose": "raw IPL JSON archive"
+    },
+    "data/analytics/team_match_summary.csv": {
+      "present": true,
+      "bytes": 476013,
+      "sha256": "92752bd8116676a1f76699fb99a7c91a67c00e22830448b2e30818c866fb375a",
+      "purpose": "match-level franchise analysis"
+    },
+    "data/analytics/team_phase_match.csv": {
+      "present": true,
+      "bytes": 370613,
+      "sha256": "d046a66eef9eeb7255a0c46ccfba42cec283139cc794e350096e05e83bbfca20",
+      "purpose": "match-level innings phase analysis"
+    },
+    "models_portable/chase_after_60_balls.json": {
+      "present": true,
+      "bytes": 193955,
+      "sha256": "61d514bb8a085d6d68563c73f8b173cfa13019fbe8d2db6f9cdc8eed05c22cd4",
+      "purpose": "portable qualified checkpoint model"
+    },
+    "models_portable/chase_after_90_balls.json": {
+      "present": true,
+      "bytes": 1262,
+      "sha256": "923f351bcdfe5367f54c85a6db755a5ac686760d49661708c553f55dea493539",
+      "purpose": "portable qualified checkpoint model"
+    },
+    "models_portable/chase_after_108_balls.json": {
+      "present": true,
+      "bytes": 1257,
+      "sha256": "27d5165257235ea0ad42d91a0085bf7b145696cc15e71fd61b7ab85f97bf1444",
+      "purpose": "portable qualified checkpoint model"
+    },
+    "models_portable/first_innings_180_after_60_balls.json": {
+      "present": true,
+      "bytes": 913,
+      "sha256": "4e4e619487c9c4e3651dd21eac5482ccd8243ab28bbe0bd64ef829441f409f13",
+      "purpose": "portable qualified checkpoint model"
+    }
+  },
+  "checks": [
+    {
+      "check": "Packaged immutable file: data/source/ipl_json.zip",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Packaged immutable file: data/analytics/team_match_summary.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Packaged immutable file: data/analytics/team_phase_match.csv",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Packaged immutable file: models_portable/chase_after_60_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Packaged immutable file: models_portable/chase_after_90_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Packaged immutable file: models_portable/chase_after_108_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Packaged immutable file: models_portable/first_innings_180_after_60_balls.json",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "1,243 unique IPL matches",
+      "passed": true,
+      "details": "1243 matches"
+    },
+    {
+      "check": "19 seasons, 2008 through 2026",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Exactly two franchise match rows per match",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Team-match IDs link to source matches",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Phase rows link to source matches",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "No invalid delivery run totals",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "No duplicate delivery positions",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Super Over results accounted separately",
+      "passed": true,
+      "details": "16 recovered, 9 unresolved"
+    },
+    {
+      "check": "Ten current franchise routes",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Team coverage in records",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Exactly four provisional checkpoint models",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Reported checkpoint accuracies >=70%",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Holdout studies flagged retrospective",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Holdout records present: chase_after_60_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Accuracy reproduces for chase_after_60_balls",
+      "passed": true,
+      "details": "accuracy 0.823529; matches 136"
+    },
+    {
+      "check": "One prediction per match for chase_after_60_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Holdout records present: chase_after_90_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Accuracy reproduces for chase_after_90_balls",
+      "passed": true,
+      "details": "accuracy 0.900000; matches 130"
+    },
+    {
+      "check": "One prediction per match for chase_after_90_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Holdout records present: chase_after_108_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Accuracy reproduces for chase_after_108_balls",
+      "passed": true,
+      "details": "accuracy 0.908163; matches 98"
+    },
+    {
+      "check": "One prediction per match for chase_after_108_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Holdout records present: first_innings_180_after_60_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Accuracy reproduces for first_innings_180_after_60_balls",
+      "passed": true,
+      "details": "accuracy 0.820690; matches 145"
+    },
+    {
+      "check": "One prediction per match for first_innings_180_after_60_balls",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Chart viewer has interactive full-screen control",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Player Intelligence page shipped",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Team DNA page shipped",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "check": "Captaincy disclaimer exists",
+      "passed": true,
+      "details": ""
+    }
+  ],
+  "performance": {
+    "read_matches_csv": {
+      "runs_ms": [
+        7.16,
+        7.64,
+        7.73
+      ],
+      "median_ms": 7.64
+    },
+    "read_team_match_csv": {
+      "runs_ms": [
+        8.76,
+        10.38,
+        10.24
+      ],
+      "median_ms": 10.24
+    },
+    "read_phase_csv": {
+      "runs_ms": [
+        7.2,
+        9.13,
+        9.31
+      ],
+      "median_ms": 9.13
+    },
+    "build_csk_team_dna_2022_2026": {
+      "runs_ms": [
+        94.7,
+        119.4,
+        119.71
+      ],
+      "median_ms": 119.4
+    },
+    "portable_model_inference_one_chase_state": {
+      "runs_ms": [
+        3.28,
+        0.1,
+        0.08
+      ],
+      "median_ms": 0.1
+    }
+  },
+  "limitations": [
+    "Source contains 9 matches without resolved final winner.",
+    "Cricsheet match participants can include Impact Players and substitutes.",
+    "Four qualifying checkpoint models are RETROSPECTIVE research candidates; future blind validation is required.",
+    "Captaincy rankings need sourced match-by-match captain records; no unsupported rankings are published.",
+    "End-to-end Streamlit browser testing, remote franchise logo loading, responsive UI and media permissions require manual acceptance."
+  ]
+}

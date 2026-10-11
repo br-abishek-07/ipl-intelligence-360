@@ -1,0 +1,38 @@
+{
+  "release": "V2-D hotfix",
+  "date": "2026-10-09",
+  "source": "IPL_Intelligence_360_Capstone_V2_ABCD",
+  "changes": [
+    "Unique Streamlit Plotly chart keys in all view modules",
+    "Exact portable (non-pickle) predictions for four Phase 3D models",
+    "Corrected CSK IPL-hosted logo directory capitalization",
+    "Clearer descriptive franchise KPIs, tab names and 19 chart titles",
+    "Simplified runtime requirements and Windows launch guide"
+  ],
+  "validation": {
+    "tests_other_than_page_smoke": "62 passed",
+    "page_smoke": "1 passed independently",
+    "original_vs_portable_predictions": 1280,
+    "max_probability_absolute_deviation": 2.3e-16,
+    "real_streamlit_browser_verified": false,
+    "csko_remote_logo_reachability_verified": false
+  },
+  "portable_files": {
+    "chase_after_108_balls.json": {
+      "bytes": 1257,
+      "sha256": "27d5165257235ea0ad42d91a0085bf7b145696cc15e71fd61b7ab85f97bf1444"
+    },
+    "chase_after_60_balls.json": {
+      "bytes": 193955,
+      "sha256": "61d514bb8a085d6d68563c73f8b173cfa13019fbe8d2db6f9cdc8eed05c22cd4"
+    },
+    "chase_after_90_balls.json": {
+      "bytes": 1262,
+      "sha256": "923f351bcdfe5367f54c85a6db755a5ac686760d49661708c553f55dea493539"
+    },
+    "first_innings_180_after_60_balls.json": {
+      "bytes": 913,
+      "sha256": "4e4e619487c9c4e3651dd21eac5482ccd8243ab28bbe0bd64ef829441f409f13"
+    }
+  }
+}

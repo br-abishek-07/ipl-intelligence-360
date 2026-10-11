@@ -1,0 +1,28 @@
+{
+  "release": "IPL Intelligence 360 - V2-E Records Legends Universal Chart Fullscreen",
+  "date": "2026-10-09",
+  "regression_tests_passed": 79,
+  "smoke_tests_included": true,
+  "original_cricsheet_sha256": "5757e04287179767ff8495f02902bd13812b9572ec8fa2ac1347ec2e9c6d4709",
+  "original_data_unchanged_from_v2d_fixed": true,
+  "franchises": 10,
+  "prediction_models_retained": 4,
+  "records_page": "pages/15_Records_and_Legends.py",
+  "awards": {
+    "source_match_count": 1243,
+    "award_rows": 1234,
+    "unique_award_matches": 1234,
+    "matches_without_award": 9,
+    "missing_match_ids": 0,
+    "unresolved_award_team_or_identity": 0,
+    "resolved_awards": 1234,
+    "method": "Exact Cricsheet person-ID and match-team membership; no guesses.",
+    "notes": "A record is an awarded Player-of-Match mention, not necessarily a performance-quality score."
+  },
+  "visual_policy": "Every Plotly visual uses dashboard.chart_ui.render_chart: descriptive title, stable key, Full screen dialog, interactive HTML export.",
+  "limitations": [
+    "Browser rendering not verified in the build container (Streamlit not installed).",
+    "Captaincy match registry awaits independently sourced scorecards.",
+    "Licensed player portraits are not bundled."
+  ]
+}

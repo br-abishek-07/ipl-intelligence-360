@@ -1,0 +1,17 @@
+{
+  "data/raw": {
+    "files": 5,
+    "preserved": true,
+    "changed": []
+  },
+  "models_portable": {
+    "files": 4,
+    "preserved": true,
+    "changed": []
+  },
+  "data/analytics": {
+    "files": 18,
+    "preserved": true,
+    "changed": []
+  }
+}
